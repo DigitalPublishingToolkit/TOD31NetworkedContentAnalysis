@@ -478,9 +478,8 @@ of a platform. Making technicity explicit in this way is comparative to
 the functionality of the People’s Dashboard, as it offers a view on the
 entanglement of user content with the platform.
 
- 
-
 ![](imgs/figure18.png)
+
 Figure 18: The People’s Dashboard. This mockup of the People’s Dashboard was developed during the Digital Methods Winter School of 2015, as a critical layer on top of the interfaces of dominant social media platform interfaces, revealing content of the people and of the platform. A third category is mixed content, indicating that people’s content has been re-ordered or repurposed (e.g. Facebook News feed or birthday notifications). The plugin works with Facebook and is available on Github: http://bit.ly/peoplesdashboard. Digital Methods Initiative, ‘The People's Dashboard'.
 
 I would like to conclude here that networked content analysis remains
