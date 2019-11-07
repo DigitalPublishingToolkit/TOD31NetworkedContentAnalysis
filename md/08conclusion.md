@@ -1,18 +1,14 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Networked Content Analysis: The Case of Climate Change
+P-id: Theory on Demand
+A-id: 32
 Type: article
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
+Item-id: 03
+Article-title: conclusion
 Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Author: Sabine Niederer
 Rights: CC BY-NC 4.0
 ...
 
@@ -482,6 +478,8 @@ analysis of networked content, which is amendable to suit the technicity
 of a platform. Making technicity explicit in this way is comparative to
 the functionality of the People’s Dashboard, as it offers a view on the
 entanglement of user content with the platform.
+
+![](imgs/figure18.png)
 
 Figure 18: The People’s Dashboard. This mockup of the People’s Dashboard
 was developed during the Digital Methods Winter School of 2015, as a
