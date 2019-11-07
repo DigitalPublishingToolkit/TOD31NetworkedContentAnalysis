@@ -1,38 +1,38 @@
 ---
-Pr-id: Networked Content Analysis: The Case of Climate Change
-P-id: Theory on Demand
-A-id: 31
-Type: Colophon
-Book-type: Dissertation
-Anthology item: title page
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
 Item-id: unique no.
-Article-title: Colophon
+Article-title: title of the article
 Article-status: accepted
-Author: Sabine Niederer
-Rights: CC BY-NC-SA 4.0
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
 ...
 
 
 # Colophon
-Theory on Demand #31 
-<br/>**Networked Content Analysis: The Case of Climate Change**
 
-Author: Sabine Niederer
-<br/> Editing:
-<br/>Image editing: Carlo de Gaetano 
-<br/>Production: Sepp Eckenhaussen
-<br/>Cover design: Katja van Stiphout 
-<br/>Published by the Institute of Network Cultures, Amsterdam, 2019
-<br/>ISBN 
+Theory on Demand \#31 **Networked Content Analysis: The Case of Climate
+Change**
 
-**Contact** 
-<br/>Institute of Network Cultures
-<br/>Phone: +3120 5951865
-<br/>Email: info@networkcultures.org
-<br/>Web: http://www.networkcultures.org
+Author: Sabine Niederer Editing: Image editing: Carlo de Gaetano
+Production: Sepp Eckenhaussen Cover design: Katja van Stiphout Published
+by the Institute of Network Cultures, Amsterdam, 2019 ISBN
+978-94-92302-43-4
 
-This publication is published under the Creative Commons Attribution-NonCommercial-NoDerrivatives 4.0 International (CC BY-NC-SA 4.0) licence.
+**Contact** Institute of Network Cultures Phone: +3120 5951865 Email:
+info@networkcultures.org Web: http://www.networkcultures.org
 
-This publication may be ordered through various print-on-demand-services or freely downloaded from http://www.networkcultures.org/publications.
+This publication is published under the Creative Commons
+Attribution-NonCommercial-NoDerrivatives 4.0 International (CC BY-NC-SA
+4.0) licence.
 
-![](imgs/networkcultures.jpg)
+This publication may be ordered through various print-on-demand-services
+or freely downloaded from http://www.networkcultures.org/publications.

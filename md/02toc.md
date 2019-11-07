@@ -17,6 +17,20 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Networked Content Analysis: The Case of Climate Change
+# Table of Contents
 
-## Sabine Niederer
+1\. Introduction
+
+2\. Foundations of Content Analysis
+
+3\. Climate Debate Actors in Science and on the Web
+
+4\. Wikipedia as a Socio-technical Utility for Networked Content Analysis
+
+5\. Mapping the Resonance of Climate Change Discourses in Twitter
+
+6\. Conclusion
+
+Bibliography
+
+Acknowledgments of Collaborative Work

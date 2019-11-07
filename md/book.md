@@ -1,4 +1,5 @@
 
+
 # Networked Content Analysis: The Case of Climate Change
 
 ## Sabine Niederer
@@ -6,28 +7,46 @@
 
 
 # Colophon
-Theory on Demand #31 
-<br/>**Networked Content Analysis: The Case of Climate Change**
 
-Author: Sabine Niederer
-<br/> Editing:
-<br/>Image editing: Carlo de Gaetano 
-<br/>Production: Sepp Eckenhaussen
-<br/>Cover design: Katja van Stiphout 
-<br/>Published by the Institute of Network Cultures, Amsterdam, 2019
-<br/>ISBN 
+Theory on Demand \#31 **Networked Content Analysis: The Case of Climate
+Change**
 
-**Contact** 
-<br/>Institute of Network Cultures
-<br/>Phone: +3120 5951865
-<br/>Email: info@networkcultures.org
-<br/>Web: http://www.networkcultures.org
+Author: Sabine Niederer Editing: Image editing: Carlo de Gaetano
+Production: Sepp Eckenhaussen Cover design: Katja van Stiphout Published
+by the Institute of Network Cultures, Amsterdam, 2019 ISBN
+978-94-92302-43-4
 
-This publication is published under the Creative Commons Attribution-NonCommercial-NoDerrivatives 4.0 International (CC BY-NC-SA 4.0) licence.
+**Contact** Institute of Network Cultures Phone: +3120 5951865 Email:
+info@networkcultures.org Web: http://www.networkcultures.org
 
-This publication may be ordered through various print-on-demand-services or freely downloaded from http://www.networkcultures.org/publications.
+This publication is published under the Creative Commons
+Attribution-NonCommercial-NoDerrivatives 4.0 International (CC BY-NC-SA
+4.0) licence.
 
-![](imgs/networkcultures.jpg)
+This publication may be ordered through various print-on-demand-services
+or freely downloaded from http://www.networkcultures.org/publications.
+
+
+
+# Table of Contents
+
+1\. Introduction
+
+2\. Foundations of Content Analysis
+
+3\. Climate Debate Actors in Science and on the Web
+
+4\. Wikipedia as a Socio-technical Utility for Networked Content Analysis
+
+5\. Mapping the Resonance of Climate Change Discourses in Twitter
+
+6\. Conclusion
+
+Bibliography
+
+Acknowledgments of Collaborative Work
+
+
 
 # 1. Introduction
 
@@ -37,9 +56,9 @@ methods and tools for social research with the web at the University of
 Amsterdam, titled ‘New Objects of Study’. One week of the summer school
 was dedicated to ‘Controversy Mapping - Citizen Equipment for
 Second-degree Objectivity’ and the keynote speaker was the famous
-sociologist and philosopher Bruno Latour.[^1] Via Skype, Latour provided
+sociologist and philosopher Bruno Latour.[^03ch01introduction_1] Via Skype, Latour provided
 an introduction to the mapping of controversies, based on the
-educational program he had developed at Sciences Po in Paris.[^2] He
+educational program he had developed at Sciences Po in Paris.[^03ch01introduction_2] He
 started by outlining how to define and detect a ‘good’ controversy. A
 controversy is a ‘shared uncertainty about facts’, that manifests
 publicly through a range of attitudes. Latour includes consensus and
@@ -71,14 +90,14 @@ stressed that researchers should describe all these dynamics of a
 controversy *without translating* what they observe into a more common
 or analytically familiar language. Steering clear of predefined keywords
 and categories enables researchers to better ‘follow the actors’ and log
-actors’ language, connections, and formats (Latour, 2007).[^3]
+actors’ language, connections, and formats (Latour, 2007).[^03ch01introduction_3]
 
 In Latour’s approach, the actors of a controversy may be found at a
 specific event or gathering, in a collection of writings, an e-mail
 exchange, and so on. For my first experiment with a controversy mapping
 research practice, which I conducted with Esther Weltevrede, we looked
 at animals most frequently depicted and mentioned in the climate change
-debate on the web.[^4] Looking at three different online spaces: the
+debate on the web.[^03ch01introduction_4] Looking at three different online spaces: the
 news (accessed through Google News), the web (accessed through Google
 Web Search) and the blogosphere (accessed through Technorati, the
 dominant blogosphere search engine at the time), we created word and
@@ -107,12 +126,12 @@ think-tank, had organized the first international conference of climate
 change skepticism. The conference was titled *Global Warming Is Not a
 Crisis!*, and featured event elements common to any scientific event:
 seemingly esteemed keynote speakers, parallel sessions, and online
-proceedings.[^5] The conference website stated that over 200 scientists
+proceedings.[^03ch01introduction_5] The conference website stated that over 200 scientists
 from leading universities had participated in the event. For this
 controversy mapping exercise, I partnered with Andrei Mogoutov, the
 developer of a software tool for ‘scientometric analysis’ called
 ReseauLu, to examine the scientific publishing and citation networks of
-prominent speakers at this event.[^6][^7]
+prominent speakers at this event.[^03ch01introduction_6][^03ch01introduction_7]
 
 Our first query related to the apparent eventfulness of the inaugural
 Heartland conference. We wanted to know whether the scientific research
@@ -135,7 +154,7 @@ relationship to various controversies *as such*—writing critically or
 presenting as skeptics on a variety of subjects? Lastly, with Nijhof, I
 analyzed the hyperlinking behavior of these actors and their resonance
 within the top search engine results for the query of ‘climate
-change’.[^8] Upon discovering in these studies that the most prominent
+change’.[^03ch01introduction_8] Upon discovering in these studies that the most prominent
 climate actors were skeptics first and foremost (as discussed in detail
 in chapter 3), this geared me towards further studies of the controversy
 and its actors and ultimately led to the formulation of this book
@@ -157,17 +176,17 @@ actors’ websites) and resonance analysis (querying the prominence of
 these actors in the Google.fr search results for the query ‘changement
 climatique’). Our results were published in *EcoTerra* and on Delbecq’s
 blog, and resulted in the outing of a famous French skeptic, who had
-until then operated under a pseudonym.[^9][^10]
+until then operated under a pseudonym.[^03ch01introduction_9][^03ch01introduction_10]
 
 Soon after, in October 2011, the Royal Dutch Academy of Sciences (KNAW)
 published a report titled ‘Climate Change: Science and Debate’, aiming
 to articulate the current state of global climate science by delineating
-topics of consensus from those of controversy.[^11] In response to these
+topics of consensus from those of controversy.[^03ch01introduction_11] In response to these
 developments in the Netherlands, I collected a list of non-skeptical
 actors from the contributors to the KNAW report, and a second list from
 the line-up of a skeptical gathering that was organized at Nieuwspoort
 in the Hague in critical response to the KNAW report, to conduct an
-analysis of Dutch climate skepticism similar to that of the French.[^12]
+analysis of Dutch climate skepticism similar to that of the French.[^03ch01introduction_12]
 This made it possible to start to compare the two national situations.
 The Dutch study is discussed in detail in Chapter 3.
 
@@ -189,7 +208,7 @@ posed my queries directly to them regarding their specific
 methodological approaches and tactics, assumedly to bypass the public
 nature and impact of my research findings. Somewhat overwhelmed by these
 direct responses but also by their tone, I decided not to write back at
-this time.[^13][^14] I wanted to continue my research without getting to
+this time.[^03ch01introduction_13][^03ch01introduction_14] I wanted to continue my research without getting to
 know the actors personally and interfering with my ‘objects of study,’
 given that observational distance is (also) necessary for both of the
 approaches which I will introduce later in this chapter, namely ‘content
@@ -240,9 +259,9 @@ controversies. Scientific controversies are said to ‘destabilize’ a
 system or convention of scientific truth claims, and in doing so reveal
 underlying dynamics of science and technology and their relations with a
 wider society that under normal circumstances tend to remain
-hidden.[^15] STS scholars Trevor Pinch and Christine Leuenberger
+hidden.[^03ch01introduction_15] STS scholars Trevor Pinch and Christine Leuenberger
 describe four influential approaches, which partly overlap
-chronologically, within STS-informed controversy analysis.[^16] Firstly,
+chronologically, within STS-informed controversy analysis.[^03ch01introduction_16] Firstly,
 the ‘Priority Dispute studies’ problematize claims towards who was the
 first scientist to make a particular scientific discovery. A second
 approach looks at the negative impacts — real or potential — of
@@ -252,17 +271,17 @@ modification). A third key area of STS, as Pinch and Leuenberger note,
 is the Sociology of Scientific Knowledge (SSK), which emerged in the
 1970s and operationalized the ideal of ‘symmetry’ to urge social
 researchers to ‘use the same explanatory resources to explain both
-successful and unsuccessful knowledge claims’.[^17] This principle can
+successful and unsuccessful knowledge claims’.[^03ch01introduction_17] This principle can
 be applied especially well to scientific controversies, where different
 scientists each claim to present the truth and to refute the research
 methodology, argumentation, or outcomes of other(s). Symmetrical
 analysis enables the researchers of a controversy to study both (or all)
 sides of the story, including the scientific claims made by actors
 internal to the controversy object, by using ‘the same sorts of
-sociological resources’.[^18] Fourthly, Pinch and Leuenberger identify
+sociological resources’.[^03ch01introduction_18] Fourthly, Pinch and Leuenberger identify
 ‘modern science and technology studies’ that build heavily on SSK to
 regard controversies as ‘integral to many features of scientific and
-technological practice and dissemination’.[^19]
+technological practice and dissemination’.[^03ch01introduction_19]
 
 While STS has a strong tradition and methodological framework to study
 scientific controversies, it does not explicitly outline or champion
@@ -279,11 +298,11 @@ research techniques upon at this point, controversy analysis (as
 developed in education at Sciences Po, Paris) and ‘issue mapping’ (as
 developed by the Digital Methods Initiative at the University of
 Amsterdam) offer digital means of controversy analysis from similar
-scholarly traditions but with a distinct angle.[^20] While the Parisian
+scholarly traditions but with a distinct angle.[^03ch01introduction_20] While the Parisian
 school stems from STS and operationalizes Actor-Network Theory to zoom
 in on a *controversy*, the Amsterdam approach builds on science and
 technology studies to track *issues* more broadly, be they controversial
-or not.[^21][^22][^23][^24][^25]
+or not.[^03ch01introduction_21][^03ch01introduction_22][^03ch01introduction_23][^03ch01introduction_24][^03ch01introduction_25]
 
 This book makes integrative use of controversy analysis as well as
 digital methods (and tools) for issue mapping to conduct an analysis of
@@ -306,10 +325,10 @@ prime-time television footage to record all representations of violence
 and construct ‘violence profiles,' for this material. These
 representations were then interpreted and turned into ‘cultural
 indicators,' which referred both to trends in network television's
-dramatic content and to viewer conceptions of social reality.[^26][^27]
+dramatic content and to viewer conceptions of social reality.[^03ch01introduction_26][^03ch01introduction_27]
 Content analysis has since been described as ‘indigenous to
 communication research and \[as\] potentially one of the most important
-research techniques in the social sciences’.[^28]
+research techniques in the social sciences’.[^03ch01introduction_28]
 
 It is essential to emphasize that I understand content analysis to have
 always been inclusive of *potentially* all content types. By taking mass
@@ -317,7 +336,7 @@ media as its most prominent raw data source, however, this kind of
 scholarship tended to be ‘dominated by content analyses of newspapers,
 magazines, books, \[radio\] broadcasts, films, comics, and television
 programming’ as one of its key scholars, Klaus Krippendorf pointed
-out.[^29] Krippendorf, who I take to be centrally informative for my own
+out.[^03ch01introduction_29] Krippendorf, who I take to be centrally informative for my own
 work, has made explicit since content analysis’ earliest methodological
 formation that (more or less publicly communicated) data of any kind
 could potentially be studied through content analysis. He mentions
@@ -331,7 +350,7 @@ innovator of this field of media research, Krippendorff’s assertion that
 ‘anything that occurs in sufficient numbers and has reasonably stable
 meanings for a specific group of people may be subjected to content
 analysis’, is a key driver of my own development of ‘networked content
-analysis’.[^30]
+analysis’.[^03ch01introduction_30]
 
 If, in practice, content analysis has mostly focused on neatly
 demarcated sets of texts or other media materials such as television
@@ -343,13 +362,13 @@ opportunities for navigation and interaction. It can be networked by
 in-text hyperlinks (creating a so-called ‘hypertext’), or by suggestions
 of related articles or other recommendation systems, or pulled into
 social media by prevalent ‘Like’ and ‘Share’ buttons on websites, urging
-users to link content to their own user profiles.[^31] Online content is
+users to link content to their own user profiles.[^03ch01introduction_31] Online content is
 *networked*. It is dynamic rather than stable; it often changes over
 time or moves from the front page to the archive. Social media further
 scatters content, offering a ‘live feed’ that is referred to as the
 qualitative and quantitative *real-timeness* of social media data, the
 content of which can be linked to, copied onto other networks, and
-archived across the (social) web.[^32] These social media platforms each
+archived across the (social) web.[^03ch01introduction_32] These social media platforms each
 format, rank, and serve content in unique ways, which makes it important
 to start developing adaptive, digital methods that are attuned to the
 diverse specificities of these platforms.
@@ -368,12 +387,12 @@ scholars throughout different phases in the history of the web are
 described extensively in Chapter 2, and can be summed up as broadly
 presenting two distinct approaches. The first, as described by McMillan,
 argues for standardization of methods towards the analysis of web
-content, which McMillan characterizes as a ‘moving target’.[^33] A
+content, which McMillan characterizes as a ‘moving target’.[^03ch01introduction_33] A
 second approach is formulated by Herring in response to McMillan, who
 proposes to combine traditional content analysis techniques with
 methodologies from disciplines such as linguistics and sociology to
 offer a more workable response to the challenges offered by ‘new online
-media’.[^34]
+media’.[^03ch01introduction_34]
 
 While these two approaches each offer ways forward for the analysis of
 web content, they are not concerned with the vast differences between
@@ -381,7 +400,7 @@ different web platforms—the specific technicalities of which contribute
 significantly to the meaning of networked content. It is important to
 note that web content currently exists in and through the platforms and
 engines that produce it, which means a clean separation of content from
-its carrier is no longer feasible.[^35] Different web platforms and
+its carrier is no longer feasible.[^03ch01introduction_35] Different web platforms and
 search engines each carry their own (often visually undisclosed) formats
 and formatting; they have their own scenarios of use and their own terms
 of service; further, they also output their own results and rankings.
@@ -398,7 +417,7 @@ as ‘followers' or not), and hashtags to network and aggregate individual
 content around specific events, issues, opinions, and themes. Content
 can include retweets of someone else's message (in several distinct
 ways, as described by Bruns and Burgess), which generates yet another
-layer to the networking of content.[^36][^37] These specificities of how
+layer to the networking of content.[^03ch01introduction_36][^03ch01introduction_37] These specificities of how
 platforms and engines serve, format, redistribute, and essentially
 co-produce content is what I refer to as the *technicity* of content.
 
@@ -424,7 +443,7 @@ content analysis’.
 The central thesis of this study is that different web platforms and
 engines serve content with different technicities, which I argue are a
 crucial aspect of the object of study (i.e., web content) and should,
-therefore, be included in the analysis.[^38][^39][^40][^41] How can
+therefore, be included in the analysis.[^03ch01introduction_38][^03ch01introduction_39][^03ch01introduction_40][^03ch01introduction_41] How can
 these insights from digital methods inform the application of content
 analysis to web content? As I am persistently emphasizing, developing
 means of collecting and analyzing digital media content across platforms
@@ -455,7 +474,7 @@ Climate change is defined by the United Nations Framework Convention on
 Climate Change (UNFCC) as the ‘change of climate which is attributed
 directly or indirectly to human activity that alters the composition of
 the global atmosphere and which is in addition to natural climate
-variability observed over comparable time periods’.[^42] The UNFCC
+variability observed over comparable time periods’.[^03ch01introduction_42] The UNFCC
 distinguishes between human-attributed climate change and natural
 climate variability, a complex distinction that lies at the core of what
 is one of the most contentious and world-changing controversy objects of
@@ -468,7 +487,7 @@ controversy object is to engage with a wide variety of (offline and
 online) media and knowledge spaces. Climate change remains on the agenda
 of NGOs and governments alike. Scholars have named it amongst the
 greatest threats (or ‘risks,’ to speak with Ulrich Beck) of our times
-and as a crisis of formidable scale.[^43][^44] This book does not
+and as a crisis of formidable scale.[^03ch01introduction_43][^03ch01introduction_44] This book does not
 contribute to climate *science* but instead focuses entirely on
 developing a networked content analysis of the climate controversy as it
 is specifically mediated and transformed by online platforms and actors,
@@ -486,7 +505,7 @@ content on climate change. Looking at how technicity can be included in
 the analysis of networked climate change content, I take to three online
 platforms that each represent a different web culture, if you will. The
 web as accessed through the search engine Google is for many Internet
-users the main point of access to web content.[^45] Twitter is one of
+users the main point of access to web content.[^03ch01introduction_45] Twitter is one of
 the most prominent social platforms online, with its content available
 through an API. Wikipedia is the most-used online equivalent of an
 encyclopedia. As climate change is present across distinct sites of
@@ -516,26 +535,26 @@ article *Up and Down with Ecology: the “Issue Attention Cycle”,* Anthony
 Downs described how the environment, like any societal issue, is subject
 to a rise and fall in public interest. He uses the notion of the ‘issue
 attention cycle’ to describe common dynamics in public attention that
-occur for ‘most key domestic issues’.[^46] Downs’ articulation of the
+occur for ‘most key domestic issues’.[^03ch01introduction_46] Downs’ articulation of the
 issue attention cycle knows five stages: (1) the pre-problem stage, (2)
 alarmed discovery and euphoric enthusiasm, (3) realization of the cost
 of significant progress, (4) gradual decline of intense public interest
-and, lastly, (5) the post-problem stage.[^47] Downs sees the ‘remarkably
+and, lastly, (5) the post-problem stage.[^03ch01introduction_47] Downs sees the ‘remarkably
 widespread upsurge of interest in the quality of our environment’ as
 involving such an issue attention cycle, in which the ‘change in public
 attitudes has been much faster than any changes in the environment
-itself’.[^48] Downs’ work has been subjected to strong criticism, mainly
+itself’.[^03ch01introduction_48] Downs’ work has been subjected to strong criticism, mainly
 on the linearity assumed by his proposed cycle model, and on the
 research’s focus more on mediation as such, over the mediation of this
 specific and urgent issue, as described thoroughly by McComas and
-Shanahan.[^49] With these qualifications, analysts of media content have
+Shanahan.[^03ch01introduction_49] With these qualifications, analysts of media content have
 taken up Downs’ approach and further extended its application to
 environment-related issues.
 
 In what they refer to as a ‘(de)construction’ of the issue attention
 cycle for environmental issues, McComas and Shanahan compare the climate
 change news coverage of the major US newspapers, *The New York Times*
-and *The Washington Post*, between 1980-1995.[^50] Their research
+and *The Washington Post*, between 1980-1995.[^03ch01introduction_50] Their research
 confirms the cyclical nature of attention to the issue of climate
 change, and even recognizes different stages that dialogue with Downs’
 own, in which:
@@ -545,17 +564,17 @@ own, in which:
 > among scientists receives greater attention in the maintenance phase.
 > The economics of dealing with global warming also receive more
 > considerable attention during the maintenance phase and downside of
-> the attention cycle.[^51]
+> the attention cycle.[^03ch01introduction_51]
 
 Where these researchers stress the importance of the ‘role played by
 narratives in driving media attention to environmental issues’, others
 have stressed how real-life events (such as extreme weather) are a
 crucial catalyst in the garnering of public attention for an issue of
-‘celebrity status’.[^52] [^53] A concept that builds on this analytical
+‘celebrity status’.[^03ch01introduction_52] [^03ch01introduction_53] A concept that builds on this analytical
 approach to issue attention is the ‘news spiral’, which refers to the
 phenomenon that once the climate is in the news, this creates a general
 upsurge of interest in (and reporting on) other environmental
-issues.[^54] The retrieval and analyses of attention and news cycles fit
+issues.[^03ch01introduction_54] The retrieval and analyses of attention and news cycles fit
 into the ongoing methods and applications of content analysis at large.
 
 Chapter 2 discusses the early disciplinary formation of content analysis
@@ -571,7 +590,7 @@ demarcation of the content under study. To grapple with these technical
 specificities of web content, researchers either stay close to
 traditional content analysis techniques or choose to pull in methods
 from other disciplines and seek more extended paradigms of web content
-analysis.[^55][^56][^57] In this chapter, I will give an overview of
+analysis.[^03ch01introduction_55][^03ch01introduction_56][^03ch01introduction_57] In this chapter, I will give an overview of
 these strategies preceding my research, and introduce novel means of
 networked content analysis that include the technicity of web content as
 part of the analysis and repositions content analysis (in the tradition
@@ -647,7 +666,7 @@ climate change), skepticism (towards the man-made origins and
 unprecedentedness of climate change), mitigation (the prevention of
 further climate change by minimizing its causes), and conflict (here
 taken to mean political unrest relatable to so-called ‘climate change
-vulnerability’).[^58] Given climate vulnerability has recently become a
+vulnerability’).[^03ch01introduction_58] Given climate vulnerability has recently become a
 prominent and focalizing discourse within climate change, both in the
 scientific literature (as mapped out by the IPCC in 2014) and in news
 coverage around climate change, I will zoom in on this issue in more
@@ -688,13 +707,13 @@ in* traditional mass media content, I show how combined and interlinked
 findings across platforms provide a more comprehensive mapping of a
 multi-platformed issue.
 
-[^1]: See also the summer school’s wiki page:
+[^03ch01introduction_1]: See also the summer school’s wiki page:
     https://wiki.digitalmethods.net/Dmi/MappingControversies.
 
-[^2]: B. Latour, 'Mapping Controversies', presented at the Digital
+[^03ch01introduction_2]: B. Latour, 'Mapping Controversies', presented at the Digital
     Methods Summer School, University of Amsterdam, Amsterdam, 2007.
 
-[^3]: Tommaso Venturini, working with Bruno Latour in the Controversy
+[^03ch01introduction_3]: Tommaso Venturini, working with Bruno Latour in the Controversy
     Mapping educational and research program of Sciences Po describes
     ‘three commandments of observation’: ‘1. You shall not restrain your
     observation to any single theory or methodology; 2. You shall
@@ -703,14 +722,14 @@ multi-platformed issue.
     'Diving in Magma: How to Explore Controversies with Actor-network
     Theory', *Public Understanding of Science* 19.3 (2009): 260.
 
-[^4]: Digital Methods Initiative, 'Issue Image Analysis', 2007,
+[^03ch01introduction_4]: Digital Methods Initiative, 'Issue Image Analysis', 2007,
     https://wiki.digitalmethods.net/Dmi/IssueImageAnalysis.
 
-[^5]: The Heartland Institute, 'First International Conference on
+[^03ch01introduction_5]: The Heartland Institute, 'First International Conference on
     Climate Change (ICCC-1)', 2008,
     http://climateconferences.heartland.org/iccc1/.
 
-[^6]: Scientometrics uses data sets of scientific publications and
+[^03ch01introduction_6]: Scientometrics uses data sets of scientific publications and
     assesses these through citation analysis. More specifically, a
     scientometric analysis can extend from tracking citational behavior
     and referencing, to understanding these processes as constructing
@@ -719,43 +738,43 @@ multi-platformed issue.
     influence and authority. P. Wouters, *The Citation Culture*,
     Amsterdam: University of Amsterdam, 1999.
 
-[^7]: See also A. Cambrosio, P. Cottereau, S. Popowycz, A. Mogoutov, and
+[^03ch01introduction_7]: See also A. Cambrosio, P. Cottereau, S. Popowycz, A. Mogoutov, and
     T. Vichnevskaia, 'Analysis of Heterogenous Networks: The ReseauLu
     Project', in B. Reber and C. Brossaud (eds.) *Digital Cognitive
     Technologies: Epistemology and the Knowledge Economy*, Hoboken, NJ:
     John Wiley & Sons, Inc, 2013.
 
-[^8]: These studies were published on the online research platform
+[^03ch01introduction_8]: These studies were published on the online research platform
     mappingcontroversies.net (as part of the EU 7th Framework project
     *Macospol*). S. Niederer, 'Climate Change Skeptics in Science',
     2009,
     http://www.mappingcontroversies.net/Home/PlatformClimateChangeSkepticsScience.
 
-[^9]: D. Delbecq, 'A \[F\]rench Climate Skeptic Comes Out: He Is a
+[^03ch01introduction_9]: D. Delbecq, 'A \[F\]rench Climate Skeptic Comes Out: He Is a
     Physicist', *Effets de Terre*, 2010,
     http://effetsdeterre.fr/2010/04/21/a-french-climate-skeptic-comes-out-he-is-a-physicist/.
     D. Delbecq, 'Dossier Climato-sceptiques', *TerraEco* (April 2010):
     50–62.
 
-[^10]: D. Delbecq, and S. Niederer, 'Climatosceptiques et Climatologues,
+[^03ch01introduction_10]: D. Delbecq, and S. Niederer, 'Climatosceptiques et Climatologues,
     Quelle Place sur l’Internet?', 2010,
     http://effetsdeterre.fr/2010/04/12/climatosceptiques-quelle-place-sur-linternet/.
 
-[^11]: KNAW, *Klimaatverandering, Wetenschap en Debat*, Amsterdam:
+[^03ch01introduction_11]: KNAW, *Klimaatverandering, Wetenschap en Debat*, Amsterdam:
     Koninklijke Nederlandse Academie van Wetenschappen, 2011,
     https://www.knaw.nl/nl/actueel/publicaties/klimaatverandering-wetenschap-en-debat/@@download/pdf\_file/20101047.pdf.
 
-[^12]: Nieuwspoort is a forum for political debate, situated next to the
+[^03ch01introduction_12]: Nieuwspoort is a forum for political debate, situated next to the
     House of Representatives’ building in the city center of The Hague.
     ‘Nieuwspoort’, http://www.nieuwspoort.nl/over-nieuwspoort/.
 
-[^13]: The question of how precisely I was able to label and split these
+[^03ch01introduction_13]: The question of how precisely I was able to label and split these
     actors as either skeptical or non-skeptical climate scientists I
     consider valid. Here, I followed the Latourian logic of there being
     no groups without ‘group holders’ and ‘group talkers’. Bruno Latour,
     *Reassembling the Social*, Oxford: Oxford University Press, 2005.
 
-[^14]: Somebody may not be a climate expert in daily life, but when this
+[^03ch01introduction_14]: Somebody may not be a climate expert in daily life, but when this
     person is one of the editors of a publication on the climate
     controversy and consensus (in the KNAW example), they at that moment
     perform to identify with a ‘group’ of climate experts. Similarly,
@@ -764,41 +783,41 @@ multi-platformed issue.
     skeptical ‘group makers, group talkers, and group holders’. Latour,
     *Reassembling the Social,* 32.
 
-[^15]: T. Pinch and C. Leuenberger, 'Studying Scientific Controversy
+[^03ch01introduction_15]: T. Pinch and C. Leuenberger, 'Studying Scientific Controversy
     from the STS Perspective: Concluding Remarks on Panel "Citizen
     Participation and Science and Technology"', in *East Asian Science,
     Technology and Society*, 2006,
     http://fr.curriculumforge.org/TravaillongVincentr?action=AttachFile&do=get&target=Pinch+studying.pdf.
 
-[^16]: Pinch and Leuenberger, 'Studying Scientific Controversy from the
+[^03ch01introduction_16]: Pinch and Leuenberger, 'Studying Scientific Controversy from the
     STS Perspective’, 4.
 
-[^17]: Pinch and Leuenberger, 'Studying Scientific Controversy from the
+[^03ch01introduction_17]: Pinch and Leuenberger, 'Studying Scientific Controversy from the
     STS Perspective’, 12.
 
-[^18]: Pinch and Leuenberger, 'Studying Scientific Controversy from the
+[^03ch01introduction_18]: Pinch and Leuenberger, 'Studying Scientific Controversy from the
     STS Perspective’, 12.
 
-[^19]: Pinch and Leuenberger, 'Studying Scientific Controversy from the
+[^03ch01introduction_19]: Pinch and Leuenberger, 'Studying Scientific Controversy from the
     STS Perspective’, 5.
 
-[^20]: The third of which is content analysis, central to the next
+[^03ch01introduction_20]: The third of which is content analysis, central to the next
     chapter.
 
-[^21]: N. Marres, 'Why Map Issues? On Controversy Analysis as a Digital
+[^03ch01introduction_21]: N. Marres, 'Why Map Issues? On Controversy Analysis as a Digital
     Method', *Science, Technology & Human Values*, 0162243915574602,
     2015, http://doi.org/10.1177/0162243915574602.
 
-[^22]: T. Venturini, 'Diving in Magma: How to Explore Controversies with
+[^03ch01introduction_22]: T. Venturini, 'Diving in Magma: How to Explore Controversies with
     Actor-network Theory', *Public Understanding of Science* 19.3
     (2009): 258–273.
 
-[^23]: R. Rogers and N. Marres, 'Landscaping Climate Change: A Mapping
+[^03ch01introduction_23]: R. Rogers and N. Marres, 'Landscaping Climate Change: A Mapping
     Technique for Understanding Science and Technology Debates on the
     World Wide Web', *Public Understanding of Science* 9.2 (2000):
     141–163.
 
-[^24]: Latour’s *Mapping Controversies* educational program has
+[^03ch01introduction_24]: Latour’s *Mapping Controversies* educational program has
     culminated in the Médialab Sciences Po in Paris in 2009, which
     develops digital tools and methods for Controversy Mapping. Sciences
     Po’s approach is ‘interdisciplinary’ and describes its work as
@@ -806,7 +825,7 @@ multi-platformed issue.
     analyze and visualize public contestation over topical affairs’.
     Marres, ‘Why Map Issues?’.
 
-[^25]: When analyzing controversy, researchers team up with programmers,
+[^03ch01introduction_25]: When analyzing controversy, researchers team up with programmers,
     data analysts, and information designers to create maps that make
     web content *differently* legible for further analysis. In my own
     research practice, I have worked in similar teams associated with
@@ -814,52 +833,52 @@ multi-platformed issue.
     participated in ‘sprints' as part of the EU-projects MACOSPOL and
     EMAPS, in which we analyzed controversies through web data.
 
-[^26]: G. Gerbner, 'Toward "Cultural Indicators": The Analysis of Mass
+[^03ch01introduction_26]: G. Gerbner, 'Toward "Cultural Indicators": The Analysis of Mass
     Mediated Public Message Systems', *Educational Technology Research
     and Development* 17.2 (1969): 137–148.
 
-[^27]: G. Gerbner, 'Cultural Indicators: The Case of Violence in
+[^03ch01introduction_27]: G. Gerbner, 'Cultural Indicators: The Case of Violence in
     Television Drama', *The Annals of the American Academy of Political
     and Social Science* 388.1 (1970): 69–81.
 
-[^28]: K. Krippendorff, *Content Analysis: An Introduction to its
+[^03ch01introduction_28]: K. Krippendorff, *Content Analysis: An Introduction to its
     Methodology*, first edition, Beverly Hills, CA: Sage Publications,
     1980.
 
-[^29]: Krippendorff, *Content Analysis,* 404.
+[^03ch01introduction_29]: Krippendorff, *Content Analysis,* 404.
 
-[^30]: Krippendorff, *Content Analysis.*
+[^03ch01introduction_30]: Krippendorff, *Content Analysis.*
 
-[^31]: C. Gerlitz and A. Helmond, 'The Like Economy: Social Buttons and
+[^03ch01introduction_31]: C. Gerlitz and A. Helmond, 'The Like Economy: Social Buttons and
     the Data-intensive Web', *New Media & Society*, 2013,
     http://nms.sagepub.com/content/early/2013/02/03/1461444812472322.
 
-[^32]: L. Back, C. Lury, and R. Zimmer, 'Doing Real Time Research:
+[^03ch01introduction_32]: L. Back, C. Lury, and R. Zimmer, 'Doing Real Time Research:
     Opportunities and Challenges', *National Centre for Research Methods
     (NRCM)*, *Methodological review paper*, 2012,
     http://eprints.ncrm.ac.uk/3157/1/real\_time\_research.pdf.
 
-[^33]: S. McMillan, 'The Microscope and the Moving Target: The Challenge
+[^03ch01introduction_33]: S. McMillan, 'The Microscope and the Moving Target: The Challenge
     of Applying Content Analysis to the World Wide Web', *Journalism and
     Mass Communication Quarterly* 77 (2000): 80–88.
 
-[^34]: S. Herring, 'Web Content Analysis: Expanding the Paradigm', in J.
+[^03ch01introduction_34]: S. Herring, 'Web Content Analysis: Expanding the Paradigm', in J.
     Hunsinger et al. (eds) *International Handbook of Internet
     Research*, Dordrecht: Springer, 2010, pp. 233-249.
 
-[^35]: Krippendorf stands out, as I emphasize in Chapter 2, in including
+[^03ch01introduction_35]: Krippendorf stands out, as I emphasize in Chapter 2, in including
     this fact from the beginning, well before this research method had
     to deal with online networked content.
 
-[^36]: A. Bruns and J.E. Burgess, 'The use of Twitter Hashtags in the
+[^03ch01introduction_36]: A. Bruns and J.E. Burgess, 'The use of Twitter Hashtags in the
     Formation of Ad Hoc Publics', in *Proceedings of the 6th European
     Consortium for Political Research (ECPR) General Conference 2011*,
     2011, http://eprints.qut.edu.au/46515.
 
-[^37]: A. Helmond, *The Web as Platform: Data Flows in Social Media,*
+[^03ch01introduction_37]: A. Helmond, *The Web as Platform: Data Flows in Social Media,*
     Ph.D. Thesis, 19 June 2015, University of Amsterdam, Amsterdam.
 
-[^38]: Here it is important to point out that the attention to the
+[^03ch01introduction_38]: Here it is important to point out that the attention to the
     technicity of content at the core of my research necessitates the
     recognition of the spatial organization and geo-location of content,
     as well as dislocation and censorship, which all problematize the
@@ -878,31 +897,31 @@ multi-platformed issue.
     Practice and Policy of Global Internet Filtering*, Cambridge, MA:
     MIT Press, 2008.
 
-[^39]: See also: R. König and M. Rasch, eds. *Society of the Query
+[^03ch01introduction_39]: See also: R. König and M. Rasch, eds. *Society of the Query
     Reader: Reflections on Web Search*, Amsterdam: Institute of Network
     Cultures, 2014. What this research underlines is that the web may be
     ‘worldwide’ in its infrastructure, but it is not in its access to
     content.
 
-[^40]: R. Deibert, J. Palfrey, R. Rohozinski, J. Zittrain, and M.
+[^03ch01introduction_40]: R. Deibert, J. Palfrey, R. Rohozinski, J. Zittrain, and M.
     Haraszti, *Access Controlled: The Shaping of Power, Rights, and Rule
     in Cyberspace*, Cambridge, MA: MIT Press, 2010.
 
-[^41]: R. Rogers, E. Weltevrede, S. Niederer, and E. Borra, 'National
+[^03ch01introduction_41]: R. Rogers, E. Weltevrede, S. Niederer, and E. Borra, 'National
     Web Studies: The case of Iran', in J. Hartley, J. Burgess and A.
     Bruns (eds) *Blackwell Companion to New Media Dynamics*, Oxford:
     Blackwell, 2013, pp. 142-166.
 
-[^42]: United Nations, 'United Nations Framework Convention on Climate
+[^03ch01introduction_42]: United Nations, 'United Nations Framework Convention on Climate
     Change', 1992,
     https://unfccc.int/files/essential\_background/background\_publications\_htmlpdf/application/pdf/conveng.pdf.
 
-[^43]: U. Beck, *World at Risk*, Cambridge: Polity Press, 2009.
+[^03ch01introduction_43]: U. Beck, *World at Risk*, Cambridge: Polity Press, 2009.
 
-[^44]: B. Latour, 'Waiting for Gaia: Composing the Common World Through
+[^03ch01introduction_44]: B. Latour, 'Waiting for Gaia: Composing the Common World Through
     Arts and Politics', *Equilibri* 16.3 (2012): 515–538.
 
-[^45]: The dominance of Google Web Search has been critically assessed
+[^03ch01introduction_45]: The dominance of Google Web Search has been critically assessed
     by scholars including Carr, Lovink, and Vaidhyanathan. See: N. Carr,
     *The Big Switch: Rewiring the World, from Edison to Google*, New
     York, NY: W.W. Norton & Company, 2008. G. Lovink, 'The Society of
@@ -912,48 +931,49 @@ multi-platformed issue.
     Vaidhyanathan, *The Googlization of Everything: (And Why We Should
     Worry)*, Berkeley, CA: University of California Press, 2011.
 
-[^46]: A. Downs, 'Up and Down with Ecology: The Issue-attention Cycle',
+[^03ch01introduction_46]: A. Downs, 'Up and Down with Ecology: The Issue-attention Cycle',
     *The Public Interest* 28 (1972): 38.
 
-[^47]: Downs, ‘Up and Down with Ecology’, 39-40.
+[^03ch01introduction_47]: Downs, ‘Up and Down with Ecology’, 39-40.
 
-[^48]: Downs, ‘Up and Down with Ecology’, 38.
+[^03ch01introduction_48]: Downs, ‘Up and Down with Ecology’, 38.
 
-[^49]: K. McComas and J. Shanahan, 'Telling Stories About Global Climate
+[^03ch01introduction_49]: K. McComas and J. Shanahan, 'Telling Stories About Global Climate
     Change Measuring the Impact of Narratives on Issue Cycles',
     *Communication Research* 26.1 (1999): 30–57.
 
-[^50]: McComas and Shanahan, ‘Telling Stories About Global Climate
+[^03ch01introduction_50]: McComas and Shanahan, ‘Telling Stories About Global Climate
     Change Measuring the Impact of Narratives on Issue Cycles’.
 
-[^51]: McComas and Shanahan, ‘Telling Stories About Global Climate
+[^03ch01introduction_51]: McComas and Shanahan, ‘Telling Stories About Global Climate
     Change Measuring the Impact of Narratives on Issue Cycles’, 30.
 
-[^52]: McComas and Shanahan, ‘Telling Stories About Global Climate
+[^03ch01introduction_52]: McComas and Shanahan, ‘Telling Stories About Global Climate
     Change Measuring the Impact of Narratives on Issue Cycles’, 33. S.
 
-[^53]: Ungar, 'The Rise and (Relative) Decline of Global Warming as a
+[^03ch01introduction_53]: Ungar, 'The Rise and (Relative) Decline of Global Warming as a
     Social Problem', *The Sociological Quarterly* 33.4 (1992): 483–501.
 
-[^54]: M. Djerf-Pierre, 'When Attention Drives Attention: Issue Dynamics
+[^03ch01introduction_54]: M. Djerf-Pierre, 'When Attention Drives Attention: Issue Dynamics
     in Environmental News Reporting Over Five Decades', *European
     Journal of Communication*, 27.3 (2012): 291–304.
 
-[^55]: McMillan, 'The Microscope and the Moving Target'.
+[^03ch01introduction_55]: McMillan, 'The Microscope and the Moving Target'.
 
-[^56]: Herring, 'Web Content Analysis’.
+[^03ch01introduction_56]: Herring, 'Web Content Analysis’.
 
-[^57]: C. Weare and W. Lin, 'Content Analysis of the World Wide Web:
+[^03ch01introduction_57]: C. Weare and W. Lin, 'Content Analysis of the World Wide Web:
     Opportunities and Challenges', *Social Science Computer Review* 18
     (2010): 272–292.
 
-[^58]: In the EMAPS Digital Methods Fall Data Sprint of October 2013, we
+[^03ch01introduction_58]: In the EMAPS Digital Methods Fall Data Sprint of October 2013, we
     asked whether conflict could be seen as a fourth phase in the
     evolution of the issue of climate change, after skepticism,
     mitigation and adaptation. EMAPS, 'Vulnerability, Resilience and
     Conflict: Mapping Climate Change, Reading Cli-fi', *Electronic Maps
     to Assist Public Science Blog*, 2013,
     http://www.emapsproject.com/blog/archives/2293.
+
 
 
 # 2. Foundations of Content Analysis
@@ -979,7 +999,7 @@ co-organizer of the first content analysis conference at Annenberg in
 1969. After a brief examination of the foundational work by Berelson and
 Gerbner, I will come to describe Krippendorff’s seminal work *Content
 Analysis: An Introduction to its Methodology,* in which he lays out the
-requirements of a sound content analysis research framework.[^1]
+requirements of a sound content analysis research framework.[^04ch02_1]
 
 Secondly, I will address the challenges this approach faces since the
 computer has become more of a content producer and site of production
@@ -994,7 +1014,7 @@ refers to the technologically composed nature of web content—the fact
 that content can hardly be separated from its carrier (a specific web
 platform for instance), and that technical agents such as hyperlinks and
 shares are not mere features, but *part of* the content under
-study.[^2][^3] Accordingly, when looking at previous applications of
+study.[^04ch02_2][^04ch02_3] Accordingly, when looking at previous applications of
 content analysis to web content, I ask how the *technicity* may be made
 part of the definition, collection, and analysis of content being
 studied, which is the central question of this book.
@@ -1019,13 +1039,13 @@ that of Berend Berelson of 1952, titled *Content Analysis in
 Communication Research*, which describes content analysis as an
 important research technique for social scientists and media scholars
 for reading social and cultural change from (the analysis of) mediated
-messages.[^4] For example, in a study from 1948, Berelson and Salter
+messages.[^04ch02_4] For example, in a study from 1948, Berelson and Salter
 study prejudice against minority groups through the analysis of popular
-magazine fiction.[^5] In the same tradition, as mentioned in the
+magazine fiction.[^04ch02_5] In the same tradition, as mentioned in the
 Introduction, George Gerbner has studied violence on television and the
 representation of for instance women and children during primetime
 programming, to derive *cultural indicators,* the indicators of their
-position in society at a given time.[^6]
+position in society at a given time.[^04ch02_6]
 
 Scholars often refer to the inclusion of the definition of ‘content
 analysis’ in Webster’s Dictionary of the English Language in 1961 as a
@@ -1033,19 +1053,19 @@ milestone in the establishment and public recognition of the field.
 Here, content analysis was defined as the ‘analysis of the manifest and
 latent content of a body of communicated material (as a book or film)
 through classification, tabulation, and evaluation of its key symbols
-and themes in order to ascertain its meaning and probable effect’.[^7]
+and themes in order to ascertain its meaning and probable effect’.[^04ch02_7]
 In November of 1969, another milestone took place with the content
 analysis conference of the Annenberg School of Communications, where
 over 400 scholars gathered from approximately 85 educational and
 scientific institutions in the United States and Canada to discuss the
 application of content analysis to and from a wide range of academic
-disciplines.[^8][^9] The conference also featured a panel dedicated to
+disciplines.[^04ch02_8][^04ch02_9] The conference also featured a panel dedicated to
 ‘Computer Techniques in Content Analysis and Computational Linguistics’,
 focusing solely on different ways in which content could be analyzed by
 the computer and by computer-aided content analysts. The scholars who
 presented computational analyses, in particular, at this inaugural event
 also came from a diverse set of fields, including ‘political science,
-psychiatry, sociology, English, and social psychology’.[^10][^11] It is
+psychiatry, sociology, English, and social psychology’.[^04ch02_10][^04ch02_11] It is
 worth keeping these early, partially interdisciplinary beginnings in
 mind when negotiating contemporary applications of content analysis by
 different academic fields. With the more recent infusion of culture with
@@ -1059,14 +1079,14 @@ techniques for studying culture through content.
 The most significant disciplinary figure of early content analysis,
 Klaus Krippendorff, defines content analysis as a ‘scientific tool’ and
 ‘a research technique for making replicable and valid inferences from
-text to the contexts of their use’.[^12] He deployed terms and concepts
+text to the contexts of their use’.[^04ch02_12] He deployed terms and concepts
 from outside the qualitative humanities normally concerned with content,
 like for example ‘scientific’, ‘replicable’ and ‘valid’, to emphasize
 the need for formalization of techniques and tools of analysis. At the
 same time, however, his use of the word *text* does not refer only to
 written materials but expansively may include ‘works of art, images,
 maps, sounds, signs, symbols, and even numerical records’ and other
-data.[^13] Krippendorff makes the significant conceptual point that it
+data.[^04ch02_13] Krippendorff makes the significant conceptual point that it
 is precisely one’s definition of what content is, and how that is
 delimited, that leads to specific kinds of analytical results. As we
 will see with the analysis of networked content, it is indeed this
@@ -1087,7 +1107,7 @@ applications of content analysis to the (further) growth of mass media
 after WWII. This rise of the field of content analysis to deal with
 expanded media formats, he argues, meant a loss of focus already then,
 as ‘everything seemed to be content analyzable and every analysis of
-symbolic phenomena became Content Analysis’.[^14] Krippendorff describes
+symbolic phenomena became Content Analysis’.[^04ch02_14] Krippendorff describes
 how various disciplines began to apply the research techniques of
 content analysis differently: ethnographers were interacting with their
 informants (something content analysts usually do not do, as they
@@ -1106,23 +1126,23 @@ Krippendorff's framework lays out six components necessary for a content
 analysis research project, all of which are to be included though not
 necessarily in this sequential order:
 
-- A body of text, the data that a content analyst has available to begin
-an analytical effort;
+-   A body of text, the data that a content analyst has available to
+    begin an analytical effort;
 
-- A research question that the analyst seeks to answer by examining the
-body of text;
+-   A research question that the analyst seeks to answer by examining
+    the body of text;
 
-- A context of the analyst's choice within which to make sense of the
-body of text;
+-   A context of the analyst's choice within which to make sense of the
+    body of text;
 
-- An analytical construct that operationalizes what the analyst knows
-about the context;
+-   An analytical construct that operationalizes what the analyst knows
+    about the context;
 
-- Inferences that are intended to answer the research question, which
-constitute the basic accomplishment of the content analysis;
+-   Inferences that are intended to answer the research question, which
+    constitute the basic accomplishment of the content analysis;
 
-- Validating evidence, which the ultimate justification of the content
-analysis.[^15]
+-   Validating evidence, which the ultimate justification of the content
+    analysis.[^04ch02_15]
 
 Importantly, from the beginning point of his procedural outline,
 Krippendorff does not describe how content should be collected for
@@ -1146,13 +1166,13 @@ sample of the data appropriate for answering the question.
 
 As Krippendorff asserts, ‘\[data\] become\[s\] text to the analyst
 within the context that the analyst has chosen to read \[it\], that is,
-from within the analysis’.[^16] The analyst's background and scope and
+from within the analysis’.[^04ch02_16] The analyst's background and scope and
 the research questions in combination provide the texts with a novel
 interpretive mechanism, within which they can be analyzed. A political
 scientist and an anthropologist might analyze the same piece of text
 differently, for instance. With regards to the analytical construct,
 Krippendorff stresses the importance of the *research* context in which
-a given text ‘would arguably make sense’.[^17] The analysis of text
+a given text ‘would arguably make sense’.[^04ch02_17] The analysis of text
 should be conducted in line with what is known about its uses.
 Krippendorf's fifth point constitutes the core of content analysis, in
 so far as the analysis enables the researcher to make inferences that
@@ -1161,24 +1181,24 @@ inferences — meaning those findings that are made across ‘logically
 distinct domains’ where multiple variables are taken into account — and
 compares this approach to the logic of reasoning employed by Sherlock
 Holmes, who uses clues to solve or sort through a larger reality and
-situation.[^18] For example, one can date a text by analyzing the
+situation.[^04ch02_18] For example, one can date a text by analyzing the
 vocabulary it uses, or infer the poignant issues of a city by studying
-letters sent to the municipality or local newspaper.[^19]
+letters sent to the municipality or local newspaper.[^04ch02_19]
 
 Lastly, and clearly in the interest of *not* letting abductive
 inferences over-reach, or otherwise become scientifically suspect,
 Krippendorff argues that all content analyses should be ‘validatable in
-principle’.[^20] Importantly for Krippendorff, this means there is a
+principle’.[^04ch02_20] Importantly for Krippendorff, this means there is a
 necessity to enable correlation of the research results with other data
 or information that stands *outside* the scope of the original analysis.
 The question of when the data requires a baseline outside of the content
-under study is one that resonates in the study of web content.[^21] In
+under study is one that resonates in the study of web content.[^04ch02_21] In
 the realm of content analysis, this discussion has also taken place,
 including the suggestion of validating mass media content analysis (of
-culture) with audience interviews.[^22] For example, Gerbner on multiple
+culture) with audience interviews.[^04ch02_22] For example, Gerbner on multiple
 occasions tried to correlate his Cultural Indicators research on
 violence in prime-time television with a survey on whether people also
-concurrently perceived the world as a violent place.[^23]
+concurrently perceived the world as a violent place.[^04ch02_23]
 
 While the definition and demarcation of content were never that
 straightforward in the case of offline mass media materials, the rise of
@@ -1189,7 +1209,7 @@ hyperlinks, content became networked and thus harder to demarcate (Where
 does this content end?). Search engines brought about new ways of
 presenting and ranking data (What is the most important source?), and
 platformization gives shape to the far-stretching entanglement of social
-media with other web content.[^24]
+media with other web content.[^04ch02_24]
 
 As I will discuss in this chapter, the defining characteristics of web
 content pose new challenges to the above outlines, conditions, and
@@ -1200,7 +1220,7 @@ thereof, it is important to engage with the challenges of this
 transition as these have been pre-conceived and processed by scholars
 identifying with the foundations of the field. This includes the work of
 Sally McMillan, who describes the study of web content as like looking
-at ‘a moving target through a microscope’.[^25] Web content in the late
+at ‘a moving target through a microscope’.[^04ch02_25] Web content in the late
 1990s was in many respects different from web content in 2009 or 2014;
 this is a fact that should never be lost hold of. In the late 1990s,
 which is the period in which the studies McMillan reviews in her paper
@@ -1230,12 +1250,12 @@ studies to the list. In all, she finds a total of nineteen studies
 dedicated to content analysis on the web and another eleven studies that
 are dedicated to the analysis of other digital content, such as email
 and ListServs, both of which were important online media at the time but
-which are not included in her final study.[^26]
+which are not included in her final study.[^04ch02_26]
 
 Having collected her sources, McMillan relies on a research protocol
 close to Krippendorff's, checking each study for the resemblance of its
 components and methods to the original content analysis
-framework.[^27][^28] She then compares the 19 articles to identify how
+framework.[^04ch02_27][^04ch02_28] She then compares the 19 articles to identify how
 the challenges of applying content analysis to web content research were
 being dealt with by each of the authors. From this, McMillan induced
 five steps that in her view, should be part of all web content analysis
@@ -1248,7 +1268,8 @@ above:
 
 3\. Further define categories:
 
-\(a) Establish the time period of the study, as web research calls for rapid collection of data;
+\(a) Establish the time period of the study, as web research calls for
+rapid collection of data;
 
 \(b) Identify context units;
 
@@ -1282,7 +1303,7 @@ which presumes an offline reference as a baseline, is not always
 possible in the analysis of digital and networked content. I would
 propose that an offline validation of online research in many cases is
 impossible. Thought-provokingly, scholars have asked in which cases the
-online *is* the only relevant baseline.[^29][^30] Linguist and
+online *is* the only relevant baseline.[^04ch02_29][^04ch02_30] Linguist and
 information scientist Susan Herring recognizes that web content is
 indeed a different kind of object compared to the pre-web content of
 Krippendorff’s time. In her 2010 paper, *Web Content Analysis: Expanding
@@ -1299,20 +1320,20 @@ between ‘web \[content analysis\]’, a narrower kind of research where
 traditional content analysis methods are applied to the web, and ‘\[web
 content\] analysis’, or what she calls WebCA, which is the analysis of
 web content in a broader sense, where various ‘traditional and
-non-traditional techniques’ can be applied.[^31] Herring promotes the
+non-traditional techniques’ can be applied.[^04ch02_31] Herring promotes the
 latter by showing how traditional content analysis can be combined with
 methodologies from disciplines such as linguistics and sociology to
 offer a more workable response to the challenges offered by ‘new online
-media’.[^32] She illustrates this with examples from blog analyses and
+media’.[^04ch02_32] She illustrates this with examples from blog analyses and
 conversations online.
 
 Herring's ‘more general’ definition of web content covers ‘various types
 of information “contained” in new media documents \[…\], all of which
-can communicate meaning’.[^33] This definition is very similar to the
+can communicate meaning’.[^04ch02_33] This definition is very similar to the
 earlier definitions of content analysis that were critiqued by
 Krippendorff, for the presumption that content is ‘contained in
 messages, waiting to be separated from its form and described’, as the
-true nature of content ‘resides *inside* a text’.[^34] The broadening
+true nature of content ‘resides *inside* a text’.[^04ch02_34] The broadening
 that Herring proposes is, in fact, a return to another specific idea of
 content, where various content types (all of which Krippendorff would
 refer to as *text*) can each communicate meaning. The broadening of the
@@ -1335,29 +1356,29 @@ medium-specific approaches to ‘web content analysis’, she proposes to
 broaden the methodological apparatus, by including other
 non-web-specific methods from different disciplines.
 
-![](imgs/Figure1.png)
-
-Figure 1: Widening of the content analysis paradigm. Herring's brief overview of approaches to web content analysis. Herring, ‘Web Content Analysis’, 240.
+Figure 1: Widening of the content analysis paradigm. Herring's brief
+overview of approaches to web content analysis. Herring, ‘Web Content
+Analysis’, 240.
 
 In her critique of McMillan's five-step research protocol, Herring
 argues that web content analysis follows ‘somewhat different norms from
 those traditionally prescribed for the analysis of communication content
 by researchers such as Krippendorff and McMillan’ and may even be
-developing new norms.[^35] She stresses that Krippendorff's framework
+developing new norms.[^04ch02_35] She stresses that Krippendorff's framework
 also has been used rather liberally in content analysis practices.
 Furthermore, she notes, ‘a growing number of web studies analyze types
 of content that differ from those usually studied in CA — such as
 textual conversations and hyperlinks — using methodological paradigms
-other than traditional CA’.[^36] Herring offers a new list of five steps
+other than traditional CA’.[^04ch02_36] Herring offers a new list of five steps
 for web content analysis, or more specifically that of
 ‘computer-mediated discourse analysis’ (CMDA), which she initially
-developed in 2004.[^37] CMDA is described as ‘language-focused content
+developed in 2004.[^04ch02_37] CMDA is described as ‘language-focused content
 analysis supplemented by a toolkit of spoken conversation and written
-text analysis’.[^38]
+text analysis’.[^04ch02_38]
 
 Herring's checklist for web content analysis is similar to that of
 McMillan but offers in her view a more ‘pragmatic’ point of
-departure:[^39]
+departure:[^04ch02_39]
 
 a\) Articulate research question(s);
 
@@ -1375,7 +1396,7 @@ collecting data but instead takes the data set to be something already
 given. Although the checklist may suggest that the research question
 would lead the analysis, at the same time she urges researchers to
 ‘choose a research question that is “empirically answerable from the
-available data”’.[^40] Herring also promotes flexibility in determining
+available data”’.[^04ch02_40] Herring also promotes flexibility in determining
 the sample types and coding categories based on the available data set.
 She builds a plea for a widening of the paradigms of content analysis,
 including the objects of such analyses, based on the assertion that most
@@ -1384,7 +1405,7 @@ alone. She finds that in her own research practice of computer-mediated
 discourse analysis as applied to blogs, the research techniques of
 content analysis are indeed ‘well suited for analyzing structural
 features of blog interfaces’ and ‘analyzing themes represented in blog
-entries and comments’.[^41] Furthermore, although Herring rightly points
+entries and comments’.[^04ch02_41] Furthermore, although Herring rightly points
 out that the field of web content analysis nowadays extends beyond the
 use of conventional pre-web content analysis methods being merely
 applied to the web, it is clear that even this multi-disciplinary
@@ -1400,7 +1421,7 @@ As outlined in the introduction to this chapter, my emphasis on the
 technicity of content stems from the observation that web content is
 networked. The networked character of online content means that content
 now includes technical agents that network it, such as in-text
-hyperlinks, tags, and social buttons.[^42] Re-considering the early
+hyperlinks, tags, and social buttons.[^04ch02_42] Re-considering the early
 disciplined approaches of content analysis, we can see how networked
 content raises numerous methodological questions, many of which have
 been pointed out already, for instance in the above work of McMillan and
@@ -1409,7 +1430,7 @@ in analysis, one may wonder, for instance, where exactly the content of
 an article in an online newspaper ends. Should the hyperlinked pages be
 included in the study? How should social buttons be treated? Are all
 these links and buttons mere features to be counted and quantified, or
-should they be analyzed otherwise?[^43] My propositions for networked
+should they be analyzed otherwise?[^04ch02_43] My propositions for networked
 content analysis urge the analyst to move beyond the analysis of web
 page features to treat the particular technicities of content—exactly
 this complexity—as part of the *text* under study, as Krippendorff would
@@ -1437,16 +1458,16 @@ from this point regain prominence for a networked content analysis.
 There is no single common *type* of online content, as we have seen from
 McMillan and Herring’s attempt at an overview, alongside many other
 attempts, and as is evident from the examples of different types of web
-content I provide in the case studies that follow.[^44] Rather than
+content I provide in the case studies that follow.[^04ch02_44] Rather than
 emphasizing the pluriformity of the web’s content ‘types’, I would like
 to *productively* distinguish between various platforms with which
-content analysis must come to terms.[^45] Platforms are ‘portals or
+content analysis must come to terms.[^04ch02_45] Platforms are ‘portals or
 applications that offer specific Internet services, frameworks for
 social interaction, or interfaces to access other networked
-communications and information distribution systems’.[^46] Many
+communications and information distribution systems’.[^04ch02_46] Many
 researchers have described how the Internet can easily be observed to be
 changing into a constellation of platforms, which are fast becoming our
-main means of accessing online information.[^47] This tendency adds to
+main means of accessing online information.[^04ch02_47] This tendency adds to
 the urgency for content analysis approaches to be able to deal with
 platform-specific aspects of content.
 
@@ -1488,7 +1509,7 @@ specific platforms. Issue mapping can follow a topic as it traverses
 sources, for example, or capture multiple online spaces in a comparative
 analysis. An example of this is offered by Climaps, where a mapping of
 the issue of climate change across sources and platforms resulted in an
-online atlas of climate change adaptation.[^48]
+online atlas of climate change adaptation.[^04ch02_48]
 
 Given that this demarcation of content is such an essential part of
 networked content analysis research, much attention needs to be paid to
@@ -1497,7 +1518,7 @@ related tools. Clarifying refined queries for specific source sets
 enables the researcher to answer the research questions with their
 gathered data. Rather than using predefined categories or translating
 jargon into more familiar terms, such inquiries also aspire to ‘follow
-the actors’ in their own (issue).[^49] Thus, research queries respect
+the actors’ in their own (issue).[^04ch02_49] Thus, research queries respect
 the terms employed by the actors. Source sets may be conventional, such
 as from leading environmental or human rights organizations' public
 data, or they may be derived more directly from web engines or
@@ -1507,28 +1528,28 @@ query, or the sub-issues resonating in a set of tweets.
 Critical views on issue mapping with digital methods highlight the
 problem of the methods’ and tools’ dependency on already problematic
 proprietary walled gardens, and otherwise volatile ever-innovating
-commercial web platforms, such as Facebook and Twitter.[^50] Scholars
+commercial web platforms, such as Facebook and Twitter.[^04ch02_50] Scholars
 particularly warn of the sheer impossibility of distinguishing between
 the working logic of web platforms and the exemplarity of ‘platform
-artifacts’.[^51][^52] For example, the most ‘retweeted’ content on
+artifacts’.[^04ch02_51][^04ch02_52] For example, the most ‘retweeted’ content on
 Twitter might be the most Twitter-friendly content; therefore, we may
 only be finding out more about the logic of the platform itself, rather
 than the issue under study or the eventfulness of a particular
-tweet.[^53] Consequently, when dealing with online content, we need to
+tweet.[^04ch02_53] Consequently, when dealing with online content, we need to
 take into account the socio-technical logic of the platform itself as
-part of any analysis.[^54] In fact, with the explosive rise of (big)
+part of any analysis.[^04ch02_54] In fact, with the explosive rise of (big)
 data, attention to socio-technical logics of platforms must be further
 prioritized as social research increasingly makes use of what is called
 *Live Research*, where masses of content (with specific forms and
 technicities) are aggregated in real-time, copied onto other networks,
-and archived across the (social) web.[^55] [^56] Furthermore, data
+and archived across the (social) web.[^04ch02_55] [^04ch02_56] Furthermore, data
 analysis and the tools that enable this are built on highly dynamic web
 services. In a critique of the famous Google Flu Trends project, David
 Lazer et al. write how Twitter, Facebook, Google, and the Internet more
 generally are continually changing because of the actions of millions of
-engineers and consumers.[^57] Understanding and studying these platforms
+engineers and consumers.[^04ch02_57] Understanding and studying these platforms
 as socio-technical systems for what they are, is of utmost importance,
-as they are ‘increasingly embedded in our societies’.[^58] In this book,
+as they are ‘increasingly embedded in our societies’.[^04ch02_58] In this book,
 I develop such a socio-technological perspective on the controversy
 surrounding climate change as presented and debated on the web.
 
@@ -1538,16 +1559,16 @@ data arises. Visualization here is not a mandatory step in the analysis.
 However, it can be considered an applied tool for the purpose of visual
 and descriptive analysis. While the ‘descriptive turn’ has been
 ‘embraced’ in contemporary sociology, it does come with its own ethical
-questions, if you will.[^59] Each time a map is made, the researcher has
+questions, if you will.[^04ch02_59] Each time a map is made, the researcher has
 to consider the appropriate output of the analysis ‘in ranked lists, in
 cluster graphs, in line graphs, in clouds, on maps’ and on a more
 abstract level, the visual, critical and even political aspects of
-map-making in their work.[^60][^61] Sociologist Tommaso Venturini, when
+map-making in their work.[^04ch02_60][^04ch02_61] Sociologist Tommaso Venturini, when
 discussing controversy maps, has described social maps as a visual
 interface to complex issues: ‘To be of any use, social maps have to be
 less confused and convoluted than collective disputes. They cannot just
 mirror the complexity of controversies: they have to make such
-complexity legible.’[^62] Similarly, visualization of data layered onto
+complexity legible.’[^04ch02_62] Similarly, visualization of data layered onto
 a geographic map of an area should render legible the complexity of the
 area, as well as the ways in which the social media platforms from which
 the data is taken from actually deal with that geo-location. It must be
@@ -1555,18 +1576,18 @@ constantly borne in mind that map-based visualizations have been
 criticized for their oversimplification and reductionist approach to
 vast and multifarious data, highlighting some information and
 obfuscating other data for the sake of creating a ‘display \[of\] what
-we already know’.[^63]
+we already know’.[^04ch02_63]
 
 I would, therefore, like to stress that in this book and in related
 research, the practice and objects of mapping are not efforts to ignore
 the distributed nature of today’s technologies or data, or the richness
 of public debate, but in fact to gain a better understanding of the
 complex patterns and intersections of competing technologies as they
-intertwine form and content.[^64] These maps then function as a
+intertwine form and content.[^04ch02_64] These maps then function as a
 navigational tool through a complex debate, rather than aiming at a
-reductionist narrative.[^65] The map is neither the end product nor an
+reductionist narrative.[^04ch02_65] The map is neither the end product nor an
 aesthetic inquiry into the data. Here, the visualizations function as an
-analytical tool.[^66] The maps then enable researchers to essentially
+analytical tool.[^04ch02_66] The maps then enable researchers to essentially
 zoom out, navigate the issue, and decide the directions for further
 analysis. I endeavor to accomplish this here by studying a single issue
 across multiple platforms from different viewpoints and by creating not
@@ -1602,7 +1623,8 @@ the different stages of climate change (skepticism, mitigation,
 adaptation, and vulnerability/conflict), and explore the sub-issue of
 climate vulnerability in detail.
 
-##Conclusions
+## Conclusions
+
 Content analysis has made longstanding contributions to the broadest
 definitions of mediated ‘textual’ analysis, but when applied to
 networked content evokes a myriad of analytical issues: demarcating the
@@ -1620,7 +1642,7 @@ carrier no longer holds with networked content.
 
 As Krippendorff pointed out, it is the specificity of the definition of
 ‘content’ one chooses that leads to specific kinds or varieties of
-content analysis.[^67] The inclusion of web content’s technicity into
+content analysis.[^04ch02_67] The inclusion of web content’s technicity into
 the idea of content itself leads to analyses that make use of and deal
 analytically with these technical agents. As I have demonstrated in this
 chapter, the collection and analysis of web content that follow the
@@ -1666,7 +1688,7 @@ content on the web (and Google), Wikipedia, and Twitter to ask which
 methods might be further tailored towards platform-specific ends, and
 which can be scaled from or between platforms.
 
-[^1]: In this chapter, I will refer mostly to the second edition
+[^04ch02_1]: In this chapter, I will refer mostly to the second edition
     published in 2004, as this was thoroughly revised to describe the
     analysis of ‘computer readable’ content and presents a more mature
     method and technique of content analysis since the first edition of
@@ -1678,38 +1700,38 @@ which can be scaled from or between platforms.
     Introduction to its Methodology*, third edition, Thousand Oaks, CA:
     Sage Publications, 2013.
 
-[^2]: S. Niederer and J. van Dijck, 'Wisdom of the Crowd or Technicity
+[^04ch02_2]: S. Niederer and J. van Dijck, 'Wisdom of the Crowd or Technicity
     of Content? Wikipedia as a Sociotechnical System', *New Media &
     Society* 12.8 (2010): 1368–1387.
 
-[^3]: S. Niederer and J. van Dijck, 'Wisdom of the Crowd or Technicity
+[^04ch02_3]: S. Niederer and J. van Dijck, 'Wisdom of the Crowd or Technicity
     of Content? Wikipedia as a Sociotechnical System', in M. David and
     P. Milward (eds) *Researching Society Online*, London: Sage, 2014.
 
-[^4]: B. Berelson, 'Content Analysis in Communication Research', 1952,
+[^04ch02_4]: B. Berelson, 'Content Analysis in Communication Research', 1952,
     http://psycnet.apa.org/psycinfo/1953-07730-000.
 
-[^5]: B. Berelson and P.J. Salter, 'Majority and Minority Americans: An
+[^04ch02_5]: B. Berelson and P.J. Salter, 'Majority and Minority Americans: An
     Analysis of Magazine Fiction', *The Public Opinion Quarterly*, 10
     (1948): 168–190.
 
-[^6]: Annenberg School for Communication, *George Gerbner Archive*,
+[^04ch02_6]: Annenberg School for Communication, *George Gerbner Archive*,
     University of Pennsylvania, 2006.
 
-[^7]: A. Merriam-Webster, *Webster’s New Collegiate Dictionary*, G.&C.
+[^04ch02_7]: A. Merriam-Webster, *Webster’s New Collegiate Dictionary*, G.&C.
     Merriam Company, Publishers, 1961.
 
-[^8]: Presently called Annenberg School for Communication. ‘Annenberg
+[^04ch02_8]: Presently called Annenberg School for Communication. ‘Annenberg
     School for Communication’, https://www.asc.upenn.edu/.
 
-[^9]: G. Gerbner, O. Holsti, K. Krippendorff, W.J. Paisley, and P.J.
+[^04ch02_9]: G. Gerbner, O. Holsti, K. Krippendorff, W.J. Paisley, and P.J.
     Stone, eds. *The Analysis of Communication Contents: Development in
     Scientific Theories and Computer Techniques*, Wiley, 1969, xiii.
 
-[^10]: Stone in Gerbner et al. *The Analysis of Communication Contents,*
+[^04ch02_10]: Stone in Gerbner et al. *The Analysis of Communication Contents,*
     335.
 
-[^11]: It is worth mentioning here that at this historical moment, the
+[^04ch02_11]: It is worth mentioning here that at this historical moment, the
     computer being brought to work on content analysis was,
     specifically, a machine reading text from punch cards or microfilm,
     or otherwise dealing with content ‘typed in from a computer
@@ -1722,81 +1744,81 @@ which can be scaled from or between platforms.
     programming responsibilities in full. Stone in Gerbner et al. *The
     Analysis of Communication Contents,* 336.
 
-[^12]: Krippendorff, *Content Analysis,* 2004, 24.
+[^04ch02_12]: Krippendorff, *Content Analysis,* 2004, 24.
 
-[^13]: Krippendorff, *Content Analysis*, 2013, 25.
+[^04ch02_13]: Krippendorff, *Content Analysis*, 2013, 25.
 
-[^14]: Krippendorff, *Content Analysis,* 2004, 12.
+[^04ch02_14]: Krippendorff, *Content Analysis,* 2004, 12.
 
-[^15]: Krippendorff, *Content Analysis,* 2004, 29-30.
+[^04ch02_15]: Krippendorff, *Content Analysis,* 2004, 29-30.
 
-[^16]: Krippendorff, *Content Analysis,* 2004, 33.
+[^04ch02_16]: Krippendorff, *Content Analysis,* 2004, 33.
 
-[^17]: Krippendorff, *Content Analysis,* 2004, 35.
+[^04ch02_17]: Krippendorff, *Content Analysis,* 2004, 35.
 
-[^18]: Krippendorff, *Content Analysis,* 2004, 38.
+[^04ch02_18]: Krippendorff, *Content Analysis,* 2004, 38.
 
-[^19]: Krippendorff, *Content Analysis,* 2004, 42.
+[^04ch02_19]: Krippendorff, *Content Analysis,* 2004, 42.
 
-[^20]: Krippendorff, *Content Analysis,* 2004, 39.
+[^04ch02_20]: Krippendorff, *Content Analysis,* 2004, 39.
 
-[^21]: See for instance R. Rogers, F. Janssen, M. Stevenson, and E.
+[^04ch02_21]: See for instance R. Rogers, F. Janssen, M. Stevenson, and E.
     Weltevrede, 'Mapping Democracy', in *Global Informaton Society
     Watch*, The Hague: Hivos, 2009, pp. 47-57.
 
-[^22]: Krippendorff, *Content Analysis,* 2013, 44.
+[^04ch02_22]: Krippendorff, *Content Analysis,* 2013, 44.
 
-[^23]: G. Gerbner, L. Gross, N. Signorielli, M. Morgan, and M.
+[^04ch02_23]: G. Gerbner, L. Gross, N. Signorielli, M. Morgan, and M.
     Jackson-Beeck, 'The Demonstration of Power: Violence Profile No.
     10', *Journal of Communication* 29.3 (1979): 177–196.
 
-[^24]: See also Helmond, *The Web as Platform.*
+[^04ch02_24]: See also Helmond, *The Web as Platform.*
 
-[^25]: McMillan, ‘The Microscope and the Moving Target’, 80.
+[^04ch02_25]: McMillan, ‘The Microscope and the Moving Target’, 80.
 
-[^26]: McMillan, ‘The Microscope and the Moving Target’, 88.
+[^04ch02_26]: McMillan, ‘The Microscope and the Moving Target’, 88.
 
-[^27]: McMillan, ‘The Microscope and the Moving Target’.
+[^04ch02_27]: McMillan, ‘The Microscope and the Moving Target’.
 
-[^28]: Krippendorff, *Content Analysis,* 2004.
+[^04ch02_28]: Krippendorff, *Content Analysis,* 2004.
 
-[^29]: D. Moats, 'From Digital Methods to Digital Ontologies: Bruno
+[^04ch02_29]: D. Moats, 'From Digital Methods to Digital Ontologies: Bruno
     Latour and Richard Rogers at CSISP', 2012,
     http://www.csisponline.net/2012/03/12/from-digital-methods-to-digital-ontologies-bruno-latour-and-richard-rogers-at-csisp/.
 
-[^30]: R. Rogers, *The End of the Virtual: Digital Methods*, Amsterdam:
+[^04ch02_30]: R. Rogers, *The End of the Virtual: Digital Methods*, Amsterdam:
     Vossiuspers UvA, 2009.
 
-[^31]: Herring, ‘Web Content Analysis’, 235.
+[^04ch02_31]: Herring, ‘Web Content Analysis’, 235.
 
-[^32]: Herring, ‘Web Content Analysis’, 246.
+[^04ch02_32]: Herring, ‘Web Content Analysis’, 246.
 
-[^33]: Herring, ‘Web Content Analysis’, 245
+[^04ch02_33]: Herring, ‘Web Content Analysis’, 245
 
-[^34]: Krippendorff, *Content Analysis,* 2004, 20.
+[^04ch02_34]: Krippendorff, *Content Analysis,* 2004, 20.
 
-[^35]: Herring, ‘Web Content Analysis’, 237.
+[^04ch02_35]: Herring, ‘Web Content Analysis’, 237.
 
-[^36]: Herring, ‘Web Content Analysis’, 238.
+[^04ch02_36]: Herring, ‘Web Content Analysis’, 238.
 
-[^37]: Herring, ‘Web Content Analysis’, 238.
+[^04ch02_37]: Herring, ‘Web Content Analysis’, 238.
 
-[^38]: Herring, ‘Web Content Analysis’, 238.
+[^04ch02_38]: Herring, ‘Web Content Analysis’, 238.
 
-[^39]: Herring, ‘Web Content Analysis’, 238.
+[^04ch02_39]: Herring, ‘Web Content Analysis’, 238.
 
-[^40]: Herring, ‘Web Content Analysis’, 238.
+[^04ch02_40]: Herring, ‘Web Content Analysis’, 238.
 
-[^41]: Herring, ‘Web Content Analysis’, 241.
+[^04ch02_41]: Herring, ‘Web Content Analysis’, 241.
 
-[^42]: This term ‘agents’ implies that these pieces of content have
+[^04ch02_42]: This term ‘agents’ implies that these pieces of content have
     agency, which I argue is indeed the case. These technical
     specificities not only present or structure text differently, they
     are also co-authoring the text. The chapter on Wikipedia will
     provide examples of this, when I zoom in on the activity of software
     robots authoring and editing articles.
 
-[^43]: Similar questions arise in the research (and practice) of web
+[^04ch02_43]: Similar questions arise in the research (and practice) of web
     archiving, where national libraries and other organizations aim to
     demarcate and archive a ‘national web’. Similarly, internet
     censorship tries to demarcate ‘forbidden content’, and grapples with
@@ -1806,76 +1828,76 @@ which can be scaled from or between platforms.
     *Blackwell Companion to New Media Dynamics*, Oxford: Blackwell,
     2013, pp. 142-166.).
 
-[^44]: For an example of another attempt, see e.g., Weare and Lin,
+[^04ch02_44]: For an example of another attempt, see e.g., Weare and Lin,
     ‘Content Analysis of the World Wide Web’.
 
-[^45]: The idea of content segmentation has been popular in Internet
+[^04ch02_45]: The idea of content segmentation has been popular in Internet
     marketing since the early 2000s, where it refers to the segmentation
     of content within one website, to attract various audiences. See for
     instance 'Content Segmentation: Differentiate Your Brand Online', 5
     April 2012,
     http://contentmarketinginstitute.com/2012/04/use-content-segmentation-to-differentiate-your-brand/.
 
-[^46]: Platform Politics, '*Platform Politics: Call for Papers: A
+[^04ch02_46]: Platform Politics, '*Platform Politics: Call for Papers: A
     Multidisciplinary Conference*', Cambridge, UK, 2011,
     http://www.networkpolitics.org/content/platform-politics-call-papers.
 
-[^47]: Helmond, *The Web as Platform.*
+[^04ch02_47]: Helmond, *The Web as Platform.*
 
-[^48]: EMAPS, 'Climaps: A Global Issue Atlas of Climate Change
+[^04ch02_48]: EMAPS, 'Climaps: A Global Issue Atlas of Climate Change
     Adaptation', 2014, http://climaps.eu/.
 
-[^49]: Latour, *Reassembling the Social.*
+[^04ch02_49]: Latour, *Reassembling the Social.*
 
-[^50]: J. van Dijck, *The Culture of Connectivity: A Critical History of
+[^04ch02_50]: J. van Dijck, *The Culture of Connectivity: A Critical History of
     Social Media*, New York, NY: Oxford University Press, 2013.
 
-[^51]: Marres, ‘Why Map Issues?’.
+[^04ch02_51]: Marres, ‘Why Map Issues?’.
 
-[^52]: N. Marres and E. Weltevrede, 'Scraping the Social? Issues in Live
+[^04ch02_52]: N. Marres and E. Weltevrede, 'Scraping the Social? Issues in Live
     Social research', *Journal of Cultural Economy* 6.3 (2013): 313–335,
     Rogers, *Digital Methods.*
 
-[^53]: Marres, ‘Why Map Issues?’
+[^04ch02_53]: Marres, ‘Why Map Issues?’
 
-[^54]: Niederer and van Dijck, 'Wisdom of the Crowd or Technicity of
+[^04ch02_54]: Niederer and van Dijck, 'Wisdom of the Crowd or Technicity of
     Content?’
 
-[^55]: Back et al. ‘Doing Real Time Research’.
+[^04ch02_55]: Back et al. ‘Doing Real Time Research’.
 
-[^56]: Marres and Weltevrede, ‘Scraping the Social?’
+[^04ch02_56]: Marres and Weltevrede, ‘Scraping the Social?’
 
-[^57]: D. Lazer, R. Kennedy, G. King, and A. Vespignani, 'The Parable of
+[^04ch02_57]: D. Lazer, R. Kennedy, G. King, and A. Vespignani, 'The Parable of
     Google Flu: Traps in Big Data Analysis', *Science* 343 (2014): 1205.
 
-[^58]: Lazer et al. ‘The Parable of Google Flu’, 1205.
+[^04ch02_58]: Lazer et al. ‘The Parable of Google Flu’, 1205.
 
-[^59]: M. Savage, 'Contemporary Sociology and the Challenge of
+[^04ch02_59]: M. Savage, 'Contemporary Sociology and the Challenge of
     Descriptive Assemblage', *European Journal of Social Theory* 12.1
     (2009): 158. In this article, Savage makes a strong case for
     visualization research, stating that ‘there needs to be more
     sociological interest in visualization as process, social artifact,
     and research tool’.
 
-[^60]: Digital Methods Initiative, *DMIR Unit \#5: Cross-Platform
+[^04ch02_60]: Digital Methods Initiative, *DMIR Unit \#5: Cross-Platform
     Analysis*, Amsterdam: University of Amsterdam, 2015.
 
-[^61]: D. Wood and J. Fels, *The Power of Maps*, New York: The Guilford
+[^04ch02_61]: D. Wood and J. Fels, *The Power of Maps*, New York: The Guilford
     Press, 1992.
 
-[^62]: T. Venturini, 'Building on Faults: How to Represent Controversies
+[^04ch02_62]: T. Venturini, 'Building on Faults: How to Represent Controversies
     with Digital Methods', *Public Understanding of Science* 21.7
     (2010): 797.
 
-[^63]: G. Lovink, *Social Media Abyss: Critical Internet Cultures and
+[^04ch02_63]: G. Lovink, *Social Media Abyss: Critical Internet Cultures and
     the Force of Negation*, Cambridge, UK: Polity Press, 2016, 152.
 
-[^64]: See also S. Niederer, G. Colombo, M. Mauri, and M. Azzi,
+[^04ch02_64]: See also S. Niederer, G. Colombo, M. Mauri, and M. Azzi,
     'Street-Level City Analytics: Mapping the Amsterdam Knowledge Mile'
     in *Hybrid City 2015: Data to the People*, Athens: University of
     Athens, 2015, www.media.uoa.gr/hybridcity.
 
-[^65]: As some of my research was part of the EMAPS EU-project (2014),
+[^04ch02_65]: As some of my research was part of the EMAPS EU-project (2014),
     I’d like to refer here the way in which the analysts of the program
     articulated their practice of mapping while showing full awareness
     of the value of these emerging critiques, which can be read in
@@ -1887,11 +1909,12 @@ which can be scaled from or between platforms.
     Young Foundation, and the Dortmund Technische Universität) in
     mapping the issue of climate adaptation. EMAPS, ‘Climaps.’
 
-[^66]: S.K. Card, J.D. Mackinlay, and B. Shneiderman, *Readings in
+[^04ch02_66]: S.K. Card, J.D. Mackinlay, and B. Shneiderman, *Readings in
     Information Visualization: Using Vision to Think*, San Francisco,
     CA: Morgan Kaufmann, 1999.
 
-[^67]: Krippendorff, *Content Analysis,* 2004.
+[^04ch02_67]: Krippendorff, *Content Analysis,* 2004.
+
 
 
 # 3. Climate Debate Actors in Science and on the Web
@@ -1902,13 +1925,11 @@ so-called *Paris Climate Agreement* during the 21st annual Conference of
 the Parties, better known as COP21. Two weeks of ‘fierce negotiations’
 ended with the words ‘I hear no objection in the room, I declare the
 Paris Climate Agreement adopted’, spoken by the president Laurent
-Fabius.[^1] Loud cheers followed, and festive pictures were published
+Fabius.[^05ch03_1] Loud cheers followed, and festive pictures were published
 along with a dedicated hashtag \#ParisAgreement (Figure 2).
 
-![](imgs/figure2.png)
-
-Figure 2: \#ParisAgreement. Cheers after the declaration of the adoption of the
-Paris Climate Agreement on December 12th of 2015. United Nations
+Figure 2: \#ParisAgreement. Cheers after the declaration of the adoption
+of the Paris Climate Agreement on December 12th of 2015. United Nations
 Framework Convention on Climate Change, 'Adoption of the Paris
 Agreement', United Nations, 12 December 2015,
 https://unfccc.int/resource/docs/2015/cop21/eng/l09.pdf.
@@ -1922,7 +1943,7 @@ times, or as it is phrased in the agreement itself, of:
 > thus requires the widest possible cooperation by all countries, and
 > their participation in an effective and appropriate international
 > response, with a view to accelerating the reduction of global
-> greenhouse gas emissions.[^2]
+> greenhouse gas emissions.[^05ch03_2]
 
 As such, the agreement marks an important milestone in the climate
 debate, which has spread from a scientific debate to a public debate.
@@ -1957,15 +1978,13 @@ of East Anglia University’s climatic research unit, a selection of
 emails was leaked in which climate scientists described the making of
 the hockey stick graph for publication in the journal *Nature* as the
 fraudulent-sounding ‘Mike’s Nature Trick’, in which research
-visualizations ‘leave out the anomalies’.[^3][^4]
+visualizations ‘leave out the anomalies’.[^05ch03_3][^05ch03_4]
 
-![](imgs/Figure3.png)
-
-Figure 3: The HockeyStick Graph. Graph showing unprecedented rises in temperature since the
-late 20th century. M.E. Mann, R.S. Bradley, and M.K. Hughes, 'Northern
-Hemisphere Temperatures During the Past Millennium: Inferences,
-Uncertainties, and Limitations', *Geophysical Research Letters* 26.6
-(1999): 759–762.
+Figure 3: The HockeyStick Graph. Graph showing unprecedented rises in
+temperature since the late 20th century. M.E. Mann, R.S. Bradley, and
+M.K. Hughes, 'Northern Hemisphere Temperatures During the Past
+Millennium: Inferences, Uncertainties, and Limitations', *Geophysical
+Research Letters* 26.6 (1999): 759–762.
 
 Here rather than contributing to a critical discussion of climate
 science, which is by no means my area of expertise, I ask how content
@@ -1982,28 +2001,28 @@ public's engagement with the issue. With central questions such as ‘Do
 people believe in climate change? And is the percentage of people who
 believe climate change is taking place increasing or decreasing?’
 surveys and polls are undertaken by organizations such as Pew Research
-Center.[^5] The outcomes of these reports are referenced in scholarly
+Center.[^05ch03_5] The outcomes of these reports are referenced in scholarly
 works that look at public opinion and the public understanding of
-climate change.[^6] Other scholars have created timelines and so-called
+climate change.[^05ch03_6] Other scholars have created timelines and so-called
 trend chronologies, which ‘summarize public opinion across key
 dimensions including \[…\] public awareness of the issue of global
-warming’ to analyze the development of public opinion over time.[^7]
+warming’ to analyze the development of public opinion over time.[^05ch03_7]
 Another strong tradition of climate debate research in the tradition of
 media monitoring to measure the coverage of the issue in the news, for
-instance, by comparing its coverage across a set of newspapers.[^8]
+instance, by comparing its coverage across a set of newspapers.[^05ch03_8]
 
 A different strand of climate debate coverage research longitudinally
-monitors the coverage of the climate debate in mass media.[^9] Here, the
+monitors the coverage of the climate debate in mass media.[^05ch03_9] Here, the
 focus can be on television shows or printed news, or on specific
 features of the coverage, such as the use of imagery in environmental
-news.[^10] Longitudinal analysis of news coverage can reveal the
+news.[^05ch03_10] Longitudinal analysis of news coverage can reveal the
 so-called ‘issue attention cycles' in a specific country or in a
-comparison across countries.[^11] The related concept of *news spirals*
+comparison across countries.[^05ch03_11] The related concept of *news spirals*
 refers to the phenomenon that once the climate is in the news, this
-creates a general upsurge of other environmental news.[^12] Studies
+creates a general upsurge of other environmental news.[^05ch03_12] Studies
 specifically centered on events and scandals zoom in on controversy
 objects such as Climategate or debates around (alleged mistakes in) the
-IPCC reports.[^13][^14][^15] Rather than looking at controversy objects
+IPCC reports.[^05ch03_13][^05ch03_14][^05ch03_15] Rather than looking at controversy objects
 as a starting point, in the following case study, I will enter the
 climate debate through the scope of its actors, who I will approach
 using scientometric analysis and networked content analysis, for which I
@@ -2045,7 +2064,7 @@ To assess what the techniques of networked content analysis may add to
 the study of the climate controversy, I pair its approach with that of
 scientometrics (or the quantitative study of science), a traditional
 means to study the prominence of scientific actors within a specific
-scientific field.[^16] In all, this chapter assembles a profile of these
+scientific field.[^05ch03_16] In all, this chapter assembles a profile of these
 actors' (aspired to) positions inside and outside academia and offers a
 finer-grained picture of the status, group formations and issue
 commitments of climate change skeptics. The chapter in this way assumes
@@ -2063,7 +2082,7 @@ Institute, a Chicago-based libertarian public policy think-tank,
 organized this event with the inaugural title, *Can You Hear Us Now?
 Global Warming Is Not a Crisis!* The format was that of a traditional
 scientific conference with three days of parallel sessions and keynote
-speakers as well as online proceedings.[^17] In his opening remarks,
+speakers as well as online proceedings.[^05ch03_17] In his opening remarks,
 Heartland’s president Joseph L. Bast stressed that the conference
 featured talks by ‘over 200 scientists and other experts from leading
 universities and organizations from all over the world’. Bast
@@ -2071,7 +2090,7 @@ furthermore stated that:
 
 > These scientists and economists have been published thousands of times
 > in the world’s leading scientific journals and have written hundreds
-> of books. If you call this the fringe, where’s the center?[^18]
+> of books. If you call this the fringe, where’s the center?[^05ch03_18]
 
 Bast gave credence here to climate skeptics as core actors in climate
 science, while most descriptions of climate change skeptics, whether by
@@ -2080,20 +2099,20 @@ SourceWatch.org), journalists or scientific analysts, paint a less
 flattering picture. Scholars have emphasized how skeptics effectively
 keep the climate conversation alive *as a controversy* in the face of
 increasing statements of consensus from the global scientific
-climatology community.[^19][^20] Skeptics are often criticized for
+climatology community.[^05ch03_19][^05ch03_20] Skeptics are often criticized for
 having strong ties to specific industries invested in the status quo
 reproduction of our climate-changing economy, as described in books such
 as *Merchants of Doubt* and *Doubt is their Product*, as well as the
 report *Smoke, Mirrors and Hot Air: How ExxonMobil Uses Big Tobacco’s
 Tactics to Manufacture Uncertainty on Climate Change* and various
-academic papers.[^21][^22][^23] These publications describe how
+academic papers.[^05ch03_21][^05ch03_22][^05ch03_23] These publications describe how
 industry-funded skeptics insist on the lack of consensus on
 anthropogenic (i.e., human-induced) global warming, using strategies
 from prior decades' tobacco industry-funded research that downplayed
 truth claims on the health risks of smoking. In October of 2015, this
 topic flared up in the news, as the New York attorney general announced
 an investigation of Exxon Mobile ‘to determine whether the company lied
-to the public about the risks of climate change’.[^24]
+to the public about the risks of climate change’.[^05ch03_24]
 
 The industrial and financial ties of climate change actors have been
 visualized for public awareness and comprehension in projects such as
@@ -2114,17 +2133,17 @@ activate public comprehension of bias and (sometimes artificial)
 controversy in the networked, public mediation of so-called ‘scientific
 research’ on climate change.
 
-![](imgs/figure4.png)
-
-Figure 4: Exxonsecrets. Map showing the institutional relationships of Willie Soon (left) and Sallie Baliunas (right) and their funding by Exxon-Mobil
-since 1998. ‘Greenpeace’, http://www.exxonsecrets.org/maps.php?mapid=1804.
+Figure 4: Exxonsecrets. Map showing the institutional relationships of
+Willie Soon (left) and Sallie Baliunas (right) and their funding by
+Exxon-Mobil since 1998. ‘Greenpeace’,
+http://www.exxonsecrets.org/maps.php?mapid=1804.
 
 Rather than zooming in on the industrial ties of specific climate change
 researchers, in this chapter, I want to zoom out to laterally consider
 the place and status of climate change *skepticism*, that is, the
 resonance of skeptics, within the networked content of climate change
 science and its online debate. I will start with a brief discussion of
-scientometric analyses of these prominent climate skeptics.[^25] In
+scientometric analyses of these prominent climate skeptics.[^05ch03_25] In
 these analyses, I take to the opening statement of the first
 international climate change skeptics’ conference abovementioned, to
 turn its claims of authority into a question. Putting aside the
@@ -2134,13 +2153,13 @@ actors to assess whether these climate change skeptics are indeed at the
 15,000 scientific articles on climate change that had been cited at
 least three times, to find whether these skeptics—speakers of the first
 Heartland conference—were indeed located at an authoritative ‘center’ of
-climate science.[^26]
+climate science.[^05ch03_26]
 
 Related to this understanding of citation networks, the utility of
 hyperlinks for online content analysis has been asserted by many
 scholars. Here, I would like to point specifically to the work by those
 media scholars who describe links as being both an indicator of
-reputation and the performance of politics of association.[^27][^28] For
+reputation and the performance of politics of association.[^05ch03_27][^05ch03_28] For
 example, not all organizations link to all other organizations that work
 in the same field; they rather link only to the organizations that they
 prefer to be associated with. New media scholar Axel Bruns describes the
@@ -2148,7 +2167,7 @@ IssueCrawler, the hyperlink analysis tool used in this chapter to
 conduct hyperlink analysis and visualize the hyperlink networks, as
 ‘predominantly designed for identifying “issue networks”, that is,
 networks of websites which form around the interlinking and exchange of
-information pertaining to specific issues or topics’.[^29] This
+information pertaining to specific issues or topics’.[^05ch03_29] This
 technique of hyperlink analysis has been applied to the climate debate
 before. In the paper *Landscaping Climate Change* (2000), Rogers and
 Marres describe the study of hyperlinking as a means to map the debate
@@ -2156,13 +2175,13 @@ around an issue. They regard linking as a way to recognize other
 participants in the debate and ‘\[s\]imilarly, non-linking is a sign of
 non-recognition, or, more radically, is an act of silencing through
 inaction. (Greenpeace does not link to Shell, but Shell links to
-Greenpeace)’.[^30] When thinking of a hyperlink in terms of recognition
+Greenpeace)’.[^05ch03_30] When thinking of a hyperlink in terms of recognition
 or as politics of association, the link can also be deemed and
 repurposed as an instance of group formation, as described in the
 Introduction in reference to the work of philosopher and anthropologist
 Bruno Latour, who has argued cogently for the fact that there are no
 groups ‘without a rather large retinue of group makers, group talkers,
-and group holders’.[^31][^32]
+and group holders’.[^05ch03_31][^05ch03_32]
 
 Important to mention here is that this use of hyperlink analysis has
 been recognized as an important technique by content analysis too. In
@@ -2171,7 +2190,7 @@ Methodology* (2013), Klaus Krippendorff describes hyperlink analysis as
 a means to study issue networks and answer issue-related research
 questions regarding the composition of actors, influence and authority
 within the network, and the life of an issue over time (when conducting
-longitudinal analysis).[^33][^34][^35] The mentioning of hyperlink
+longitudinal analysis).[^05ch03_33][^05ch03_34][^05ch03_35] The mentioning of hyperlink
 analysis and its qualities for *issue research* in this handbook not
 only demonstrates again the willingness of content analysis in its
 original form to open up to such digital research methods and objects.
@@ -2194,7 +2213,7 @@ critically referred to as a ‘black box’, due to its undisclosed
 algorithm, it is known that Google grants status to sources that are
 both established (as in receiving many in-links from other websites) and
 relevant as in often clicked, a logic that has been discussed in
-relating PageRank to citation analysis.[^36][^37][^38][^39] Secondly,
+relating PageRank to citation analysis.[^05ch03_36][^05ch03_37][^05ch03_38][^05ch03_39] Secondly,
 such analysis makes visible which sources grant a voice to the skeptics
 prior-identified from the Heartland Conference program. Which of the top
 100 results are proven to be the most ‘skeptic-friendly' websites? And
@@ -2204,7 +2223,7 @@ monitoring the airplay of specific actors (for instance, a ‘Democratic
 presidential candidate' versus a ‘Democratic presidential candidate in a
 televised pre-election debate') would be counted and analyzed. Lastly,
 it enables an assessment of who makes it into the top results (a
-technique referred to as ‘source distance analysis’).[^40]
+technique referred to as ‘source distance analysis’).[^05ch03_40]
 
 This actor-centric approach to the comprehension of the work and
 networks of skeptics leads me to raise further important questions about
@@ -2225,7 +2244,7 @@ actors is to understand the network of a controversy’s content and
 actors, and to study the complex ecologies of debates through the
 distances and connections between them (as I will bring into practice
 again in chapters 4 and 5 on Wikipedia and Twitter). Such analyses give
-space to the *drama* in the network, to paraphrase Noortje Marres.[^41]
+space to the *drama* in the network, to paraphrase Noortje Marres.[^05ch03_41]
 
 Before applying these three methods of analysis to the actions and
 impacts of skeptics (through hyperlink analysis, actor-oriented actor
@@ -2263,7 +2282,7 @@ prominent skeptics to which I will apply the scientometric analysis. The
 prominence of the actors has been determined through reference to
 prior-developed listings of climate change skeptics mentioned by
 Wikipedia entries, previously mentioned watchdogs and other scholars'
-academic analyses of climate skepticism.[^42] Cross-referencing these
+academic analyses of climate skepticism.[^05ch03_42] Cross-referencing these
 existing listings with the line-up of keynote speakers at the Heartland
 conference of 2008, resulted in a shortlist of fifteen prominent climate
 change skeptics: Sallie Baliunas, Joseph Bast, Paul Driessen, William
@@ -2309,7 +2328,7 @@ be counterintuitive, especially when thinking about the aforementioned
 readings of the climate change skeptics’ ‘lobby’ in which these actors
 are described as a relatively small but powerful group of scientists of
 which ‘the most vocal skeptics were *not* qualified, were *not* working
-in the field’.[^43]
+in the field’.[^05ch03_43]
 
 Figure 5 shows the visualization of the results. In the center are the
 shared nodes. These are the 30 publications that publish articles (cited
@@ -2323,22 +2342,21 @@ short-listed skeptics and their co-authors. On the right are the nodes
 that represent the journals that publish only the works of climate
 change skeptics.
 
-![](imgs/figure5.png)
-
-Figure 5: Climate science publication graph. ReseauLu Map showing journal publications for climate science and skeptics.
+Figure 5: Climate science publication graph. ReseauLu Map showing
+journal publications for climate science and skeptics.
 
 This comparative (of articles cited at least three times) shows that the
 climate change skeptics are indeed part of the scientific mainstream of
 climate change research, in the sense that they publish in top climate
 science journals. It also reveals that they also have their own specific
-outlets that publish only skeptics’ research.[^44] However, climate
+outlets that publish only skeptics’ research.[^05ch03_44] However, climate
 change skeptics cannot be characterized as merely a fringe based on this
 research. It is relevant to mention here that two separate qualitative
 analyses of global warming-related article abstracts through ISI have
-found no ‘disagree\[ment\] with the consensus position’[^45] and that
+found no ‘disagree\[ment\] with the consensus position’[^05ch03_45] and that
 ‘an overwhelming percentage (97.2% based on self-ratings, 97.1% based on
 abstract ratings) endorses the scientific consensus on A\[nthropogenic\]
-G\[lobal\] W\[arming\]’.[^46] So while the climate skeptics are part of
+G\[lobal\] W\[arming\]’.[^05ch03_46] So while the climate skeptics are part of
 the scientific center, this does not mean that their prominent
 scientific publications are by definition those in which they voice
 their skepticism.
@@ -2352,9 +2370,9 @@ citation analysis. As described by Sergey Brin and Lawrence Page in
 1998, when they presented their search engine prototype, the algorithm
 treats hyperlinks almost like a web of science would treat a citation.
 ‘Intuitively, pages that are well cited from many places around the web
-are worth looking at’.[^47][^48] But not all citations are equal; those
+are worth looking at’.[^05ch03_47][^05ch03_48] But not all citations are equal; those
 from well-cited pages have more weight. It is noteworthy that Page and
-Brin explicitly use the term ‘citing’ when they refer to linking.[^49]
+Brin explicitly use the term ‘citing’ when they refer to linking.[^05ch03_49]
 As citations network content, scientometrics could be considered a means
 of networked content analysis. As scientometrics can help evaluate the
 weight and relevance of scientific actors and outlets, for the study of
@@ -2378,7 +2396,7 @@ according to pre-formed categories, I understand them as part of a group
 when they perform as such. This approach, informed by Latour, can
 perhaps be best explained by example. In October 2011, the Royal Dutch
 Academy of Sciences (KNAW) published a report titled *Climate Change:
-Science and Debate*.[^50] With the brochure written by a small committee
+Science and Debate*.[^05ch03_50] With the brochure written by a small committee
 of scientists from inside and outside the Academy, the KNAW set out to
 map the state-of-the-art of climate science, more specifically
 discussing what has reached scientific consensus and what still causes
@@ -2387,14 +2405,14 @@ of consensus are listed as seven statements. Statement A reads:
 
 > Humankind changes the composition of the atmosphere quickly and
 > drastically. The increased concentration of carbon dioxide and other
-> greenhouse gases cannot be marginalized.[^51]
+> greenhouse gases cannot be marginalized.[^05ch03_51]
 
 This first statement already is likely to turn the brochure into a
 controversial object, for it directly and without qualification stresses
 the role of humankind in global warming and the effects of CO~2~ (and
 other emissions) on climate change. Unsurprisingly, soon after its
 publication, Dutch skeptical blogs started posting about this report by
-the KNAW, characterizing it as ‘alarmist’.[^52] One of the more
+the KNAW, characterizing it as ‘alarmist’.[^05ch03_52] One of the more
 prominent skeptical blogs of the Netherlands, climategate.nl, featured a
 blog posting in English stating that the brochure contained a ‘tsunami
 of scientific errors’:
@@ -2403,7 +2421,7 @@ of scientific errors’:
 > which all scientists agree. Nothing is further from the truth: they
 > are a rendering of the claims of the IPCC, in denial of all serious
 > criticism that has been brought against it by the scientific
-> community.[^53]
+> community.[^05ch03_53]
 
 Besides blogging about the report in various Dutch climate blogs, the
 skeptics chose two other formats for their criticism: a letter signed by
@@ -2412,7 +2430,7 @@ seminar* organized at Nieuwspoort, the international press center in The
 Hague.
 
 In the letter, the scientists refute the seven statements and demand a
-retraction of the publication.[^54] They state they represent various
+retraction of the publication.[^05ch03_54] They state they represent various
 academic disciplines including (bio-) chemistry, physics, geology,
 engineering, and climatology. The only non-academic who signed the
 letter is Ralf Dekker, blogger and chairperson of the aforementioned
@@ -2432,7 +2450,7 @@ network. To generate such analyses, a list of the skeptics’ websites is
 first entered into the IssueCrawler tool for hyperlink analysis. The
 IssueCrawler then performs co-link analysis, crawling the inputted
 (seed) ‘URLs for links and retain\[ing\] the pages that receive at least
-two links from the seeds’, and outputting a network graph.[^55] Figure
+two links from the seeds’, and outputting a network graph.[^05ch03_55] Figure
 6, the IssueCrawler map of Dutch skeptics, shows that the group's
 hyperlink network is dominated by Anglo-American sources. This is
 perhaps surprising given the appearance of a strong national network of
@@ -2460,11 +2478,8 @@ understand their resonance within dominant sources on the topic of
 climate change, I proceed to use Google Web Search to select top sources
 and query them for the resonance of these sets of actors.
 
-![](imgs/figure6_crop.jpg)
-
-![](imgs/figure6a_crop.png)
-
-Figure 6: Dutch climate actor networks. IssueCrawler maps for the Dutch climate actors (top: ‘skeptical,’ bottom: ‘non-skeptical’).
+Figure 6: Dutch climate actor networks. IssueCrawler maps for the Dutch
+climate actors (top: ‘skeptical,’ bottom: ‘non-skeptical’).
 
 ## Dutch Climate Change Actor Resonance Analysis
 
@@ -2482,7 +2497,7 @@ be done manually, with queries such as *‘Hans Labohm’ site:knmi.nl* and
 *‘Hans Labohm’ site:www.wnf.nl*, and so on. At this point, I use the
 so-called Lippmannian device, a tool inspired by Walter Lippmann to
 discover partisanship, which takes as input a list of URLs and a list of
-queries, and then the tool does the sequencing automatically.[^56]
+queries, and then the tool does the sequencing automatically.[^05ch03_56]
 Re-sizing the URLs according to their mentioning of prior identified or
 short-listed skeptics then shows the sources that most involve these
 actors, or are most ‘skeptic-friendly.' Showing a source cloud per actor
@@ -2494,10 +2509,9 @@ keywords (in this case actors' names) are clouded according to their
 resonance within the top sources; this shows who the most prominent
 actors on the shortlist are.
 
-![](imgs/figure7.png)
-
-Figure 7: Dutch climate change skeptics resonance cloud. Issue cloud visualizing the resonance of Dutch climate skeptics in Google search results for the
-query ‘klimaatverandering.’
+Figure 7: Dutch climate change skeptics resonance cloud. Issue cloud
+visualizing the resonance of Dutch climate skeptics in Google search
+results for the query ‘klimaatverandering.’
 
 Figure 7 presents such an issue cloud (in this case, an actor cloud) for
 the Dutch skeptics, visualizing the resonance of the actors in the top
@@ -2510,10 +2524,10 @@ at the University of Amsterdam. Hans Labohm is an economist formerly
 employed by the Dutch Institute of International Relations Clingendael
 and, notably, a former expert reviewer at IPCC. He has also been a
 speaker at one of the Heartland Institute’s climate skeptics
-conferences.[^57] In 2004, Labohm published the book *Man-Made Global
+conferences.[^05ch03_57] In 2004, Labohm published the book *Man-Made Global
 Warming: Unravelling a Dogma*, which he co-authored with Dick Thoenes
 (who is less resonant in the online debate) and Simon Rozendaal (not on
-the shortlist).[^58]
+the shortlist).[^05ch03_58]
 
 Zooming in on Hans Labohm we can create a ‘source cloud’ to see which
 sources mention him most (see Figure 8). Labohm generally resonates well
@@ -2523,12 +2537,11 @@ blog authored by atmospheric scientist Bart Verheggen, where Labohm has
 his own tag and category and in the Dutch daily newspaper NRC. A closer
 look at the NRC archives then reveals that most of this attention
 stemmed from 2004 when Labohm’s book was published and 2007 when NRC
-published a portrait of him as a ‘liberal’ climate skeptic.[^59]
+published a portrait of him as a ‘liberal’ climate skeptic.[^05ch03_59]
 
-![](imgs/figure8.png)
-
-Figure 8: Hans Labohm’s source cloud. This cloud shows the resonance of Hans Labohm, the most prominent Dutch climate change skeptic, in the top results for
-climate change.
+Figure 8: Hans Labohm’s source cloud. This cloud shows the resonance of
+Hans Labohm, the most prominent Dutch climate change skeptic, in the top
+results for climate change.
 
 The sources in which skeptics resonate most are KNMI,
 Klimaatverandering, and NRC. There are only five sources in the results
@@ -2545,16 +2558,15 @@ Plant Breeding and Production, Food and Agriculture, President of
 Wageningen University and KNAW member, is the most prominent actor (see
 Figure 9). Fresco resonates in sixteen of the top climate change sources
 (which is only one more than Hans Labohm). In half of these sources, she
-is mentioned at least 100 times.[^60] The second most prominent
+is mentioned at least 100 times.[^05ch03_60] The second most prominent
 scientist is Rudy Rabbinge, Professor of Sustainable Development and
 Food Security at Wageningen University. The third most resonating
 scientist is Robbert Dijkgraaf, Director of the Institute for Advanced
 Study in Princeton (United States), who at the time of the publication
 of the report was president of the KNAW.
 
-![](imgs/figure9.png)
-
-Figure 9: Louise Fresco’s source cloud. This cloud shows the resonance of Louise Fresco in the top results for climate change.
+Figure 9: Louise Fresco’s source cloud. This cloud shows the resonance
+of Louise Fresco in the top results for climate change.
 
 Collectively, the scientists resonate in all but seven of the sources.
 They are not present in two sources that do list skeptics, namely
@@ -2576,12 +2588,12 @@ issue.
 In a comparative analysis of these Dutch climate actors with French
 climate actors, I indeed noted major differences with the Dutch case and
 was able to demonstrate how such comparative analyses can give insight
-into the composition and position of these groups.[^61] This French
+into the composition and position of these groups.[^05ch03_61] This French
 climate skepticism analysis, which I conducted together with climate
 journalist Denis Delbecq was already briefly discussed in the
 Introduction. Delbecq is an expert on the French climate debate and its
 prominent actors, which he appraised extensively in a ‘dossier’ for the
-French environmental journal TerraEco.[^62] For this case study, Delbecq
+French environmental journal TerraEco.[^05ch03_62] For this case study, Delbecq
 provided short lists of prominent French skeptical and non-skeptical
 scientists and scientific organizations. With this list, I also started
 by conducting hyperlink analysis, just as I did for the Dutch actors
@@ -2635,7 +2647,7 @@ viewpoints on neighboring issues such as organic agriculture and
 biofuels. More unexpected—in an illuminating sense—is their skepticism
 on health-related issues such as the dangers of smoking and second-hand
 smoke, the human variety of mad cow disease (Creutzfeld-Jacob disease),
-and evolutionary theory.[^63] In my opinion, the analysis of
+and evolutionary theory.[^05ch03_63] In my opinion, the analysis of
 controversies would benefit strongly from the development of robust
 methods for retrieving such ‘related issues,’ which could be developed
 as part of networked content analysis. As ‘climate change skeptics’ are
@@ -2772,7 +2784,7 @@ web content itself is increasingly formatted towards inclusion in such
 platforms, my treatment of the technicity of Wikipedia, the
 collaboratively authored encyclopedia project, and Twitter, the
 micro-blogging platform, to study the climate change debate I argue is
-key to comprehending the debate itself.[^64] In both chapters, I will
+key to comprehending the debate itself.[^05ch03_64] In both chapters, I will
 discuss the dependency of each of the respective platforms as well as
 their various user groups and content on the (underlying) technicity. In
 the case of Wikipedia, this means assessing the climate debate in this
@@ -2786,96 +2798,96 @@ in assessing the state of the climate change debate. Overall, these
 studies are geared towards the understanding and inclusion of technicity
 in the analysis of networked content.
 
-[^1]: United Nations Conference on Climate Change, ‘COP21’, 2015,
+[^05ch03_1]: United Nations Conference on Climate Change, ‘COP21’, 2015,
     http://www.cop21.gouv.fr/en/.
 
-[^2]: United Nations Framework Convention on Climate Change, ‘Adoption
+[^05ch03_2]: United Nations Framework Convention on Climate Change, ‘Adoption
     of the Paris Agreement’, 1.
 
-[^3]: F. Pearce, 'The Five Key Leaked Emails From UEA’s Climatic
+[^05ch03_3]: F. Pearce, 'The Five Key Leaked Emails From UEA’s Climatic
     Research Unit', *The Guardian*, 7 July 2010,
     http://www.theguardian.com/environment/2010/jul/07/hacked-climate-emails-analysis.
 
-[^4]: However, research based on Google Trends data has shown that the
+[^05ch03_4]: However, research based on Google Trends data has shown that the
     Climategate scandal, in retrospect, has had an only short-lived
     effect on the public debate around climate change. W.R. Anderegg and
     G.R. Goldsmith, 'Public Interest in Climate Change Over the Past
     Decade and the Effects of the “Climategate” Media Event',
     *Environmental Research Letters*, 9.5 (2014): 054005.
 
-[^5]: A. Kohut, D.C. Doherty, M. Dimock, M., and S. Keeter, 'Fewer
+[^05ch03_5]: A. Kohut, D.C. Doherty, M. Dimock, M., and S. Keeter, 'Fewer
     Americans See Solid Evidence of Global Warming', *Washington, DC:
     Pew Research Center,* 2009.
 
-[^6]: S.C. Moser, 'Costly Knowledge – Unaffordable Denial: The Politics
+[^05ch03_6]: S.C. Moser, 'Costly Knowledge – Unaffordable Denial: The Politics
     of Public Understanding and Engagement on Climate Change', in *The
     Politics of Climate Change: A Survey*, 2010, 155–181.
 
-[^7]: Nisbet, M.C. and T. Myers, T. 'The Polls-Trends: Twenty Years of
+[^05ch03_7]: Nisbet, M.C. and T. Myers, T. 'The Polls-Trends: Twenty Years of
     Public Opinion About Global Warming', *Public Opinion Quarterly*
     71.3 (2007): 444.
 
-[^8]: Djerf-Pierre, ‘When Attention Drives Attention’.
+[^05ch03_8]: Djerf-Pierre, ‘When Attention Drives Attention’.
 
-[^9]: A. Nacu-Schmidt, K. Andrews, M. Boykoff, M. Daly, L. Gifford, G.
+[^05ch03_9]: A. Nacu-Schmidt, K. Andrews, M. Boykoff, M. Daly, L. Gifford, G.
     Luedecke, and L. McAllister, 'World Newspaper Coverage of Climate
     Change or Global Warming, 2004-2016', 2016,
     http://sciencepolicy.colorado.edu/media\_coverage.
 
-[^10]: S.J. O’Neill, M. Boykoff, S. Niemeyer, and S.A. Day, 'On the Use
+[^05ch03_10]: S.J. O’Neill, M. Boykoff, S. Niemeyer, and S.A. Day, 'On the Use
     of Imagery for Climate Change Engagement', *Global Environmental
     Change* 23.2 (2013): 413–421.
 
-[^11]: D. Brossard, J. Shanahan, and K. McComas. 'Are Issue-cycles
+[^05ch03_11]: D. Brossard, J. Shanahan, and K. McComas. 'Are Issue-cycles
     Culturally Constructed? A Comparison of French and American Coverage
     of Global Climate Change', *Mass Communication & Society*, 7.3
     (2004): 359–377.
 
-[^12]: Djerf-Pierre, ‘When Attention Drives Attention’.
+[^05ch03_12]: Djerf-Pierre, ‘When Attention Drives Attention’.
 
-[^13]: Anderegg and Goldsmith, 'Public Interest in Climate Change Over
+[^05ch03_13]: Anderegg and Goldsmith, 'Public Interest in Climate Change Over
     the Past Decade and the Effects of the “Climategate” Media Event.’
 
-[^14]: A.J. Hoffman, 'Talking Past Each Other? Cultural Framing of
+[^05ch03_14]: A.J. Hoffman, 'Talking Past Each Other? Cultural Framing of
     Skeptical and Convinced Logics in the Climate Change debate',
     *Organization Environment* 24.1 (2011): 3–33.
 
-[^15]: B. Nerlich, '“Climategate”: Paradoxical Metaphors and Political
+[^05ch03_15]: B. Nerlich, '“Climategate”: Paradoxical Metaphors and Political
     Paralysis', *Environmental Values* 19.4 (2010): 419–442.
 
-[^16]: This study was published in the European Journal of Media
+[^05ch03_16]: This study was published in the European Journal of Media
     Studies, *NECSUS*. S. Niederer, 'Global Warming Is Not a Crisis!
     Studying Climate Change Skepticism on the Web', *Necsus* 3 (Spring
     2013):
     http://www.necsus-ejms.org/global-warming-is-not-a-crisis-studying-climate-change-skepticism-on-the-web/.
 
-[^17]: The Heartland Institute, ‘First International Conference on
+[^05ch03_17]: The Heartland Institute, ‘First International Conference on
     Climate Change’.
 
-[^18]: The Heartland Institute, ‘First International Conference on
+[^05ch03_18]: The Heartland Institute, ‘First International Conference on
     Climate Change’.
 
-[^19]: N. Oreskes, 'Beyond the Ivory Tower: The Scientific Consensus on
+[^05ch03_19]: N. Oreskes, 'Beyond the Ivory Tower: The Scientific Consensus on
     Climate Change', *Science* 206.5702 (2007): 1686.
 
-[^20]: N. Oreskes, 'The Scientific Consensus on Climate Change: How Do
+[^05ch03_20]: N. Oreskes, 'The Scientific Consensus on Climate Change: How Do
     We Know We’re Not Wrong?' in J.F.C. DiMento and P. Doughman (eds)
     *Climate Change: What It Means for Us, Our Children, and Our
     Grandchildren*, Cambridge: MIT Press, 2007, pp. 65-99.
 
-[^21]: Michaels, *Doubts Is Their Product.*
+[^05ch03_21]: Michaels, *Doubts Is Their Product.*
 
-[^22]: Union of Concerned Scientists, 'Smoke, Mirrors and Hot Air.'
+[^05ch03_22]: Union of Concerned Scientists, 'Smoke, Mirrors and Hot Air.'
 
-[^23]: C.W. Schmidt, 'A Closer Look at Climate Change Skepticism',
+[^05ch03_23]: C.W. Schmidt, 'A Closer Look at Climate Change Skepticism',
     *Environmental Health Perspectives* 118.12 (2010): A536–A540.
 
-[^24]: J. Gillis and C. Krauss, 'Exxon Mobil Investigated for Possible
+[^05ch03_24]: J. Gillis and C. Krauss, 'Exxon Mobil Investigated for Possible
     Climate Change Lies by New York Attorney General', *The New York
     Times*, 5 November 2015,
     http://www.nytimes.com/2015/11/06/science/exxon-mobil-under-investigation-in-new-york-over-climate-statements.html.
 
-[^25]: Some of the specific research methods that I am employing may be
+[^05ch03_25]: Some of the specific research methods that I am employing may be
     unfamiliar to existing content analysis or other media studies
     approaches. Scientometrics uses data sets of scientific publications
     and assesses these through citation analysis. More specifically,
@@ -2888,46 +2900,46 @@ in the analysis of networked content.
     of scientific publications that are networked by interlinking.
     Wouters, *The Citation Culture.*
 
-[^26]: For this study that tested claims made in 2008, the sample is
+[^05ch03_26]: For this study that tested claims made in 2008, the sample is
     limited to those publications cited at least three times by July of
     2008.
 
-[^27]: A. Dekker, *The Politics of Association on Display: Interview
+[^05ch03_27]: A. Dekker, *The Politics of Association on Display: Interview
     with Richard Rogers,* Amsterdam: Netherlands Media Art Institute,
     January
     2008, http://nimk.nl/eng/the-politics-of-association-on-display.
 
-[^28]: Gerlitz and Helmond, ‘The Like Economy’.
+[^05ch03_28]: Gerlitz and Helmond, ‘The Like Economy’.
 
-[^29]: A. Bruns, 'Methodologies for Mapping the Political Blogosphere:
+[^05ch03_29]: A. Bruns, 'Methodologies for Mapping the Political Blogosphere:
     Explorations Using the IssueCrawler Research Tool', *First Monday*,
     12.5 (2007):
     http://firstmonday.org/ojs/index.php/fm/article/view/1834/.
 
-[^30]: Rogers and Marres, ‘Landscaping Climate Change’.
+[^05ch03_30]: Rogers and Marres, ‘Landscaping Climate Change’.
 
-[^31]: Rogers, *Information Politics on the Web,* vii.
+[^05ch03_31]: Rogers, *Information Politics on the Web,* vii.
 
-[^32]: Latour, *Reassembling the Social,* 32.
+[^05ch03_32]: Latour, *Reassembling the Social,* 32.
 
-[^33]: Krippendorff, *Content Analysis,* 2013, 234-235.
+[^05ch03_33]: Krippendorff, *Content Analysis,* 2013, 234-235.
 
-[^34]: Here Krippendorff refers to the definition by Heclo, who
+[^05ch03_34]: Here Krippendorff refers to the definition by Heclo, who
     ‘introduced the term in 1978 to describe connections between people
     who regard each other as knowledgeable and interested in particular
     public policy issues and who work these issues out essentially among
     themselves’ Krippendorff, *Content Analysis,* 2013, 233.
 
-[^35]: Krippendorff also cites Rogers, who uses the term in reference to
+[^05ch03_35]: Krippendorff also cites Rogers, who uses the term in reference to
     the output of the IssueCrawler. Krippendorff, *Content Analysis,*
     2013, 234.
 
-[^36]: Lawrence Page, Sergey Brin, Rajeev Motwani, and Terry Winograd.
+[^05ch03_36]: Lawrence Page, Sergey Brin, Rajeev Motwani, and Terry Winograd.
     ‘The PageRank Citation Ranking: Bringing Order to the Web,’
     Technical Report, Stanford InfoLab, 1999,
     http://ilpubs.stanford.edu:8090/422/.
 
-[^37]: Rieder, ‘What Is in PageRank?’ In this paper, Rieder conducts a
+[^05ch03_37]: Rieder, ‘What Is in PageRank?’ In this paper, Rieder conducts a
     historical analysis of PageRank through two paper publications (S.
     Brin and L. Page, 'The Anatomy of a Large-Scale Hypertextual Web
     Search Engine', *Computer Networks*, 56.18 (2010): 3825–3833.; Page
@@ -2936,7 +2948,7 @@ in the analysis of networked content.
     literature), where the patents interestingly prove a richer resource
     for such references.
 
-[^38]: See also: E. Weltevrede, *Repurposing Digital Methods: The
+[^05ch03_38]: See also: E. Weltevrede, *Repurposing Digital Methods: The
     Research Affordances of Platforms and Engines*, University of
     Amsterdam, Amsterdam, 2016, 105, for her historical discussion of
     the changes in its algorithm over time which she bases on ‘Page and
@@ -2946,7 +2958,7 @@ in the analysis of networked content.
     Relevant to note here is that, as in my own work, Weltevrede strives
     not to *know the algorithm* but to *research with algorithms*.
 
-[^39]: See also Clay Shirky’s speculation on ‘algorithmic authority’, or
+[^05ch03_39]: See also Clay Shirky’s speculation on ‘algorithmic authority’, or
     the discussion of the trust people place in the algorithms of
     Google, Twitter and Wikipedia alike in Rogers’s *Digital Methods*.
     C. Shirky, 'A Speculative Post on the Idea of Algorithmic
@@ -2954,11 +2966,11 @@ in the analysis of networked content.
     http://www.shirky.com/weblog/2009/11/a-speculative-post-on-the-idea-of-algorithmic-authority/.
     Rogers, *Digital Methods,* 96.
 
-[^40]: Rogers, *Digital Methods,* 112.
+[^05ch03_40]: Rogers, *Digital Methods,* 112.
 
-[^41]: Marres, ‘There is Drama in Networks’.
+[^05ch03_41]: Marres, ‘There is Drama in Networks’.
 
-[^42]: For the compilation of the list, I have triangulated lists of
+[^05ch03_42]: For the compilation of the list, I have triangulated lists of
     skeptics from: A.M. McCright and R.E. Dunlap, 'Defeating Kyoto: The
     Conservative Movement’s Impact on US Climate Change Policy', *Social
     Problems* 50.3 (2003): 348–373; Mother Jones, 'Put a Tiger in Your
@@ -2968,73 +2980,74 @@ in the analysis of networked content.
     http://stats.wikimedia.org/EN/BotActivityMatrix.htm. Frederick Seitz
     passed away prior to the conference yet has been kept on the list.
 
-[^43]: J. Hoggan and R. Littlemore, *Climate Cover-up: The Crusade to
+[^05ch03_43]: J. Hoggan and R. Littlemore, *Climate Cover-up: The Crusade to
     Deny Global Warming*, Vancouver: Greystone Books, 2009, 4.
 
-[^44]: For instance, in this sample, journals such as *Environmental
+[^05ch03_44]: For instance, in this sample, journals such as *Environmental
     Conservation*, the *Journal of GeoPhysical Research: Oceans,* and
     *Environmental and Experimental Botany* had only published skeptics'
     papers (cited at least three times and published before July of
     2008).
 
-[^45]: N. Oreskes, 'The Scientific Consensus on Climate Change',
+[^05ch03_45]: N. Oreskes, 'The Scientific Consensus on Climate Change',
     *Science* 306.5702 (2004): 1686–1686.
 
-[^46]: J. Cook, D. Nuccitelli, S.A. Green, M. Richardson, B. Winkler, R.
+[^05ch03_46]: J. Cook, D. Nuccitelli, S.A. Green, M. Richardson, B. Winkler, R.
     Painting, and A. Skuce, 'Quantifying the Consensus on Anthropogenic
     Global Warming in the Scientific Literature', *Environmental
     Research Letters*, 8.2 (2013): 024024.
 
-[^47]: Brin and Page, ‘The Anatomy of a Large-scale Hyptertextual Web
+[^05ch03_47]: Brin and Page, ‘The Anatomy of a Large-scale Hyptertextual Web
     Search Engine’.
 
-[^48]: See also Krippendorff, *Content Analysis,* 2013, 33.
+[^05ch03_48]: See also Krippendorff, *Content Analysis,* 2013, 33.
 
-[^49]: See also Rieder, ‘What Is in a PageRank?’ for a discussion of how
+[^05ch03_49]: See also Rieder, ‘What Is in a PageRank?’ for a discussion of how
     PageRank relates to citation analysis.
 
-[^50]: KNAW, *Klimaatverandering, Wetenschap en Debat.*
+[^05ch03_50]: KNAW, *Klimaatverandering, Wetenschap en Debat.*
 
-[^51]: KNAW, *Klimaatverandering, Wetenschap en Debat,* 34.
+[^05ch03_51]: KNAW, *Klimaatverandering, Wetenschap en Debat,* 34.
 
-[^52]: T. Wolters, 'Alarmistische KNAW in Grote Problemen', 2011,
+[^05ch03_52]: T. Wolters, 'Alarmistische KNAW in Grote Problemen', 2011,
     http://climategate.nl/2011/10/25/alarmistische-knaw-in-grote-problemen/.
 
-[^53]: T. Wolters, 'Bad Science in Alarmist Report from Royal Dutch
+[^05ch03_53]: T. Wolters, 'Bad Science in Alarmist Report from Royal Dutch
     Academic Council', 2011,
     http://climategate.nl/2011/10/19/bad-science-in-alarmist-report-from-royal-dutch-academic-council/.
 
-[^54]: H. Labohm, 'Klimaatsceptici Verzoeken KNAW Klimaatrapport in te
+[^05ch03_54]: H. Labohm, 'Klimaatsceptici Verzoeken KNAW Klimaatrapport in te
     Trekken', October 2011,
     http://www.dagelijksestandaard.nl/2011/10/klimaatsceptici-verzoeken-knaw-klimaatrapport-in-te-trekken.
 
-[^55]: Govcom.org Foundation, 'IssueCrawler: Instructions of Use',
+[^05ch03_55]: Govcom.org Foundation, 'IssueCrawler: Instructions of Use',
     http://www.govcom.org/Issuecrawler\_instructions.html.
 
-[^56]: See also the Digital Methods Initiative’s Lippmannian Device tool
+[^05ch03_56]: See also the Digital Methods Initiative’s Lippmannian Device tool
     page: Digital Methods Initiative, 'Lippmannian Device',
     https://wiki.digitalmethods.net/Dmi/ToolLippmannianDevice.
 
-[^57]: ICCC4 in May of 2010.
+[^05ch03_57]: ICCC4 in May of 2010.
 
-[^58]: H. Labohm, S. Rozendaal, and D. Thoenes, *Man-Made Global
+[^05ch03_58]: H. Labohm, S. Rozendaal, and D. Thoenes, *Man-Made Global
     Warming: Unravelling a Dogma*, Essex: Multi-Science Publishing Co.
     Ltd, 2004.
 
-[^59]: M. aan de Brugh, 'Liberaal in de Strijd Tegen Klimaatgekte', *NRC
+[^05ch03_59]: M. aan de Brugh, 'Liberaal in de Strijd Tegen Klimaatgekte', *NRC
     Handelsblad*, 19 February 2007,
     http://vorige.nrc.nl/article1771418.ece.
 
-[^60]: The ceiling for this scrape was set at 100, and she hits that
+[^05ch03_60]: The ceiling for this scrape was set at 100, and she hits that
     ceiling in eight of the sources.
 
-[^61]: Delbecq and Niederer, 'Climatosceptiques et Climatologues'.
+[^05ch03_61]: Delbecq and Niederer, 'Climatosceptiques et Climatologues'.
 
-[^62]: Delbecq, ‘Dossier Climato-sceptiques’.
+[^05ch03_62]: Delbecq, ‘Dossier Climato-sceptiques’.
 
-[^63]: Niederer, 'Global Warming Is Not a Crisis!'.
+[^05ch03_63]: Niederer, 'Global Warming Is Not a Crisis!'.
 
-[^64]: Helmond, *The Web as Platform.*
+[^05ch03_64]: Helmond, *The Web as Platform.*
+
 
 
 # 4. Wikipedia as a Socio-technical Utility for Networked Content Analysis
@@ -3050,7 +3063,7 @@ coming to the discussion of this debate, as it plays out and is managed
 among and other controversial topics and the management thereof in
 Wikipedia, I will discuss how Wikipedia has revived the idea of the web
 as a place of human collaboration and mass participation by
-‘everybody’.[^1] The Wikipedia platform is often considered as an
+‘everybody’.[^06ch04_1] The Wikipedia platform is often considered as an
 example par excellence of the collaborative promise of social media, and
 of knowledge production and management that utilizes the wisdom of
 crowds. Since 2001, its group of editors and volunteers has engaged in
@@ -3059,7 +3072,7 @@ welcome to contribute, and articles are open to continuous editing and
 refinement. Scholars who have evaluated or contested the value of
 Wikipedia content have almost unanimously focused on its crowd-based
 organization and have stressed the danger of producing low-quality
-information with many (anonymous) minds.[^2]
+information with many (anonymous) minds.[^06ch04_2]
 
 These concerns about Wikipedia are legitimate and relevant, of course,
 but the one-sided focus they give to human agents while neglecting the
@@ -3141,7 +3154,6 @@ Google Web Search and Twitter. In my networked content analysis here, I
 build on existing research to trace climate change-related content and
 close read actor behavior in and through Wikipedia.
 
-
 ## Many Minds Collaborating
 
 Wherever Wikipedia is discussed, the facts of its material composition
@@ -3152,7 +3164,7 @@ collaboration’; by Tapscott and Williams as ‘mass collaboration’; and as
 a space enabling hybrid new forms of ‘produsage’ by Bruns, inspiring
 what Howe calls ‘crowdsourcing’ and Stalder and Hirsch describe as ‘Open
 Source Intelligence’, and Poe as ‘collaborative
-knowledge’.[^3][^4][^5][^6][^7][^8][^9][^10] As a collectively written
+knowledge’.[^06ch04_3][^06ch04_4][^06ch04_5][^06ch04_6][^06ch04_7][^06ch04_8][^06ch04_9][^06ch04_10] As a collectively written
 encyclopedia launched on a wiki platform, it is indeed one of the web’s
 most significant and longer duree (in internet history terms) examples
 of collaborative knowledge production. In early 2008, an article in the
@@ -3168,7 +3180,7 @@ Wikipedia:
 > the occasional congratulatory ‘barn star’ on their user page and the
 > satisfaction of secret fame. Wikipedia flourished partly because it
 > was a shrine to altruism — a place for shy, learned people to deposit
-> their trawls.[^11]
+> their trawls.[^06ch04_11]
 
 Since the start of the Wikipedia project in 2001, the dedication of its
 contributors as well as the platform’s success in socializing knowledge
@@ -3180,10 +3192,10 @@ producing knowledge — it is interesting to recall that the project
 originally intended to be an expert-generated encyclopedia. Beginning
 under the name of Nupedia, a small team of selected academics was
 invited to write the entries, with the aim of creating a ‘free online
-encyclopedia of high quality’.[^12] The articles would be made available
+encyclopedia of high quality’.[^06ch04_12] The articles would be made available
 to World Wide Web users through an open content license. Founder Jimmy
 ‘Jimbo’ Wales and his employee Larry Sanger put into place a protocol
-based on academic peer-review.[^13] This expert approach failed, partly
+based on academic peer-review.[^06ch04_13] This expert approach failed, partly
 because of the slowness of the editing process by invited scholars. To
 speed up the process, Sanger suggested a wiki as a collective place
 where scholars and interested laypeople from all over the world could
@@ -3198,7 +3210,7 @@ from collaborative production. In early 2002, however, Sanger was
 dissatisfied and turned away from the epistemic free-for-all of
 Wikipedia, towards an expert-written encyclopedic model called
 Citizendium; Wales stayed, choosing to pursue further the Wikipedia
-model.[^14]
+model.[^06ch04_14]
 
 Ever since the Sanger-Wales split, the question of whether online
 encyclopedias and similar enterprises should be produced by a few
@@ -3206,10 +3218,10 @@ accountable individuals (experts) or from the fruits of many (amateur)
 minds has been a source of heated debate. Internet critic Andrew Keen
 applauded Sanger for coming to his senses about the (in his view)
 debased value of amateur contributions in favor of professional
-expertise.[^15] On the other end of the spectrum, many Wikipedia adepts
+expertise.[^06ch04_15] On the other end of the spectrum, many Wikipedia adepts
 have praised its democratizing potential as well as its ethos of
 community and collaborative knowledge production available to everyone
-to read and write.[^16][^17] At the same time, the publicly consolidated
+to read and write.[^06ch04_16][^06ch04_17] At the same time, the publicly consolidated
 narrative that Wikipedia is produced by *crowds* has been challenged,
 most notably by Wikipedia’s founders themselves. In actuality, during
 the first five years of its existence, Wikipedia was largely dependent
@@ -3226,7 +3238,7 @@ talk at Stanford University in 2006:
 > group of a few hundred volunteers. (...) I expected to find something
 > like an 80-20 rule: 80% of the work being done by 20% of the users (…)
 > But it's actually much, much tighter than that: it turns out over 50%
-> of all the edits are done by just \[0\].7% of the users.[^18]
+> of all the edits are done by just \[0\].7% of the users.[^06ch04_18]
 
 As Wales asserts until 2006, Wikipedia was primarily written and
 maintained by a small core of dedicated editors (2% doing 73.4% of all
@@ -3237,7 +3249,7 @@ and Vipul Ved Prakash were among the first to disaggregate the notion of
 ‘many minds’ collaborating in the open software movement. From their
 work, they conclude that ‘free software development is less a bazaar of
 several developers involved in several projects and more a collation of
-projects developed single-mindedly by a large number of authors’.[^19]
+projects developed single-mindedly by a large number of authors’.[^06ch04_19]
 In the open source movement then, very few total numbers of people were
 directly collaborating in developing software. This raises the question
 whether the same dynamics hold for Wikipedia.
@@ -3247,16 +3259,16 @@ collectivity as a mere myth. The matter is more complicated than this.
 From 2004 onwards, the online encyclopedia shows a distinct decline of
 ‘elite' users while at the same time, the number of edits made by novice
 users and ‘masses’ steadily increases. Various researchers have pointed
-to a dramatic shift in workloads to the common user at this point.[^20]
+to a dramatic shift in workloads to the common user at this point.[^06ch04_20]
 But instead of explaining the shift as a reversal of existing orders of
 participation, Kittur et al. speak of marked growth in the population of
-low edit users in terms of ‘the rise of the bourgeoisie’.[^21]
+low edit users in terms of ‘the rise of the bourgeoisie’.[^06ch04_21]
 Interestingly, these researchers explain this shift and coinage by
 describing Wikipedia's dynamic social system evolving as a result of the
 gradual development, implementation, and distribution of content
 management systems. After an initial period of being managed by a small
 group of high-powered, dedicated volunteers, the ‘pioneers were dwarfed
-by the influx of settlers’.[^22] The early adopters select and refine
+by the influx of settlers’.[^06ch04_22] The early adopters select and refine
 the technology and managerial systems, followed by a majority of novice
 users who begin to be the primary users of the system. Kittur and his
 colleagues observe a similar decline of elite users in Web 2.0 platforms
@@ -3266,14 +3278,14 @@ online collaborative knowledge systems.
 This tentative conclusion is reinforced by the research of Burke and
 Kraut, which shows that to sustain the encyclopedia’s growing
 popularity, organizers need to identify the platform’s more productive
-workers and grant them ‘administrator’s status’.[^23] Important to note
+workers and grant them ‘administrator’s status’.[^06ch04_23] Important to note
 here is that since the publication by Kittur et al. in 2007, the
-English-language Wikipedia has lost one-third of its editors.[^24][^25]
+English-language Wikipedia has lost one-third of its editors.[^06ch04_24][^06ch04_25]
 Problematically, the composition of this remaining editor-base mainly
 consists of white male editors, a gender imbalance that plays out in the
 substance of the encyclopedia project. ‘Its entries on
 Pokemon and female porn stars are comprehensive, but its pages on female
-novelists or places in sub-Saharan Africa are sketchy’.[^26][^27]
+novelists or places in sub-Saharan Africa are sketchy’.[^06ch04_26][^06ch04_27]
 
 Although Wikipedia researchers who look at compositions of the so-called
 crowd do observe significant historical changes in the ‘wisdom of
@@ -3294,26 +3306,26 @@ source) applications are not simply open or closed, but modulated. More
 specifically, Galloway’s work is key to comprehending the extent to
 which networked technology and the management of its developments are
 moderated by protocol — logics and authority generated ‘from technology
-itself and how people program it’.[^28] Wikipedia, built as an open
+itself and how people program it’.[^06ch04_28] Wikipedia, built as an open
 system and carried out by large numbers of contributors, appears to be a
 *warm, friendly* technological space, but only becomes warm and friendly
 through what Galloway refers to as ‘technical standardization,
 agreement, organized implementation, broad adoption and directed
-participation’.[^29]
+participation’.[^06ch04_29]
 
 It is in these formative years of Wikipedia that the specific technicity
 of its content materialized and developed into a techno-managerial
 system, imposing a hierarchical order in deciding what entries to
-include or exclude and what edits to allow or block.[^30] Here, to look
+include or exclude and what edits to allow or block.[^06ch04_30] Here, to look
 more closely at Wikipedia’s organizational hierarchy (Figure 10) is to
 distinguish various user groups, some of which are ‘global’ (in the
 sense that they edit across various language Wikipedias) while others
 are specific to a certain local Wikipedia.
 
-![](imgs/figure10.png)
-
-Figure 10: User groups and their permission levels. Schematic overview of global and local categories of Wikipedia users according to permission levels. Wikimedia contributors, 'Wikipedia User Groups', 13 August 2019,
-http://meta.wikimedia.org/wiki/User\_groups.
+Figure 10: User groups and their permission levels. Schematic overview
+of global and local categories of Wikipedia users according to
+permission levels. Wikimedia contributors, 'Wikipedia User Groups', 13
+August 2019, http://meta.wikimedia.org/wiki/User\_groups.
 
 Each user group maintains the same pecking order, regulating the
 distribution of permission levels: blocked users have the least
@@ -3324,7 +3336,7 @@ administrators (or ‘admins'), who occupy the highest level in the
 elaborate Wikipedia-bureaucracy. System administrators (or ‘developers')
 have the most permissions, including server access. This is a small user
 group of only ten people who ‘manage and maintain the Wikimedia
-Foundation Servers’.[^31] Remarkable in this ranking system is the
+Foundation Servers’.[^06ch04_31] Remarkable in this ranking system is the
 position of bots (short for software robots), whose permission level is
 just below that of administrators but above the authority of registered
 users. I will return to the status of bots in the third section. For
@@ -3336,27 +3348,27 @@ collaboration, it could be argued that the very success of the Wikipedia
 project lies less as much in free collaboration as it does in the
 regulation of collaborative production at every level, from a small edit
 or a single upload to a more extensive contribution or even development
-of the platform or its content.[^32] Like any large public system,
+of the platform or its content.[^06ch04_32] Like any large public system,
 Wikipedia works through a system of disciplinary control by issuing
 rewards, such as granting a dedicated user the authority level of
 administrator, and by blocking the contributing rights of those users
-who deviate from the rules.[^33] A disciplinary system of power
+who deviate from the rules.[^06ch04_33] A disciplinary system of power
 distribution in the digital age, however, can’t be regarded exclusively
-as a system of social control.[^34] As Gilles Deleuze has pointed out in
+as a system of social control.[^06ch04_34] As Gilles Deleuze has pointed out in
 his acute revision of Foucault’s disciplinary institutions, a ‘society
 of control’ deploys technology as an intricate part of its social
-mechanisms.[^35] Wikipedia’s content management system, with its
+mechanisms.[^06ch04_35] Wikipedia’s content management system, with its
 distinct levels of permissions, allows moreover for protocological
 control: a mode of control that is at once social and technological—one
-cannot exist without the other.[^36] Along the same lines, Bruno Latour
+cannot exist without the other.[^06ch04_36] Along the same lines, Bruno Latour
 proposes to analyze technological objects and infrastructures as
 ‘socio-technical ensembles’, in which the strict division between
-‘material infrastructure’ and ‘social superstructure’ is dissolved:[^37]
+‘material infrastructure’ and ‘social superstructure’ is dissolved:[^06ch04_37]
 
 > Rather than asking, “is this social” or “is this technical or
 > scientific” \[...\] we ask: has a human replaced a non-human? Has a
 > non-human replaced a human? \[…\] Power is not a property of any of
-> those elements \[of humans or non-humans\] but of a chain.[^38]
+> those elements \[of humans or non-humans\] but of a chain.[^06ch04_38]
 
 Attending to the chain, rather than reinforcing the ‘technology/society
 divide’ that these theorists have already deconstructed before me, I
@@ -3384,7 +3396,7 @@ socially editable, collaborated and anonymous dissemination. In other
 words, Wikipedia organizes the authorship of content and manages its
 standards, and thus ‘authority’, quite differently to offline projects
 like the Encyclopedia Britannica, against which it has often been
-compared and tested.[^39] In response to this accuracy debate, reliant
+compared and tested.[^06ch04_39] In response to this accuracy debate, reliant
 on the assumed polarity between (known) experts and (unknown)
 laypersons, few academics proposed to redirect their focus from
 encyclopedic content to the qualities and agency of Wikipedia’s
@@ -3393,7 +3405,7 @@ technological tools.
 One exception is a study by historian Roy Rosenzweig that conducted a
 thorough analysis of Wikipedia content by comparing it biographical
 entries to entries from the American National Biography Online (written
-by known scholars).[^40] Rosenzweig concludes that the value of
+by known scholars).[^06ch04_40] Rosenzweig concludes that the value of
 Wikipedia should not be sought in the accuracy of its published content
 at one moment in time but in the dynamics of its continuous editing
 process — an intricate process where amateurs and experts collaborate in
@@ -3405,7 +3417,7 @@ system of consensus-based editing that shows up how history is written
 from multiple accounts. In his words: ‘Although Wikipedia as a product
 is problematic as a sole source of information, the process of creating
 Wikipedia fosters an appreciation of the very skills that historians try
-to teach.’[^41] One of the most important features, in this respect, is
+to teach.’[^06ch04_41] One of the most important features, in this respect, is
 the website's built-in history page for each article, which lets you
 check the edit history of an entry. According to Rosenzweig, the history
 of an article, as well as personal watch lists and recent changes pages,
@@ -3433,7 +3445,7 @@ and enabled the creation of counter-tools such as WikiScanner for
 checking the identity of anonymous contributors, which it does by
 matching IP addresses with contact information. Bias in contributions
 can in this way be identified by a layperson, tracked across multiple
-entries, and if necessary, reversed.[^42][^43] My propositions for
+entries, and if necessary, reversed.[^06ch04_42][^06ch04_43] My propositions for
 networked content analysis attendant to these socio-technics is informed
 by controversy mapping and follows the actors to understand the debate
 and the state thereof.
@@ -3470,7 +3482,7 @@ online encyclopedia if they weren’t assisted by a large number of
 software robots. Bots are pieces of software or scripts that are
 designed to ‘make automated edits without the necessity of human
 decision-making.’ They can be recognized by a username that contains the
-word ‘bot,' such as SieBot or TxiKiBoT (Wikimedia, n.d.-i).[^44] Bots
+word ‘bot,' such as SieBot or TxiKiBoT (Wikimedia, n.d.-i).[^06ch04_44] Bots
 are created by Wikipedians, and once approved, they obtain their own
 user page and form their own user group with a certain level of access
 and administrative rights, made visible by flags on a user account page.
@@ -3478,7 +3490,7 @@ One year after Wikipedia was founded, bots were introduced to help with
 repetitive administrative tasks. Since the first bot was created on
 Wikipedia, the number of bots has grown exponentially. In 2002, there
 was only one active bot on Wikipedia; in 2006, the number had grown to
-151, and in 2008 there were 457 active bots.[^45][^46]
+151, and in 2008 there were 457 active bots.[^06ch04_45][^06ch04_46]
 
 In general, there are two types of bots: editing (or ‘co-authoring’)
 bots and non-editing (or ‘administrative’) bots. Each bot has a very
@@ -3522,7 +3534,7 @@ tools. The capacities of these kinds of users are captured in naming
 them ‘software-assisted human editors.’ Bots are Wikipedians’ co-authors
 of many entries. One of the first editing bots to be deployed by
 Wikipedians was rambot, a piece of software created by Derek
-Ramsey.[^47] Rambot pulls content from public databases and feeds it
+Ramsey.[^06ch04_47] Rambot pulls content from public databases and feeds it
 into Wikipedia, creating or editing articles on specific content, either
 one by one or as a batch. Since its inception in 2002, rambot has
 created approximately 30,000 articles on U.S. cities and counties on
@@ -3540,17 +3552,14 @@ process; the entry has been enriched with facts, figures and images
 (Figure 11). The basic format, however, has remained the same. To date,
 it still is rambot’s main task to create and edit articles about US
 counties and cities, while human editors check and compliment the facts
-provided by this software robot.[^48]
+provided by this software robot.[^06ch04_48]
 
-![](imgs/figure11a.png)
-
-![](imgs/figure11b.png)
-
-Figure 11: A bot-created article compared to a human-edited article. The upper
-screenshot is the La Grange, Illinois article as created by rambot on 11
-December 2002. The lower screenshot shows the same article on 14
+Figure 11: A bot-created article compared to a human-edited article. The
+upper screenshot is the La Grange, Illinois article as created by rambot
+on 11 December 2002. The lower screenshot shows the same article on 14
 November 2015. Wikipedia contributors, 'La Grange, Illinois', 27
-February 2016, https://en.wikipedia.org/w/index.php?title=La\_Grange,\_Illinois&oldid=707244890.
+February 2016,
+https://en.wikipedia.org/w/index.php?title=La\_Grange,\_Illinois&oldid=707244890.
 
 But how dependent is Wikipedia on the use of bots as content agents for
 the creation and editing of its articles? What is the relative balance
@@ -3558,7 +3567,7 @@ of human versus non-human contributions in the online encyclopedia?
 Peculiarly, the answer to this simple question turns out to be layered
 and nuanced. From the statistics offered by Wikipedia, it is observable
 that the use of non-human contributions differs to a striking degree
-between various language Wikipedias.[^49] As a global project, Wikipedia
+between various language Wikipedias.[^06ch04_49] As a global project, Wikipedia
 features over ten million articles in over 250 languages. What is the
 relative balance of human versus non-human agents? The fact that
 Wikipedia distinguishes between local and global user groups already
@@ -3570,12 +3579,12 @@ had 22.4% bot activity. The percentage of bot edits in all Wikipedias
 combined was 25,8% in February of 2015. Excluding the English language
 Wikipedia, total bot activity counts up to over 35% (which was 39% in
 2009). This shows that bot activity is unevenly distributed across
-language versions.[^50][^51][^52]
+language versions.[^06ch04_50][^06ch04_51][^06ch04_52]
 
 To account for the differences in bot activity versus human activity, in
 previous research I have compared bot activity in the most-used language
 Wikipedias (English, Japanese, German) to bot activity in endangered and
-revived language Wikipedias (e.g., Cornish, Oriya, Ladino).[^53] Most of
+revived language Wikipedias (e.g., Cornish, Oriya, Ladino).[^06ch04_53] Most of
 the editing of the English, Japanese, and German Wikipedias in 2008 was
 shown to be done by human editors. The German Wikipedia, for instance,
 had only 9% bot activity, the English version even less. Wikipedias of
@@ -3597,7 +3606,7 @@ are ‘good' Wikipedia articles full of links to reliable sources, but
 they should also link to related Wikipedia articles and sub-articles,
 and be linked to. Articles that only refer to each other, but are not
 linked to or linking to other articles, are also considered a threat to
-the principle of building the web.[^54] Most of the work in interlinking
+the principle of building the web.[^06ch04_54] Most of the work in interlinking
 these Wikipedia language versions is done by so-called interwiki bots.
 
 It is possible to analyze a language version’s state of
@@ -3631,7 +3640,7 @@ anything but a culturally neutral space; major aspects of online
 collaborative work are influenced by pre-existing cultural differences
 between human contributors, as discussed in a comparative content
 analysis of the editing behavior found in four language versions of the
-Wikipedia article on Games.[^55] Adding a medium-specific networked
+Wikipedia article on Games.[^06ch04_55] Adding a medium-specific networked
 content analysis of the varied distributions of bot dependency across
 the wide range of language Wikipedias, it is possible to elaborate
 further that cultural differences in collaborative authoring of
@@ -3686,7 +3695,7 @@ rule). In his words:
 > abortion at different times. \[…\] This made it easier to organize and
 > understand the arguments surrounding the topic of abortion, which were
 > each then presented sympathetically, each with its strengths and
-> weaknesses.[^56]
+> weaknesses.[^06ch04_56]
 
 There are other examples in which a networked content analysis of
 controversial Wikipedia articles provides a much richer view of the
@@ -3697,22 +3706,22 @@ specific issue. Researchers including Rogers and Sendijarevic, and
 similarly Bilic and Bulian, have pointed out that it is more accurate to
 say that there are ‘national’ rather than ‘neutral’ points of view,
 where different language versions provide different views on a specific
-historic event.[^57] In this section, I will discuss two analyses of
+historic event.[^06ch04_57] In this section, I will discuss two analyses of
 controversy around the history of a specific place, and how these case
 studies deploy the technicities of Wikipedia content for their analysis.
-First, I will discuss a famously debated article on Gdańsk/Danzig.[^58]
+First, I will discuss a famously debated article on Gdańsk/Danzig.[^06ch04_58]
 Secondly, I will discuss the study of the Srebrenica massacre by Rogers
 and Sendijarevic.
 
 The article on Gdańsk/Danzig is one of the better-known controversy
-objects within Wikipedia.[^59] An ethnographic study by Darius Jemelniak
+objects within Wikipedia.[^06ch04_59] An ethnographic study by Darius Jemelniak
 explores this case extensively, by looking at how the ‘traditional
 dispute resolution methods’ of Wikipedia proved ineffective in this
-case, such that consensus was never reached.[^60] The article on Gdańsk,
+case, such that consensus was never reached.[^06ch04_60] The article on Gdańsk,
 which was written already in 2001 with the start of the Wikipedia
 project, in its first version consisted of just two sentences: ‘Gdansk
 is a city in Poland, on the Baltic sea. Its old German name is
-Danzig.’[^61] In December of the same year, after several changes to the
+Danzig.’[^06ch04_61] In December of the same year, after several changes to the
 body of the article, an editor decided to change its title and all other
 mentions of Gdańsk in the article to Danzig. Jemelniak describes how
 various editors have striven to reach a compromise in both the naming
@@ -3724,7 +3733,7 @@ into one about Gdańsk and one about Danzig.
 
 Jemelniak emphasizes that in accordance with the larger Wikipedia model,
 a consensus is often reached over time; therefore, ‘winning an argument
-is simply about staying in the discussion long enough’.[^62] In the case
+is simply about staying in the discussion long enough’.[^06ch04_62] In the case
 of Gdansk, however, longevity did not lead to consensus, and the edit
 war persisted for years. Between 2003 and 2005, the editing was mainly
 done by four editors heatedly working on the article, which lead
@@ -3732,12 +3741,12 @@ administrator Ed Poor (who we will see more of in the study of the
 climate change articles) to intervene. His efforts however, only
 exacerbated the edit war, which was by then even listed as one of the
 ‘lamest edit wars' ever on the Wikipedia page dedicated to tracking
-these.[^63][^64]
+these.[^06ch04_63][^06ch04_64]
 
 Eventually, a sub-page was set up for voting about the naming
 convention. This subpage first ‘prolonged the debate’ but later did
 facilitate a vote, which attracted a strikingly small number of only 80
-votes.[^65] Today, the Gdańsk page in English uses the city name Gdańsk
+votes.[^06ch04_65] Today, the Gdańsk page in English uses the city name Gdańsk
 throughout the article, and Danzig has its own dedicated article. Where
 Jemielniak looks mostly at the various actors and their discussions in
 the talk page for his content analysis, which allows for a close reading
@@ -3746,11 +3755,11 @@ that includes the editing history per user, and checks the editing
 history of some of the 80 editors who did vote, for instance. The fact
 that some of these editors only had a very limited editing history
 before the date of the vote raises further questions about whether user
-accounts were created solely for this purpose.[^66][^67] Jemielniak’s
+accounts were created solely for this purpose.[^06ch04_66][^06ch04_67] Jemielniak’s
 analysis concludes from this that Wikipedia as a ‘community relies as
 much on cooperation as it does on conflict’, which he then fleshes out
 by looking at the strict editing protocols at play (discussed earlier in
-this chapter).[^68]
+this chapter).[^06ch04_68]
 
 In his analysis, Jemielniak makes use of various technicities of
 Wikipedia. For instance, he looks at the history of the article
@@ -3761,7 +3770,7 @@ of each of the Wikipedians involved in the discussions and editing wars.
 Furthermore, he gains insight into the internal Wikipedia culture by
 describing the role of administrators in mediating and locking down
 controversial articles, and by pointing at the (humorously intended)
-‘lamest edit wars’ page.[^69] However, where Jemelniak starts his study
+‘lamest edit wars’ page.[^06ch04_69] However, where Jemelniak starts his study
 by saying that ‘traditional dispute resolution methods’ did not work in
 the Gdańsk/Danzig example, we will see that the eventual forking of the
 article (into one about Gdańsk and one about Danzig) to displace
@@ -3775,16 +3784,16 @@ was conducted by Rogers and Sendijarevic around the topic of the
 Srebrenica massacre of July 1995. Where Jemielniak describes Wikipedia
 as a dissent-driven platform, Rogers and Sendijarevic discuss the
 platform as a ‘cultural reference’, and site for controversy
-mapping.[^70] Perhaps it is needless to emphasize again that this is a
+mapping.[^06ch04_70] Perhaps it is needless to emphasize again that this is a
 counter-intuitive point of departure from the notion of Wikipedia
 authorship as being principally invested in the cultivation of a neutral
 point of view (NPoV), to ‘\[represent\] fairly, proportionately, and as
 far as possible without bias, all significant views that have been
-published by reliable sources’.[^71] In this case study, conducted by
+published by reliable sources’.[^06ch04_71] In this case study, conducted by
 Rogers and Sendijarevic, the research question is whether Wikipedia
 could show up ongoing differences in points of view on the events of
 July 1995 in Srebrenica, through a method of comparing various language
-versions of the article on the Srebrenica Massacre.[^72]
+versions of the article on the Srebrenica Massacre.[^06ch04_72]
 
 The content demarcated for this comparative analysis consists of six
 language versions of the article on the ‘Srebrenica Massacre’, namely
@@ -3793,7 +3802,7 @@ versions. The content used for comparison contains the common parts of
 an article, such as title, table of content, authors (or editors),
 images, and references. Wikipedia-specific content elements that are
 added to the data set include the discussion pages and the location of
-anonymous editors (based on their IP-address).[^73] This leaves out
+anonymous editors (based on their IP-address).[^06ch04_73] This leaves out
 other similarly specific elements that are also of interest in the study
 of Wikipedia articles, such as the activity of bots, which as discussed,
 are often the most active editors, whether across an entire language
@@ -3812,34 +3821,25 @@ military term ‘fall’ of Srebrenica, as the Dutch article title reads.
 Another striking difference could be found in the victim count across
 article versions (Table 1), where the Dutch and Serbian articles round
 down, and the others tend to be higher, and the English one most
-specific.[^74]
+specific.[^06ch04_74]
 
-  ---------------------------------------------------------------
+  ---------------------------------- ---------------------------
   Wikipedia Language version         Number of Bosniak victims
-                                     
-                                     of the Srebrenica massacre
-  ---------------------------------- ----------------------------
   Dutch (Nederlands)                 7000-8000
-
   English                            8372
-
   Bosnian (Bosanski)                 8000
-
   Croatian (Hrvatski)                8000
-
   Serbian (Srpski)                   6000-8000
-
   Serbo-Croatian (Srpsko-Hrvatski)   8000
-  ---------------------------------------------------------------
+  ---------------------------------- ---------------------------
 
-Table 1: Wikipedia
-articles compared across language versions. Comparison of victim counts
-from the Srebrenica massacre in the Bosnian, Croatian, Dutch, English,
-Serbian and Serbo-Croatian articles. Rogers and Sendijarevic. 'Neutral
-or National Point of View?’.
+Table 1: Wikipedia articles compared across language versions.
+Comparison of victim counts from the Srebrenica massacre in the Bosnian,
+Croatian, Dutch, English, Serbian and Serbo-Croatian articles. Rogers
+and Sendijarevic. 'Neutral or National Point of View?’.
 
 The first analysis confirmed a ‘national’ point of view rather than a
-‘neutral’ point of view.[^75] With methodological nuance, Rogers and
+‘neutral’ point of view.[^06ch04_75] With methodological nuance, Rogers and
 Sendijarevic explore Networked Content Analysis on different technical
 levels. Firstly, on a Wikipedia language version level, their detailed
 findings give an overview of the four Balkan language versions (Serbian,
@@ -3861,7 +3861,7 @@ use of images ‘looking at the sheer numbers (62 in total), the shares of
 them (English with 20, Bosnian 15, Croatian 14, Serbian and
 Serbo-Croatian 5 and Dutch 3), the common ones, and those that are
 unique’, and a similar analysis of shared and unique references, the
-victim count per article, and the table of content.[^76] Regarding the
+victim count per article, and the table of content.[^06ch04_76] Regarding the
 talk page, their study offers a very detailed description of the actors’
 positions and discussions. Rogers and Sendijarevic make the point that
 these sub-analyses, especially of discussions, show the struggles to
@@ -3871,7 +3871,7 @@ English version, which results in a continually contested article often
 referred to (in the Serbian article) as western biased. The
 Serbo-Croatian strives to be anti-nationalist and apolitical, employing
 a variety of means to unify the Bosnian and Serbian points of
-view.’[^77] In all, the researchers found that ‘the analysis provides
+view.’[^06ch04_77] In all, the researchers found that ‘the analysis provides
 footing for studying Wikipedia’s language versions as cultural
 references’.
 
@@ -3884,13 +3884,13 @@ and Michael Stevenson, which was conducted already in 2009, and is
 discussed in the following section. Their case study, titled *The Place
 of Issues*, combines the study of networked articles with a close
 reading of editing activity, and actor commitment, including active
-bots.[^78]
+bots.[^06ch04_78]
 
 ## Wikipedia and the Climate Change Debate
 
 In their study, Gerlitz and Stevenson first collect all Wikipedia
 articles that are interlinked with the article on Global Warming, and
-only retain the reciprocal links.[^79] Subsequently, each of the
+only retain the reciprocal links.[^06ch04_79] Subsequently, each of the
 resulting URLs is scraped for links to Wikipedia articles, which are
 collected in a relational database. This database is visualized with
 ReseauLu, software for network analysis and visualization, after which
@@ -3913,16 +3913,14 @@ Depletion’, ‘Kyoto Protocol' and ‘Renewable Energy'). Notably, this last
 group includes articles explicitly about the climate change debate:
 e.g., ‘Scientific Opinion on Climate Change’, ‘Global Warming
 Controversy', and ‘Solar Variation' (considered by the Wikipedian who
-created the article as ‘competition for “global warming” theory’).[^80]
+created the article as ‘competition for “global warming” theory’).[^06ch04_80]
 Within both clusters are articles explicitly about climate change
 debates, such as ‘Scientific opinion on climate change’ and ‘Global
 warming controversy’ in the looser cluster, and ‘Climate change denial’
 in the dense cluster.
 
-![](imgs/figure12.png)
-
-Figure 12: Article network graph. This graph depicts the network
-of Wikipedia articles interlinked with the ‘Global Warming’ Wikipedia
+Figure 12: Article network graph. This graph depicts the network of
+Wikipedia articles interlinked with the ‘Global Warming’ Wikipedia
 article. Nodes are sized according to numbers of links, shaped according
 to their role in the network (hubs appear in purple), and distributed
 according to their in- and out-degree centrality. Digital Methods
@@ -3935,10 +3933,10 @@ implicitly, for example, in the aforementioned NPoV core rule). From
 this perspective, one sees a very clear separation — at the level of
 discourse and article delineations and links — of factual articles from
 articles dealing with the popular debate surrounding the existence and
-causes of Global Warming.[^81][^82][^83] In further analyses (below),
+causes of Global Warming.[^06ch04_81][^06ch04_82][^06ch04_83] In further analyses (below),
 Stevenson and Gerlitz ask whether the creation of specific new articles
 dedicated to the controversy may be better viewed as a form of
-controversy management, one that is specific to Wikipedia.[^84]
+controversy management, one that is specific to Wikipedia.[^06ch04_84]
 
 Stevenson and Gerlitz commenced their study of ‘controversy management’
 on Wikipedia by zooming in on editing activity within a select sample of
@@ -3948,9 +3946,8 @@ and visualized this as a (over two meters wide) ‘bubble line’ heat map,
 where the intensity of the red color indicates editing activity (Figure
 13).
 
-![](imgs/figure13.jpg)
-
-Figure 13: Editing heat map. This is an over two meters-wide bubble line heat map, visualizing the editing activity over time in a set of climate
+Figure 13: Editing heat map. This is an over two meters-wide bubble line
+heat map, visualizing the editing activity over time in a set of climate
 change-related articles. The intensity of the red color indicates the
 editing activity in the respective article Digital Methods Initiative,
 'The Place of Issues'.
@@ -3975,7 +3972,7 @@ Nations Intergovernmental Panel on Climate Change (IPCC) in February of
 protection of both articles after an editing war led administrators to
 close down the article from further editing. The heat map may thus also
 be used to signal significant moments in Wikipedia's management of the
-issue of global warming.[^85]
+issue of global warming.[^06ch04_85]
 
 In addition to this editing activity heat map, Gerlitz and Stevenson
 made a similar bubble heat map of bot activity. Here, they shift focus
@@ -3984,7 +3981,7 @@ things. Firstly, and perhaps unsurprisingly, the most actively edited
 articles in the network have most bot activity. The four most active
 bots in this space (ClueBot, SmackBot, TawkerBot2, and AntiVandalBot)
 are anti-vandalism bots that are indeed also most active in the
-most-edited articles.[^86][^87] Secondly, the researchers found that
+most-edited articles.[^06ch04_86][^06ch04_87] Secondly, the researchers found that
 bots do not account for the high editing activity, as most bots that are
 editing these articles make only up to ten edits each.
 
@@ -4014,12 +4011,11 @@ again demonstrates a commitment to debate as such, rather than to the
 knowledge of climate change, as we have also seen in the web analysis of
 skeptics and their ‘related issues’ in the previous study in Chapter 3.
 
-![](imgs/figure14.jpg)
-
-Figure 14: Editor migration map. This Dorling map visualizes the activity of editors active in the ‘Climate Change’ Wikipedia article in June of 2003 (left),
-as compared to those active in the articles on ‘Climate Change’ and
-‘Scientific Opinion on Climate Change’ (right). Digital Methods
-Initiative, 'The Place of Issues'.
+Figure 14: Editor migration map. This Dorling map visualizes the
+activity of editors active in the ‘Climate Change’ Wikipedia article in
+June of 2003 (left), as compared to those active in the articles on
+‘Climate Change’ and ‘Scientific Opinion on Climate Change’ (right).
+Digital Methods Initiative, 'The Place of Issues'.
 
 The above case studies are examples of how the methods of Networked
 Content Analysis can close-read the dynamics of controversy and
@@ -4039,16 +4035,16 @@ four universities working together in the context of the aforementioned
 project Electronic Maps to Assist Public Science (EMAPS) have created
 *Contropedia*, an analytical platform that offers novel visual analyses
 of the instances and objects of contestation within Wikipedia
-articles.[^88][^89] Their key orientation towards these inquiries and
+articles.[^06ch04_88][^06ch04_89] Their key orientation towards these inquiries and
 their utility is that conflicts on Wikipedia ‘often reflect larger
-societal debates’.[^90] Contropedia, presently being developed for both
+societal debates’.[^06ch04_90] Contropedia, presently being developed for both
 the public and specific users such as scientists and decision-makers,
 aims to extract social controversies from Wikipedia and provide new
 insights into these through visualization tools. Contropedia builds its
 metrics on those of Wikipedia itself, and combines real-time data about
 editing and discussion activity, to ‘\[allow\] for a deeper
 understanding of the substance, composition, actor alignment, trajectory
-and liveliness of controversies on Wikipedia’.[^91] This commitment to
+and liveliness of controversies on Wikipedia’.[^06ch04_91] This commitment to
 the co-development of, essentially, a publicly available tool for
 networked content analysis, is perhaps a sign of this practice that I am
 outlining in this thesis starting to take form further, and is confirmed
@@ -4084,7 +4080,6 @@ than carrying pre-set categories and codebooks), this encourages the
 Networked Content Analysis researcher to make use of the networkedness
 of content and traverse content spaces.
 
-
 ## Conclusions
 
 In line with David Beer’s call for a more thorough understanding of the
@@ -4092,7 +4087,7 @@ In line with David Beer’s call for a more thorough understanding of the
 this chapter discussed several methods to study networked content while
 unraveling in detail the close interdependency of human and
 technological agents, in order to further the instruments needed for
-Networked Content Analysis.[^92] It is important to comprehend the
+Networked Content Analysis.[^06ch04_92] It is important to comprehend the
 powerful information technologies that shape our everyday life and the
 coded mechanisms behind our informational practices and cultural
 experiences. The analysis of the Wikipedia platform as a socio-technical
@@ -4109,18 +4104,18 @@ wiki-platform of Wikipedia, networked content analysis provides means to
 properly assess Wikipedia’s content, across articles and language
 versions. Nicolas Carr has compared Web 2.0 to the mechanical Turk (of
 the late 18th century), which ‘turns people’s actions and judgments into
-functions in a software program’.[^93] Wikipedia, on the other hand,
+functions in a software program’.[^06ch04_93] Wikipedia, on the other hand,
 could be described as its opposite; people are so focused on watching
 the humans creating knowledge that they do not see the machinery and
 actual bots that are so entangled with what is created and
-collaborated.[^94] A thorough and critical understanding of the
+collaborated.[^06ch04_94] A thorough and critical understanding of the
 automated processes that structure human judgments and decisions in and
 beyond online space requires analytical skills and medium-specific
 methods. These are crucial to a full understanding of how Wikipedia and
 other online platforms work. The methods are also useful for users
 learning to critically analyze their interactions with technology beyond
 softwarized modes of control, and towards active engagement in
-technologized knowledge development.[^95] Furthermore, by assessing
+technologized knowledge development.[^06ch04_95] Furthermore, by assessing
 Wikipedia's content across articles and language versions, and its
 comparison to more static encyclopedia projects, frameworks, and tools
 for networked content analysis also make it clear how Wikipedia is
@@ -4131,7 +4126,7 @@ have very distinct levels of permissions, and it is not only human
 actors that form the hard core of editors. In this chapter, I have
 argued how Wikipedia’s collaborative qualities and workings are
 complexly technical and hierarchical, involving not only human users but
-specific combinations of human and non-human actors.[^96] Since 2002,
+specific combinations of human and non-human actors.[^06ch04_96] Since 2002,
 Wikipedia content has been maintained by both tool-assisted human
 editors and bots, and collaboration has been modulated by protocols and
 strict managerial hierarchies. Bots are systematically deployed to
@@ -4147,11 +4142,11 @@ can contribute greatly to our understanding of controversial topics such
 as climate change on platforms like Wikipedia. In this chapter,
 attention to climate change as a web-based controversy object, and to
 recent software projects such as Contropedia, enables a socio-technical
-view behind the scenes of collaborative knowledge production.[^97] With
+view behind the scenes of collaborative knowledge production.[^06ch04_97] With
 its history tabs and discussion pages, its intricate administrative
 systems of editing policy, software robots, and tool-assisted humans,
 Wikipedia proves to be a place and platform par excellence to conduct
-networked content analysis to map controversy dynamics.[^98][^99]
+networked content analysis to map controversy dynamics.[^06ch04_98][^06ch04_99]
 
 Asking what kind of climate change debate Wikipedia puts forward, I want
 to conclude that Wikipedia offers critical insights into the
@@ -4179,49 +4174,49 @@ definitions and demarcations of (the materiality of) content, and
 recognize the technicity as an active agent and part of networked
 content.
 
-[^1]: Shirky, *Here Comes Everybody.*
+[^06ch04_1]: Shirky, *Here Comes Everybody.*
 
-[^2]: A. Keen, *The Cult of the Amateur: How blogs, MySpace, YouTube,
+[^06ch04_2]: A. Keen, *The Cult of the Amateur: How blogs, MySpace, YouTube,
     and the Rest of Today’s User-generated Media Are De-stroying Our
     Economy, Our Culture, and Our Values*, New York: Doubleday Currency,
     2007.
 
-[^3]: C.R. Sunstein, *Infotopia: How Many Minds Produce Knowledge*,
+[^06ch04_3]: C.R. Sunstein, *Infotopia: How Many Minds Produce Knowledge*,
     Oxford: Oxford University Press, 2006
 
-[^4]: A. Kittur and R.E. Kraut, 'Harnessing the Wisdom of Crowds in
+[^06ch04_4]: A. Kittur and R.E. Kraut, 'Harnessing the Wisdom of Crowds in
     Wikipedia: Quality Through Coordination', in *Proceedings of the ACM
     2008 Conference on Computer Supported Cooperative Work*, New York:
     ACM, 2008, pp. 37-46.
 
-[^5]: Surowiecki, *The Wisdom of the Crowds.*
+[^06ch04_5]: Surowiecki, *The Wisdom of the Crowds.*
 
-[^6]: Shirky, *Here Comes Everybody.*
+[^06ch04_6]: Shirky, *Here Comes Everybody.*
 
-[^7]: D. Tapscott and A.D. Williams, *Wikinomics. How Mass Collaboration
+[^06ch04_7]: D. Tapscott and A.D. Williams, *Wikinomics. How Mass Collaboration
     Changes Everything* (New York: Penguin, 2006).
 
-[^8]: A. Bruns, *Blogs, Wikipedia, Second Life, and Beyond: From
+[^06ch04_8]: A. Bruns, *Blogs, Wikipedia, Second Life, and Beyond: From
     Production to Produsage*, New York: Peter Lang, 2008.
 
-[^9]: J. Howe, 'The Rise of Crowdsourcing', *Wired Magazine* 14.6
+[^06ch04_9]: J. Howe, 'The Rise of Crowdsourcing', *Wired Magazine* 14.6
     (2006): 1–4. F.
 
-[^10]: Stalder and J. Hirsh, 'Open source intelligence', *First Monday*
+[^06ch04_10]: Stalder and J. Hirsh, 'Open source intelligence', *First Monday*
     7.6 (2002):
     http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/961/88.
     M. Poe, 'The Hive', *The Atlantic Online*, September 2006,
     http://www.theatlantic.com/doc/200609/wikipedia.
 
-[^11]: N. Baker, 'The Charm of Wikipedia,' *New York Review of Books*,
+[^06ch04_11]: N. Baker, 'The Charm of Wikipedia,' *New York Review of Books*,
     55.4 (2008),
     http://www.nybooks.com/articles/2008/03/20/the-charms-of-wikipedia/.
 
-[^12]: Shirky, *Here Comes Everybody,* 109.
+[^06ch04_12]: Shirky, *Here Comes Everybody,* 109.
 
-[^13]: Shirky, *Here Comes Everybody.* Poe, ‘The Hive’.
+[^06ch04_13]: Shirky, *Here Comes Everybody.* Poe, ‘The Hive’.
 
-[^14]: See also Citizendium. 'Citizendium Beta',
+[^06ch04_14]: See also Citizendium. 'Citizendium Beta',
     http://en.citizendium.org/wiki/Welcome\_to\_Citizendium. See also
     historiographies of Wikipedia in: A. Dalby, *The World and
     Wikipedia: How We Are Editing Reality* (Somerset: Siduri Books,
@@ -4230,88 +4225,88 @@ content.
     Wikipedia Revolution: How a Bunch of Nobodies Created the World’s
     Greatest Encyclopedia*, London: Aurum Press, 2009.
 
-[^15]: Keen, *The Cult of the Amateur,* 186.
+[^06ch04_15]: Keen, *The Cult of the Amateur,* 186.
 
-[^16]: Y. Benkler, *The Wealth of Networks: How Social Production
+[^06ch04_16]: Y. Benkler, *The Wealth of Networks: How Social Production
     Transforms Markets and Freedom*, New Haven: Yale University Press,
     2006.
 
-[^17]: H. Jenkins, *Convergence Culture: Where Old and New Media
+[^06ch04_17]: H. Jenkins, *Convergence Culture: Where Old and New Media
     Collide*, Cambridge, MA: MIT Press, 2006.
 
-[^18]: A. Swartz, 'Who Writes Wikipedia', 2006,
+[^06ch04_18]: A. Swartz, 'Who Writes Wikipedia', 2006,
     http://www.aaronsw.com/weblog/whowriteswikipedia/.
 
-[^19]: R.A. Ghosh and V.V. Prakash. 'Orbiten Free Software Survey',
+[^06ch04_19]: R.A. Ghosh and V.V. Prakash. 'Orbiten Free Software Survey',
     *First Monday* 5.7 (2000): 1.
 
-[^20]: A. Kittur, E. Chi, B.A. Pendleton, B. Suh, and T. Mytkowicz,
+[^06ch04_20]: A. Kittur, E. Chi, B.A. Pendleton, B. Suh, and T. Mytkowicz,
     'Power of the Few vs. Wisdom of the Crowd: Wikipedia and the Rise of
     the Bourgeoisie', in *CHI*, 2007, San Jose.
 
-[^21]: Kittur et al. 'Power of the Few vs. Wisdom of the Crowd,’ 7.
+[^06ch04_21]: Kittur et al. 'Power of the Few vs. Wisdom of the Crowd,’ 7.
 
-[^22]: Kittur et al. 'Power of the Few vs. Wisdom of the Crowd,’ 7.
+[^06ch04_22]: Kittur et al. 'Power of the Few vs. Wisdom of the Crowd,’ 7.
 
-[^23]: M. Burke and R. Kraut, R. 'Taking Up the Mop: Identifying Future
+[^06ch04_23]: M. Burke and R. Kraut, R. 'Taking Up the Mop: Identifying Future
     Wikipedia Administrators' in *Proceedings of the 2008 CHI
     Conference, Florence*, New York: ACM, 2008, pp. 3441-3446,
     http://portal.acm.org/citation.cfm?id=1358628.1358871.
 
-[^24]: Kittur et al. 'Power of the Few vs. Wisdom of the Crowd’.
+[^06ch04_24]: Kittur et al. 'Power of the Few vs. Wisdom of the Crowd’.
 
-[^25]: Simonite, ‘The Decline of Wikipedia’.
+[^06ch04_25]: Simonite, ‘The Decline of Wikipedia’.
 
-[^26]: Simonite, ‘The Decline of Wikipedia’.
+[^06ch04_26]: Simonite, ‘The Decline of Wikipedia’.
 
-[^27]: See also A. Halfaker, R.S. Geiger, J. Morgan, and J. Riedl, 'The
+[^06ch04_27]: See also A. Halfaker, R.S. Geiger, J. Morgan, and J. Riedl, 'The
     Rise and Decline of an Open Collaboration System: How Wikipedia’s
     Reaction to Sudden Popularity Is Causing Its Decline', *American
     Behavioral Scientist* 57.5 (2013): 664–688,
     http://doi.org/10.1177/0002764212469365, for a detailed study of
     this problem.
 
-[^28]: A. Galloway, *Protocol: How Control Exists after
+[^06ch04_28]: A. Galloway, *Protocol: How Control Exists after
     Decentralization*, Cambridge, MA: MIT Press, 2004, 121.
 
-[^29]: Galloway, *Protocol,* 142.
+[^06ch04_29]: Galloway, *Protocol,* 142.
 
-[^30]: Joseph Reagle has described these dilemmas and protocols around
+[^06ch04_30]: Joseph Reagle has described these dilemmas and protocols around
     openness versus control in his book *Good Faith Collaboration: The
     Culture of Wikipedia*, in the chapter titled ‘The Puzzle of
     Openness’ (pp. 73–96).
 
-[^31]: Wikimedia contributors, 'System Administators', 3 August 2019,
+[^06ch04_31]: Wikimedia contributors, 'System Administators', 3 August 2019,
     http://meta.wikimedia.org/wiki/System\_administrators.
 
-[^32]: A lot of this is literally implemented in MediaWiki.
+[^06ch04_32]: A lot of this is literally implemented in MediaWiki.
 
-[^33]: Burke and Kraut, ‘Taking Up the Mop’.
+[^06ch04_33]: Burke and Kraut, ‘Taking Up the Mop’.
 
-[^34]: Social scientist Mathieu O’Neil has studied the hierarchies and
+[^06ch04_34]: Social scientist Mathieu O’Neil has studied the hierarchies and
     power structures within Wikipedia, and underlines the ‘social
     authority’ of Wikipedia administrators as ‘interpreters of policy —
     judge, jury and executioner’. M. O’Neil, *Cyberchiefs: Autonomy and
     Authority in Online Tribes*, New York: Pluto Press, 2009, 159.
 
-[^35]: G. Deleuze, 'Society of Control', *L’autre Journal,* 1 (1990):
+[^06ch04_35]: G. Deleuze, 'Society of Control', *L’autre Journal,* 1 (1990):
     http://www.nadir.org/nadir/archiv/netzkritik/societyofcontrol.html.
 
-[^36]: Galloway, *Protocol,* 17.
+[^06ch04_36]: Galloway, *Protocol,* 17.
 
-[^37]: Latour, 'Technology Is Society Made Durable', 129.
+[^06ch04_37]: Latour, 'Technology Is Society Made Durable', 129.
 
-[^38]: Latour, 'Technology Is Society Made Durable', 110.
+[^06ch04_38]: Latour, 'Technology Is Society Made Durable', 110.
 
-[^39]: See Niederer and van Dijck, ‘Wisdom of the Crowd or Technicity of
+[^06ch04_39]: See Niederer and van Dijck, ‘Wisdom of the Crowd or Technicity of
     the Content?’ for the extended discussion of these tests and their
     outcomes.
 
-[^40]: Rosenzweig, ‘Can History Be Open Source?’.
+[^06ch04_40]: Rosenzweig, ‘Can History Be Open Source?’.
 
-[^41]: Rosenzweig, ‘Can History Be Open Source?’, 138.
+[^06ch04_41]: Rosenzweig, ‘Can History Be Open Source?’, 138.
 
-[^42]: On the History page of each Wikipedia entry, it is possible to
+[^06ch04_42]: On the History page of each Wikipedia entry, it is possible to
     access the timestamp and IP-address for every anonymous edit made.
     The WikiScanner, a tool created by California Institute of
     Technology student Virgil Griffith in 2007, made it possible for
@@ -4327,71 +4322,71 @@ content.
     collected the most spectacular results on his website. The
     Wikiscanner is now offline.
 
-[^43]: On December 21, 2012, an open-source clone of WikiScanner called
+[^06ch04_43]: On December 21, 2012, an open-source clone of WikiScanner called
     *WikiWatchdog* was launched. F. Scrinzi and P. Massa,
     'WikiWatchDog', 2010, http://www.wikiwatchdog.com.
 
-[^44]: The name ‘bot,' and my description here of their movements may
+[^06ch04_44]: The name ‘bot,' and my description here of their movements may
     make bots appear as elaborate kinds of Artificial Intelligence
     robots but in fact they are mostly very simple scripts that are
     triggered by rules.
 
-[^45]: Wikimedia contributors, 'Bot Activity Matrix',
+[^06ch04_45]: Wikimedia contributors, 'Bot Activity Matrix',
     http://stats.wikimedia.org/EN/BotActivityMatrix.htm.
 
-[^46]: Wikimedia contributors. 'Editing Frequency of All Bots', 3 March
+[^06ch04_46]: Wikimedia contributors. 'Editing Frequency of All Bots', 3 March
     2018,
     http://en.wikipedia.org/wiki/Wikipedia:Editing\_frequency/All\_bots.
 
-[^47]: Wikimedia contributors, 'User:Ram-Man', 1 March 2016,
+[^06ch04_47]: Wikimedia contributors, 'User:Ram-Man', 1 March 2016,
     https://en.wikipedia.org/w/index.php?title=User:Ram-Man&oldid=707772255.
 
-[^48]: See SmackBot’s request for approval here:
+[^06ch04_48]: See SmackBot’s request for approval here:
     http://en.wikipedia.org/wiki/Wikipedia:Bots/Requests\_for\_approval/SmackBot\_0.
 
-[^49]: 'Wikimedia Statistics', http://stats.wikimedia.org/.
+[^06ch04_49]: 'Wikimedia Statistics', http://stats.wikimedia.org/.
 
-[^50]: See also ‘Wikimedia Statistics’, http://stats.wikimedia.org/.
+[^06ch04_50]: See also ‘Wikimedia Statistics’, http://stats.wikimedia.org/.
 
-[^51]: Researchers have also studied controversial ‘forkings’ (or
+[^06ch04_51]: Researchers have also studied controversial ‘forkings’ (or
     splitting) of language versions, most famously the Spanish fork of
     2002, a full copy of the Spanish Wikipedia content to a new wiki
     with the name ‘Enciclopedia Libre,’ which left the ‘Spanish
     Wikipedia rather inactive for all of 2002’. Lih, *The Wikipedia
     Revolution,* 138.
 
-[^52]: See also: N. Tkacz, *Wikipedia and the Politics of Openness*,
+[^06ch04_52]: See also: N. Tkacz, *Wikipedia and the Politics of Openness*,
     Chicago: University of Chicago Press, 2015.
 
-[^53]: Digital Methods Initiative, 'Networked Content', 2008,
+[^06ch04_53]: Digital Methods Initiative, 'Networked Content', 2008,
     https://digitalmethods.net/Digitalmethods/TheNetworkedContent.
 
-[^54]: See also Wikimedia contributors, 'Wikipedia:Manual of
+[^06ch04_54]: See also Wikimedia contributors, 'Wikipedia:Manual of
     Style/Linking', 5 March 2016,
     https://en.wikipedia.org/w/index.php?title=Wikipedia:Manual\_of\_Style/Linking&oldid=708334675.
 
-[^55]: U. Pfeil, P. Zaphiris, C.S. Ang, 'Cultural Differences in
+[^06ch04_55]: U. Pfeil, P. Zaphiris, C.S. Ang, 'Cultural Differences in
     Collaborative Authoring of Wikipedia', *Journal of Computer-Mediated
     Communication* 12.1 (2006): 88–113.
 
-[^56]: Wales in Bruns, *Gatewatching,* 112.
+[^06ch04_56]: Wales in Bruns, *Gatewatching,* 112.
 
-[^57]: R. Rogers and E. Sendijarevic, 'Neutral or National Point of
+[^06ch04_57]: R. Rogers and E. Sendijarevic, 'Neutral or National Point of
     View? A Comparison of Screbrenica Articles across Wikipedia’s
     Language Versions', presented at the Wikipedia Academy 2012, Berlin,
     2012.
 
-[^58]: D. Jemielniak, *Common Knowledge? An Ethnography of Wikipedia*,
+[^06ch04_58]: D. Jemielniak, *Common Knowledge? An Ethnography of Wikipedia*,
     Stanford, CA: Stanford University Press, 2014.
 
-[^59]: Wikipedia contributors, 'Gdańsk', 10 March 2016,
+[^06ch04_59]: Wikipedia contributors, 'Gdańsk', 10 March 2016,
     https://en.wikipedia.org/w/index.php?title=Gda%C5%84sk&oldid=709411660.
 
-[^60]: Jemielniak, *Common Knowledge?,* 59.
+[^06ch04_60]: Jemielniak, *Common Knowledge?,* 59.
 
-[^61]: Jemielniak, *Common Knowledge?,* 65.
+[^06ch04_61]: Jemielniak, *Common Knowledge?,* 65.
 
-[^62]: In his book chapter on the controversy, Jemielniak describes the
+[^06ch04_62]: In his book chapter on the controversy, Jemielniak describes the
     various editor types that remained active throughout the years and
     distinguishes between ‘at least four groups’, including German and
     Prussian nationalists (pro-Danzig), Polish nationalists
@@ -4400,18 +4395,18 @@ content.
     through mitigation and inclusion of all viewpoints. Jemielniak,
     *Common Knowledge?,* 67.
 
-[^63]: Poor suggested the following solution: ‘Gdańsk (or Danzig) is a
+[^06ch04_63]: Poor suggested the following solution: ‘Gdańsk (or Danzig) is a
     famous European city with a long and colourful history. It is known
     in English by two slightly different names: in alphabetical order,
     *Danzig* (German) and *Gdansk* (Polish)’. Jemielniak, *Common
     Knowledge?,* 69.
 
-[^64]: See also: Wikimedia contributors, 'Lamest Edit Wars', 17 July
+[^06ch04_64]: See also: Wikimedia contributors, 'Lamest Edit Wars', 17 July
     2019, http://en.wikipedia.org/wiki/Wikipedia:Lamest\_edit\_wars.
 
-[^65]: Jemielniak, *Common Knowledge?,* 73.
+[^06ch04_65]: Jemielniak, *Common Knowledge?,* 73.
 
-[^66]: The first sentence of the Gdańsk article reads:
+[^06ch04_66]: The first sentence of the Gdańsk article reads:
     ‘Gdańsk (pronounced \[gdaɲsk\], English
     pronunciation [/](http://en.wikipedia.org/wiki/help:ipa_for_english)[ɡəˈdænsk](http://en.wikipedia.org/wiki/help:ipa_for_english#Key)/, German: Danzig, pronounced \[ˈdantsɪç\],
     also known by other alternative names) is a Polish city on
@@ -4421,7 +4416,7 @@ content.
     10 March 2016,
     https://en.wikipedia.org/w/index.php?title=Gda%C5%84sk&oldid=709411660.
 
-[^67]: The first sentence of the ‘Free City of Danzig’ article reads
+[^06ch04_67]: The first sentence of the ‘Free City of Danzig’ article reads
     ‘The Free City of
     Danzig ([German](http://en.wikipedia.org/wiki/german_language): Freie
     Stadt Danzig; Polish: Wolne Miasto Gdańsk) was a
@@ -4432,40 +4427,40 @@ content.
     Wikipedia contributors, 'Free City of Danzig', 14 August 2019,
     http://en.wikipedia.org/wiki/Free\_City\_of\_Danzig.
 
-[^68]: Jemielniak, *Common Knowledge?,* 84.
+[^06ch04_68]: Jemielniak, *Common Knowledge?,* 84.
 
-[^69]: The questions of which lock-down mechanisms are deployed by
+[^06ch04_69]: The questions of which lock-down mechanisms are deployed by
     Wikipedia and what is the role of bots (and their automated user
     blocking) in these edit wars are worth asking here too.
 
-[^70]: Rogers and Sendijarevic. 'Neutral or National Point of View?’
+[^06ch04_70]: Rogers and Sendijarevic. 'Neutral or National Point of View?’
 
-[^71]: ‘Wikipedia: Neutral Point of View’, 2012,
+[^06ch04_71]: ‘Wikipedia: Neutral Point of View’, 2012,
     <https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view>.
 
-[^72]: Rogers and Sendijarevic. 'Neutral or National Point of View?’
+[^06ch04_72]: Rogers and Sendijarevic. 'Neutral or National Point of View?’
 
-[^73]: Rogers and Sendijarevic. 'Neutral or National Point of View?’
+[^06ch04_73]: Rogers and Sendijarevic. 'Neutral or National Point of View?’
 
-[^74]: Rogers and Sendijarevic. 'Neutral or National Point of View?’
+[^06ch04_74]: Rogers and Sendijarevic. 'Neutral or National Point of View?’
 
-[^75]: Rogers and Sendijarevic. 'Neutral or National Point of View?’
+[^06ch04_75]: Rogers and Sendijarevic. 'Neutral or National Point of View?’
 
-[^76]: Rogers and Sendijarevic. 'Neutral or National Point of View?’,
+[^06ch04_76]: Rogers and Sendijarevic. 'Neutral or National Point of View?’,
     46.
 
-[^77]: Rogers and Sendijarevic. 'Neutral or National Point of View?’, 1.
+[^06ch04_77]: Rogers and Sendijarevic. 'Neutral or National Point of View?’, 1.
 
-[^78]: Digital Methods Initiative, 'The Place of Issues', 2009,
+[^06ch04_78]: Digital Methods Initiative, 'The Place of Issues', 2009,
     https://wiki.digitalmethods.net/Dmi/ThePlaceOfIssues.
 
-[^79]: Digital Methods Initiative, ‘The Place of Issues’.
+[^06ch04_79]: Digital Methods Initiative, ‘The Place of Issues’.
 
-[^80]: Digital Methods Initiative, 'The Place of Issues'.
+[^06ch04_80]: Digital Methods Initiative, 'The Place of Issues'.
 
-[^81]: Digital Methods Initiative, 'The Place of Issues'.
+[^06ch04_81]: Digital Methods Initiative, 'The Place of Issues'.
 
-[^82]: In a brief study of the skeptics’ resonance in this set of
+[^06ch04_82]: In a brief study of the skeptics’ resonance in this set of
     Wikipedia articles, I took the list of interlinked global
     warming-related articles and queried them for a list of known
     skeptics — the keynote speakers of the first Heartland climate
@@ -4475,64 +4470,64 @@ content.
     most mentioned skeptic, listed in four different global warming
     related articles.
 
-[^83]: See also Digital Methods Initiative, ‘Climate Change Sceptiks in
+[^06ch04_83]: See also Digital Methods Initiative, ‘Climate Change Sceptiks in
     the Wikipedia Climate Change Space’.
 
-[^84]: This relates to what Jemielnak phrased as dispute resolution
+[^06ch04_84]: This relates to what Jemielnak phrased as dispute resolution
     mechanisms, and also to the sociological studies of science and
     technology as discussed in the first chapter.
 
-[^85]: Digital Methods Initiative, 'The Place of Issues'. Another part
+[^06ch04_85]: Digital Methods Initiative, 'The Place of Issues'. Another part
     of their study zooms in on bot activity, which is similarly
     visualized as a heat map ‘bubble line.’
 
-[^86]: ClueBot (now called ClueBot NG) is an anti-vandalism bot;
+[^06ch04_86]: ClueBot (now called ClueBot NG) is an anti-vandalism bot;
     SmackBot (presently called Helpful Pixie Bot) is an editing bot,
     mostly formatting articles. TawkerBot2 and its follow-up
     AntiVandalBot were anti-vandalism bots (currently inactive).
 
-[^87]: See also: Wikipedia contributors, ‘User: AntiVandalBot’,
+[^06ch04_87]: See also: Wikipedia contributors, ‘User: AntiVandalBot’,
     https://en.wikipedia.org/wiki/User:AntiVandalBot.
 
-[^88]: Emaps, ‘Contropedia’.
+[^06ch04_88]: Emaps, ‘Contropedia’.
 
-[^89]: My discussion of this project and other research and art projects
+[^06ch04_89]: My discussion of this project and other research and art projects
     related to big data was published in *Big Data & Society*: S.
     Niederer and R. Taudin Chabot, 'Deconstructing the Cloud: Responses
     to Big Data Phenomena From Social Sciences, Humanities and the
     Arts', *Big Data & Society* 2.2 (2015):
     http://doi.org/10.1177/2053951715594635.
 
-[^90]: Borra et al. ‘Societal Controversies in Wikipedia Articles’.
+[^06ch04_90]: Borra et al. ‘Societal Controversies in Wikipedia Articles’.
 
-[^91]: Emaps, ‘Contropedia’.
+[^06ch04_91]: Emaps, ‘Contropedia’.
 
-[^92]: D. Beer, 'Power Through the Algorithm? Participatory Web Cultures
+[^06ch04_92]: D. Beer, 'Power Through the Algorithm? Participatory Web Cultures
     and the Technological Unconscious', *New Media & Society*, 11.6
     (2009): 985–1002.
 
-[^93]: Carr, *The Big Switch,* 218.
+[^06ch04_93]: Carr, *The Big Switch,* 218.
 
-[^94]: See also Niederer, 'Interview'.
+[^06ch04_94]: See also Niederer, 'Interview'.
 
-[^95]: Zittrain, *The Future of the Internet*, 245.
+[^06ch04_95]: Zittrain, *The Future of the Internet*, 245.
 
-[^96]: Critiquing the presentation of non-human actors as existing more
+[^06ch04_96]: Critiquing the presentation of non-human actors as existing more
     or less autonomously from human users, Jaron Lanier has argued that:
     ‘Some people \[…\] believe they are hearing algorithms and crowds
     and other internet-supported nonhuman entities speak for themselves.
     I don’t hear their voices, though – and I believe those who do are
     fooling themselves.’ Lanier, *You Are Not a Gadget,* 39.
 
-[^97]: Climaps, 'Contropedia'.
+[^06ch04_97]: Climaps, 'Contropedia'.
 
-[^98]: R.S. Geiger and D. Ribes, 'The Work of Sustaining Order in
+[^06ch04_98]: R.S. Geiger and D. Ribes, 'The Work of Sustaining Order in
     Wikipedia: The Banning of a Vandal', in *Proceedings of the ACM 2010
     conference on Computer supported cooperative work (CSCW)*, Atlanta,
     GA: Association for Computing Machinery, 2010,
     http://www.stuartgeiger.com/wordpress/wp-content/uploads/2009/10/cscw-sustaining-order-wikipedia.pdf.
 
-[^99]: Niederer and van Dijck, ‘Wisdom of the Crowd or Technicity of the
+[^06ch04_99]: Niederer and van Dijck, ‘Wisdom of the Crowd or Technicity of the
     Content?’
 
 
@@ -4566,17 +4561,17 @@ connecting it to conflict. This study entails working with the built-in
 logic of the platform and begins with recognizing the very particular
 (socio-technical) ways in which content is networked there. Therefore, I
 will first briefly discuss how content circulates on the micro-blogging
-platform.[^1] This discussion is not designed to be a full glossary of
+platform.[^07ch05_1] This discussion is not designed to be a full glossary of
 Twitter features (which can be found on Twitter) but rather a brief
 introduction to the many ways in which content and its users are
-networked on Twitter.[^2]
+networked on Twitter.[^07ch05_2]
 
 Twitter is a global messaging social network that allows its users to
 publish short messages (and links) up to 140 characters in length. These
 so-called ‘tweets’ can be posted by registered users that have a
 username that starts with an @. Twitter prioritizes ‘fresh’ data and
 presents tweets in reverse chronological order (with the latest post on
-top) and does so in real-time.[^3] For each tweet, Twitter displays some
+top) and does so in real-time.[^07ch05_3] For each tweet, Twitter displays some
 numeric data, such as the number of retweets and favorites, and a
 timestamp indicating how much time has passed since the tweet was
 posted. For each user, Twitter lists the number of followers, and the
@@ -4593,42 +4588,42 @@ convention to group content known from Internet Relay Chat \[IRC\]).
 Hashtags thus ‘facilitate\[s\] a global discussion on a topic beyond a
 user’s follower network’, as they can be clicked to present a stream of
 all messages containing that hashtag (again, with the most recent tweet
-presented on top).[^4][^5][^6] The use of hashtags can therefore also be
+presented on top).[^07ch05_4][^07ch05_5][^07ch05_6] The use of hashtags can therefore also be
 interpreted as a willful means to connect to a broader conversation,
 trending beyond one’s personal network. The use of hashtags for analysis
 has some limitations, as hashtags occur in less than 20% of all tweets
-and are used by specific users for specific practices.[^7] However, as I
+and are used by specific users for specific practices.[^07ch05_7] However, as I
 will discuss later in this chapter, tweets containing multiple hashtags
 offer possibilities for co-hashtag analysis, where the co-occurring
-hashtags are regarded as topical clusters.[^8] Users following other
+hashtags are regarded as topical clusters.[^07ch05_8] Users following other
 users (to ‘listen’ to their stream of messages), is one of the prominent
-activities on Twitter.[^9] This activity adds followed users’ posts to
+activities on Twitter.[^07ch05_9] This activity adds followed users’ posts to
 one’s own ‘Timeline.’ Other user interactions include @mentions (tweets
 that address a user by mentioning their @username), @replies (tweets
-sent in response to other tweets), and retweets.[^10][^11]
+sent in response to other tweets), and retweets.[^07ch05_10][^07ch05_11]
 
 Retweeting, or the resending or quoting of another user’s tweet, is done
 to amplify a message, sharing information with a user’s followers, or
 commenting on a quoted message. Other motivations for retweeting are
-discussed extensively in boyd et al., based on interviews.[^12]
+discussed extensively in boyd et al., based on interviews.[^07ch05_12]
 Retweeting has been built into the Twitter interface (alongside
 favorites and replies). Different third-party apps have different
 formats of retweeting, just as different users may style their retweets
 differently (for instance, by adding ‘via @username’ rather than RT,
 short for ReTweet), which should be taken into account when studying
-Twitter data.[^13] Tweets may include URLs, where reported percentages
-of tweets with URLs vary from 22% to 11.7%.[^14] Here, networked content
+Twitter data.[^07ch05_13] Tweets may include URLs, where reported percentages
+of tweets with URLs vary from 22% to 11.7%.[^07ch05_14] Here, networked content
 analysts have to keep in mind that URLs may be shortened (for example,
 with bit.ly) in order to save space, i.e., a URL mentioned in a tweet
-can't always be recognized by a common web address including www.[^15]
+can't always be recognized by a common web address including www.[^07ch05_15]
 
 As tweets can cover all sorts of mundane topics, but also carry more
 substantive missives of public political and informational value, the
-use of Twitter data for scholarly research is becoming widespread.[^16]
+use of Twitter data for scholarly research is becoming widespread.[^07ch05_16]
 According to Tumasjan et al., tweets can function as indicators of
 political opinion, while Twitter offers a platform for political
 deliberation, which also makes it a highly suitable site for controversy
-analysis around a social issue.[^17][^18] The choice of including
+analysis around a social issue.[^07ch05_17][^07ch05_18] The choice of including
 Twitter as a platform for the study of the form and substance of the
 issue of climate change and vulnerability concepts therein is not
 arbitrary. Twitter relates knowledge perception, reception, and
@@ -4636,7 +4631,7 @@ conversation. Furthermore, Twitter has an interesting relationship with
 mass media content, as it is not just a media platform, but a platform
 that transpires within multiple media networks. Twitter could be
 approached through more conventional news cycle analyses but also
-through ‘meme-tracking’.[^19] In the latter mode, Twitter as a
+through ‘meme-tracking’.[^07ch05_19] In the latter mode, Twitter as a
 micro-blog could then be seen as highly responsive to or even
 parasitical or imploding of conventional news ‘sites’, echoing and
 amplifying news snippets by tweeting and retweeting. Further, as Twitter
@@ -4647,7 +4642,7 @@ stories, and when their work has been published, they may tweet a link
 to that article, using it as a channel for the distribution of their own
 work. As news and mass media sources strive to make their content
 ‘platform-ready’, a term by Helmond, the entanglement of news, other
-mass media content, and new platforms has entered the next level.[^20]
+mass media content, and new platforms has entered the next level.[^07ch05_20]
 Networked content analysis proposes to take this entanglement as a given
 and to demarcate content through the logic of the platform (as developed
 in digital methods) and thus follow the actors across sources (as is key
@@ -4661,7 +4656,7 @@ Just as in Wikipedia and the web (accessed through Google Web Search),
 it is no longer possible to separate content from its carrier. Looking
 at the entanglement of content with Twitter's technicities of
 distributing, networking, and amplification its content, it also highly
-unadvisable to even attempt to ignore these mechanisms.[^21][^22] Taking
+unadvisable to even attempt to ignore these mechanisms.[^07ch05_21][^07ch05_22] Taking
 that as a starting point of networked content analysis, where any
 evaluation of online content should acknowledge the significance of its
 socio-technological structure, I operationalize the previously
@@ -4671,33 +4666,33 @@ compare the resonance of terms associated with climate change, including
 skepticism, mitigation, adaptation, and conflict through a climate
 change content collection in Twitter. This is to propose that the
 changing prominence of each concept in time indicates a ‘phase' in the
-issue evolution of climate change as a controversy object.[^23]
+issue evolution of climate change as a controversy object.[^07ch05_23]
 
 For the first part of the case study, I worked with a data set
 containing 8.3 million climate change tweets (from the period of 23
 November 2012 until 30 May 2013), which I queried for the keywords
 \[skeptic\], \[mitigation\], \[adaptation\] and \[conflict OR
 violence\], using the online Digital Method Initiative’s Twitter Capture
-and Analysis Tool (DMI-TCAT).[^24] Each of these queries refer to one of
+and Analysis Tool (DMI-TCAT).[^07ch05_24] Each of these queries refer to one of
 four related climate change discourses: skepticism (towards the man-made
 origins and unprecedentedness of climate change), mitigation (the
 prevention of further climate change by minimizing its causes),
 adaptation (to climate change), and conflict (here taken to mean
-political unrest relatable to climate change vulnerability).[^25] Given
+political unrest relatable to climate change vulnerability).[^07ch05_25] Given
 ‘vulnerability’ has become a prominent and focalizing, contested
 discourse within climate change debates, both in the scientific
 literature (as mapped out by the IPCC in 2014) and in news coverage
-around climate change, I will discuss this more elaborately.[^26][^27]
+around climate change, I will discuss this more elaborately.[^07ch05_26][^07ch05_27]
 Here, I will build on the influential work of sociologist Ulrich Beck,
 who has described climate change as one of the main problems of our
-*World at Risk*.[^28] In his framing, multiple anticipated crises
+*World at Risk*.[^07ch05_28] In his framing, multiple anticipated crises
 (climate change, terrorism, financial disaster, and so on) lead to a
 situation in which:
 
 > The decoupling of the social location and the social decision-making
 > responsibility from the places and times in which other “foreign”
 > populations become (or are made) the object of possible physical and
-> social injuries.[^29]
+> social injuries.[^07ch05_29]
 
 This decoupling between the decision-making and the sites of such
 possible ‘injuries’, or *casualties*, can be clearly demonstrated when
@@ -4705,26 +4700,26 @@ looking at the assessment of climate change adaptation and climate
 change vulnerability, and the way discussions about the distribution of
 resources to those places most vulnerable to the adverse effects of
 climate change play out at the UN Framework Convention on Climate
-Change’s Conference of the Parties (UNFCC COP).[^30] Climate change
+Change’s Conference of the Parties (UNFCC COP).[^07ch05_30] Climate change
 vulnerability, according to the IPCC, is the ‘degree to which a system
 is susceptible to and is unable to cope with adverse effects (of climate
-change)’.[^31] Vulnerability research is, therefore, interested in ‘the
+change)’.[^07ch05_31] Vulnerability research is, therefore, interested in ‘the
 shocks and stresses experienced by the social-ecological system, the
-response of the system, and the capacity for adaptive action’.[^32]
+response of the system, and the capacity for adaptive action’.[^07ch05_32]
 
 The Kyoto protocol’s Adaptation Fund and the UNFCC have described their
 commitment to and funding of adaptation as designed ‘to assist
 developing countries that are particularly vulnerable to the adverse
-effects of climate change’.[^33] Importantly, the assessment of such
+effects of climate change’.[^07ch05_33] Importantly, the assessment of such
 *particularly vulnerable* countries has been critically described as a
 ‘political challenge’, rather than a scientific effort, as the
 socio-economic variables addressed when determining vulnerability blur
-the line between adaptation actions and development aid.[^34] The
+the line between adaptation actions and development aid.[^07ch05_34] The
 prominence that is now given to ‘adaptation' and ‘vulnerability'
 discourses and models within the discussion of climate change, both in
 the UNFCC and scientific literature and on an operational level, as in
 the field of urban planning, has led to the declaration of an
-‘adaptation turn’.[^35][^36]
+‘adaptation turn’.[^07ch05_35][^07ch05_36]
 
 The following case study addresses the further development of Networked
 Content Analysis by attending to technicities of the widely used and
@@ -4739,47 +4734,47 @@ non-transferable.
 ## Using Twitter Data for Research
 
 Twitter has often been described as an important channel during
-political events and social unrest.[^37][^38] At the same time, popular
+political events and social unrest.[^07ch05_37][^07ch05_38] At the same time, popular
 and scholarly assessments of the role played by Twitter in social
 uprisings come with some caveats. For example, news coverage of the
 uprisings in Iran has been (productively) criticized as ‘heavily skewed’
-towards being presented as a technology-driven social movement.[^39]
+towards being presented as a technology-driven social movement.[^07ch05_39]
 Gladwell has pointed out that such skewing is due partly to Western
 scholars’ and media pundits’ own ‘outsized enthusiasm(s) for social
-media’.[^40] Other scholars have looked closer at the composition of the
+media’.[^07ch05_40] Other scholars have looked closer at the composition of the
 actors in the various uprisings, painting a more fine-grained picture of
-the role and relevance of the platform in these uprisings.[^41]
+the role and relevance of the platform in these uprisings.[^07ch05_41]
 
 According to Hermida, Twitter is a site for ‘the immediate dissemination
 of digital fragments of news and information from official and
 unofficial sources over a variety of systems and devices’, and might,
 therefore, be better understood as an ‘awareness system’, rather than
-merely a micro-blogging platform.[^42] This awareness system functions
+merely a micro-blogging platform.[^07ch05_42] This awareness system functions
 as an always-on communication channel, ready to move ‘from the
-background to the foreground’ when necessary.[^43] Twitter, Hermida
+background to the foreground’ when necessary.[^07ch05_43] Twitter, Hermida
 argues, creates the means for ‘ambient journalism’, where value does not
 lie in any single tweet but rather in the ‘awareness system that offers
 diverse means to collect, communicate, share and display news and
-information, serving diverse purposes’.[^44] And it is this function of
+information, serving diverse purposes’.[^07ch05_44] And it is this function of
 Twitter as an awareness system that I will assess in the case study of
 Twitter hashtag clusters.
 
 Twitter has been analyzed as a source of *happening* *content* and
 *fresh data*, as a site for *real-time research*, as a platform with a
-‘dual nature of information source and conversation enabler’[^45], and
-as an ‘(archived) data set and anticipatory medium’.[^46][^47][^48]
+‘dual nature of information source and conversation enabler’[^07ch05_45], and
+as an ‘(archived) data set and anticipatory medium’.[^07ch05_46][^07ch05_47][^07ch05_48]
 Methods and tools for capturing and analyzing this real-time data have
 been developed for instance by Bruns and Liang, who study Twitter as an
 important channel for crisis communication during and after natural
 disasters, and by scholars who have looked at the predictive quality of
 tweets in relation to the stock market, such as Sprenger et al., or
 political sentiment around elections, such as Tumasjan et
-al.[^49][^50][^51][^52][^53]
+al.[^07ch05_49][^07ch05_50][^07ch05_51][^07ch05_52][^07ch05_53]
 
 In what follows, I will look at the content that Twitter serves around
 the issue of climate change, and conduct a Networked Content Analysis of
 a year’s worth of English-language climate-related tweets, exploring the
-‘Twitter ecology’ of climate change content.[^54] Twitter evidently does
+‘Twitter ecology’ of climate change content.[^07ch05_54] Twitter evidently does
 not produce ‘climate science’ but instead, puts scientific research into
 circulation while enabling up close, located and platform-literate
 engagements able to assess the resonance of climate change adaptation
@@ -4788,7 +4783,7 @@ climate change. Before exploring the resonance of the adaptation turn on
 Twitter, I will discuss the critical need to attend to vulnerability and
 adaptation concepts through a review of recent literature (news media,
 NGO reports, and scientific literature) that is connecting the risk of
-climate change to injuries and to conflict.[^55] Combining a description
+climate change to injuries and to conflict.[^07ch05_55] Combining a description
 of vulnerability assessments from published reports and media content
 with a methodological application of digital methods to Twitter, this
 chapter shows networked content analysis working to unpack and give
@@ -4805,43 +4800,43 @@ describes how ‘vulnerability has become a popular concept in a very
 diverse set of research fields’ in projects ranging from ‘studies of
 vulnerability to terrorism, to poverty, to computer viruses, to oil
 spills, to globalisation, to radiation, to SARS, to earthquakes, to
-financial collapse, to political change, and so on’.[^56] Importantly
+financial collapse, to political change, and so on’.[^07ch05_56] Importantly
 for this thesis, the particular connection I want to make between
 climate vulnerability and conflict has been steadily gaining attention
 in both scholarly research and popular media outlets. Following the
 publication of a research article on climate and conflict by Hsiang,
 Burke and Miguel, media outlets themselves began to pose speculative
-research questions,[^57] for example: ‘Could hotter temperatures from
+research questions,[^07ch05_57] for example: ‘Could hotter temperatures from
 climate change boost violence?’ and, ‘How could a drought spark a civil
-war?’[^58] The link between the Arab Spring and climate change was
+war?’[^07ch05_58] The link between the Arab Spring and climate change was
 quickly made during this time, as headlines reported ‘Drought helped
 cause Syria’s war. Will climate change bring more like it?’ and ‘Climate
-change and rising food prices heightened Arab Spring’.[^59] The
+change and rising food prices heightened Arab Spring’.[^07ch05_59] The
 climate-conflict nexus, however, comprises many complicated facets of
 indexing and data triangulation, spurring further debates among
-scientists within and across disciplines.[^60][^61][^62][^63][^64][^65]
+scientists within and across disciplines.[^07ch05_60][^07ch05_61][^07ch05_62][^07ch05_63][^07ch05_64][^07ch05_65]
 
 The emerging literature on climate change and conflict further appears
 to focus on two broader questions: ‘how’ climate change leads to
 conflict and ‘where’ climate change-induced conflicts will most likely
-take place.[^66] As bleak headlines already indicate, a variety of
+take place.[^07ch05_66] As bleak headlines already indicate, a variety of
 climatic variables are considered to be of influence on human conflict.
 According to Barnett and Adger, there are two ways in which conflict
-might be stimulated by climate change.[^67] First, in line with research
+might be stimulated by climate change.[^07ch05_67] First, in line with research
 by Rifkin, changes in the political economy of energy resources (due to
 mitigative action to reduce emissions from fossil fuels) could result in
-conflict.[^68] Second, conflict could be stimulated by the effects of
+conflict.[^07ch05_68] Second, conflict could be stimulated by the effects of
 actual or perceived long-term or short-term climate impacts in causing
-changes to social systems.[^69] Short-term impacts include a change in
+changes to social systems.[^07ch05_69] Short-term impacts include a change in
 the intensity and frequency of floods, droughts, storms and cyclones,
 fires, heatwaves, and epidemics. In the long term, changes in average
 conditions such as temperature, sea level, and annual precipitation will
 impact social-ecological systems. Also mediating the relationship
 between these climatic changes and human conflict are the interrelated
 issues of resource scarcity (cropland, freshwater, fisheries or forests)
-and migration.[^70] Environmentally induced migration could lead to
+and migration.[^07ch05_70] Environmentally induced migration could lead to
 increased pressures on resources in areas or countries of destination
-and inter-communal tensions in source areas.[^71][^72] These trends may
+and inter-communal tensions in source areas.[^07ch05_71][^07ch05_72] These trends may
 also complicate future food security as the competition around
 increasingly scarce resources proliferates.
 
@@ -4853,15 +4848,15 @@ conflict note that the vulnerability of people to climate change depends
 on the extent to which they are dependent on natural resources and
 ecosystem services, the extent to which the resources and services they
 rely on are sensitive to climate change, and their capacity to adapt to
-changes in these resources and services.[^73][^74] Furthermore, those
+changes in these resources and services.[^07ch05_73][^07ch05_74] Furthermore, those
 countries that do not have the ability to adapt to environmental change
 — often poor and underdeveloped states — are, in turn, more vulnerable
-to environmentally-related violence.[^75] This vulnerability to climate
+to environmentally-related violence.[^07ch05_75] This vulnerability to climate
 change impacts and related effects such as violence is described in
 terms of a lack of ‘adaptive capacity’, or ‘the ability or potential of
 a system to respond successfully to climate variability and change.
 \[...\] Common traits include human and social capital, wealth,
-technology, and the quantity and quality of infrastructure.’[^76] These
+technology, and the quantity and quality of infrastructure.’[^07ch05_76] These
 traits are among the variables used in so-called climate vulnerability
 indices, published as annual research reports that rank countries
 according to their adaptive capacity to climate change.
@@ -4870,41 +4865,43 @@ according to their adaptive capacity to climate change.
 
 Since the 1990s, there have been many projects that attempted to develop
 indices that claim to measure vulnerability to social and environmental
-change.[^77] These vulnerability indices typically combine multiple
+change.[^07ch05_77] These vulnerability indices typically combine multiple
 indicators of a variable into a single measure, thus ordering a set of
 entities into quantitative attributes or traits. As such, they are
 integral to many contexts that require systematic approaches to
 decision-making, especially those that concern the management or
-governance of risk.[^78][^79] At the same time, however, according to
+governance of risk.[^07ch05_78][^07ch05_79] At the same time, however, according to
 Barnett, Lambert and Fry, there have been so many attempts to create
 such indices that it has ‘\[lead\] the National Research Council (2000)
 to conclude that there is no consensus on their appropriateness,
 theoretical and scientific basis, and appropriate level of specificity
-or aggregation’.[^80] Furthermore, measuring vulnerability has been
+or aggregation’.[^07ch05_80] Furthermore, measuring vulnerability has been
 described as ‘impossible’, as well as problematic in ‘rais\[ing\] false
 expectations’, around socio-ecological systems, given that ‘there is
 ambiguity on what exactly the problem to be solved is and no canonical
-solution exists’.[^81][^82][^83] Nevertheless, vulnerability research
+solution exists’.[^07ch05_81][^07ch05_82][^07ch05_83] Nevertheless, vulnerability research
 aims to inform decision-making around funding opportunities to mitigate
 the worst possible impacts of climate change for particularly vulnerable
-target nations.[^84]
+target nations.[^07ch05_84]
 
 In a comparative analysis of three vulnerability indices, their ranked
 lists of most and least vulnerable countries and their usage, we have
 found that countries calculated to be most vulnerable and at-risk
 according to one Index may be among those with the greatest adaptive
 capacity according to the other Indices that take into account other
-variables.[^85] Figure 15 shows a world map that compares the output of
+variables.[^07ch05_85] Figure 15 shows a world map that compares the output of
 this triangulation, which illustrates some comparative appreciation of
 vulnerability, but also the lack of consensus on methodologies and,
 therefore, rankings of vulnerability. It is not surprising that the
 assessment of climate change vulnerability using indicators continues to
 divide both policy and academic communities alike. EMAPS, 'Who is
-Vulnerable According to Whom?'.[^86]
+Vulnerable According to Whom?'.[^07ch05_86]
 
-![](imgs/figure15.png)
-
-Figure 15: Who is vulnerable according to whom? This world map visualizes an exploratory comparative analysis of Germanwatch’s Climate Risk Index (CRI), DARA’s Climate Vulnerability Monitor (CVM), and the Global Adaptation Initiative’s Global Adaptation Index (GAIN) in their assessment of vulnerability.[^87][^88]
+Figure 15: Who is vulnerable according to whom? This world map
+visualizes an exploratory comparative analysis of Germanwatch’s Climate
+Risk Index (CRI), DARA’s Climate Vulnerability Monitor (CVM), and the
+Global Adaptation Initiative’s Global Adaptation Index (GAIN) in their
+assessment of vulnerability.[^07ch05_87][^07ch05_88]
 
 ## Twitter, Climate Vulnerability and the Adaptation Turn
 
@@ -4926,13 +4923,13 @@ climate change, including skepticism, mitigation, adaptation, and
 conflict through a climate change content collection in Twitter. This is
 to propose that the changing prominence of each concept in time
 indicates a ‘phase' in the issue evolution of climate change as a
-controversy object.[^89]
+controversy object.[^07ch05_89]
 
 As mentioned earlier in this chapter, for this analysis a data set
 containing 8.3 million climate change tweets (from the period of 23
 November 2012 until 30 May 2013) is queried for the keywords ‘skeptic,’
 ‘mitigation,’ ‘adaptation’ and ‘conflict OR violence,’ using the online
-Twitter Capture and Analysis Tool (TCAT).[^90][^91] Following the logic
+Twitter Capture and Analysis Tool (TCAT).[^07ch05_90][^07ch05_91] Following the logic
 of the Twitter platform, I have created profiles for each keyword
 indicating their various socio-technical formats of resonance, listing
 their URLs, top 10 hashtags, top 10 mentioned users, top 10 active
@@ -4941,19 +4938,20 @@ profiles include the most linked URL and the most retweeted tweet for
 each of the keywords. Focusing on the top does not merely attune to the
 logic of the platform and its ranking; from a user perspective, it means
 the selection of content with the most exposure, those tweets most
-viewed by users.[^92]
+viewed by users.[^07ch05_92]
 
-![](imgs/figure16.png)
-
-Figure 16: Profiling adaptation and its place in climate change debates with Twitter. This map shows profiles of four discursive areas within the climate debate: skepticism (with the query ‘skeptic’), mitigation, adaptation, and
-conflict (with the query ‘conflict’ OR ‘violence’). EMAPS, 'Profiling
-Adaptation and Its Place in Climate Change Debates With Twitter', 2014,
+Figure 16: Profiling adaptation and its place in climate change debates
+with Twitter. This map shows profiles of four discursive areas within
+the climate debate: skepticism (with the query ‘skeptic’), mitigation,
+adaptation, and conflict (with the query ‘conflict’ OR ‘violence’).
+EMAPS, 'Profiling Adaptation and Its Place in Climate Change Debates
+With Twitter', 2014,
 http://climaps.eu/\#!/map/profiling-adaptation-and-its-place-in-climate-change-debates-with-twitter-I.
 
 Figure 16 offers a visual rendition of these discourse profiles. The
 term of ‘adaptation’ resonates most in the climate change tweets, with
 30,560 results, indicating that indeed also in Twitter the ‘adaptation
-turn’ has occurred.[^93] Overall, ‘adaptation' and ‘mitigation' have
+turn’ has occurred.[^07ch05_93] Overall, ‘adaptation' and ‘mitigation' have
 similarities in terms of most-used hashtags (where five hashtags from
 the top 10 are shared). The occurrence of ‘adaptation' in the
 ‘mitigation' set and vice versa further confirms the overlap between the
@@ -4965,7 +4963,7 @@ and is present in both ‘adaptation' and ‘mitigation' tweets. \#UNFCCC is
 present in relation to ‘mitigation.' A noteworthy top hashtag is
 \#agriculture, a food-related issue, also present in both ‘mitigation'
 and ‘adaptation' tweets, but (again) with a larger occurrence in the
-‘adaptation' collection.[^94]
+‘adaptation' collection.[^07ch05_94]
 
 The ‘skepticism’ and ‘conflict’ profiles both offer up distinct
 discursive spaces. The resonance of skepticism is dominated by actors
@@ -4976,9 +4974,9 @@ become clear from the following example of the Twitter user named
 Skepticscience. @Skepticscience is the most-mentioned user for
 ‘skepticism,’ and with 2684 mentions is even the most-mentioned user
 across the board, outnumbering those for ‘mitigation’, ‘adaptation’ and
-‘conflict’.[^95] The user is connected to skepticalscience.com, a
+‘conflict’.[^07ch05_95] The user is connected to skepticalscience.com, a
 website with the slogan ‘getting skeptical about global warming
-skepticism’, which is the top host in the ‘skepticism’ collection.[^96]
+skepticism’, which is the top host in the ‘skepticism’ collection.[^07ch05_96]
 This underlines the importance of combining computational analysis with
 a qualitative close reading of the data, with attention to the actors
 and their content. A solely quantitative analysis, in this case, would
@@ -4993,7 +4991,7 @@ this space, receiving 660 links and listings in the most retweeted
 message by the third most mentioned user, the entrepreneur @elonmusk:
 ‘In reality 97% of scientists agree that we face serious human generated
 climate change http://t.co/soQCnJB61B’, which was retweeted 503
-times.[^97][^98]
+times.[^07ch05_97][^07ch05_98]
 
 In conclusion, the profiles offer a view beyond the substance of the
 issue, to capture the actors present in this space as most active or
@@ -5022,7 +5020,7 @@ highly, and famous protagonists of human-made global warming appear
 here, including Al Gore. The cluster also gives voice to journalists and
 entrepreneurs infamous for their skepticism. The interrelation between
 the scientific and the public debate is perhaps best captured by the
-Consensus Project.[^99] The Consensus Project takes an academically
+Consensus Project.[^07ch05_99] The Consensus Project takes an academically
 published scientometric analysis of climate consensus in climate science
 publications and publishes it in media campaigns stressing consensus on
 climate change, in collaboration with *SkepticalScience*. As the website
@@ -5036,21 +5034,21 @@ indicating the shift from a scientific to a public (and heavily
 mediated) debate. Similarly, conflict is associated with news media and
 public figures, for instance, radio show hosts (@hermancain), but also
 organizations with a humanitarian focus, such as Oxfam and Greenpeace,
-that address the humanitarian aspects of the environmental crisis.[^100]
+that address the humanitarian aspects of the environmental crisis.[^07ch05_100]
 
 Having zoomed in on the most prominent issues and actors in climate
 change-related tweets, where adaptation and food security are leading
 issues, my analysis now takes a more exploratory approach (in the vein
-of Tukey’s approach).[^101] Hashtags included in the same tweets, for
+of Tukey’s approach).[^07ch05_101] Hashtags included in the same tweets, for
 example, can form thematic clusters with a myriad of sub-issues
 illustrating the current state of climate action and adaptation.
 Co-hashtag analysis allows for the characterization of hashtags in terms
-of how they are networked associatively with other hashtags.[^102] As
+of how they are networked associatively with other hashtags.[^07ch05_102] As
 discussed in the introduction, there are limitations to samples
 demarcated by hashtags. However, given the large dataset that I am
 attending to here — 4,771,135 tweets from 1,780,225 distinct users —
 this filtering by hashtag usage provides a sizeable yet manageable
-subset of sample data.[^103]
+subset of sample data.[^07ch05_103]
 
 ## Exploratory View: Co-hashtag Analysis of Climate Change Tweets
 
@@ -5058,16 +5056,16 @@ For the exploration of co-hashtags within the data set, we first
 visualized the thematic clusters that could be identified within the
 Twitter space, based on the ‘modularity class’ algorithm in Gephi, an
 algorithm that detects communities of densely connected nodes where the
-nodes belong to different communities more sparsely connected.[^104]
+nodes belong to different communities more sparsely connected.[^07ch05_104]
 Considering the (still) large amount of data in the data set, we made
 use of the OpenOrd layout, a force-directed layout algorithm
 specifically designed to encourage clustering in densely connected,
-large-scale, undirected graphs.[^105] As the nodes ‘climate change’ and
+large-scale, undirected graphs.[^07ch05_105] As the nodes ‘climate change’ and
 ‘global warming’ generated the strongest results (as expected), we
 excluded them from the graph to render legible their sub-clusters. The
 resulting clusters were manually categorized into themes that captured
 the essence of the connected hashtags. We followed this with a close
-reading of the actual tweets involved to verify the themes.[^106]
+reading of the actual tweets involved to verify the themes.[^07ch05_106]
 
 An exploratory reading of the network graph in Figure 17 shows some
 aspects that have long been a subject of discussion where climate change
@@ -5082,9 +5080,9 @@ action to counteract the impact of environmental change, such as
 \#gofossilfree, \#fossilfools, \#carbonfootprint, \#cleantech, and
 \#renewables.
 
-![](imgs/figure17.jpg)
-
-Figure 17: Climate change tweets co-hashtag cluster map. This network visualization shows thematic clusters in hashtag clusters within a set of climate change tweets.[^107]
+Figure 17: Climate change tweets co-hashtag cluster map. This network
+visualization shows thematic clusters in hashtag clusters within a set
+of climate change tweets.[^07ch05_107]
 
 Skeptical views on climate change are also addressed in the Twitter
 space. In this case, however, as seen in the profiles, the
@@ -5095,7 +5093,7 @@ prominent user in the skepticism profile in figure 3-2), \#actionaugust,
 refers to the August of 2013 when the Organizing for Action movement
 delivered unicorn-shaped ‘climate denier awards’ to congressional
 members skeptical of climate change, ‘ignoring the overwhelming judgment
-of science’.[^108] The prominence of actions against known climate
+of science’.[^07ch05_108] The prominence of actions against known climate
 change skeptics and their institutional networks shows that views
 acknowledging climate change still take a more central position in the
 Twitter co-hashtag network than those skeptical of its man-made
@@ -5112,10 +5110,10 @@ marine habitats and the vulnerability of the Arctic, as hashtags like
 particular, ‘reefs’ and ‘antarctic’ are named in this context as
 vulnerable spots, where ‘polar bears’, ‘penguins’, ‘whales’, ‘trout’ and
 ‘sharks’ seem to be the most prominent *issue animals* threatened with
-injury, death, and, ultimately, extinction.[^109] The biodiversity
+injury, death, and, ultimately, extinction.[^07ch05_109] The biodiversity
 cluster reflects the need for resilience towards climate change for
 ‘birds’, ‘turtles’, ‘koalas’, ‘tigers’, and ‘butterflies’, again
-pointing towards the vulnerability of habitats and species.[^110]
+pointing towards the vulnerability of habitats and species.[^07ch05_110]
 
 Other clusters tend to focus on geographical regions such as Australia,
 Canada, and the US, albeit mainly in terms of climate change or global
@@ -5130,37 +5128,37 @@ climate change as a threat to future generations. He further stressed
 the urgency of action when he argued: ‘some may still deny the
 overwhelming judgment of science, but none can avoid the devastating
 impact of raging fires and crippling drought, and more powerful
-storms’.[^111] A Canada-themed cluster reflects both the political
+storms’.[^07ch05_111] A Canada-themed cluster reflects both the political
 events in Vancouver and the climate hearings in Saskatoon. The events in
 Vancouver revolved around the British Columbian Green Party in the weeks
 leading up to the elections, addressing the need to reduce greenhouse
-gas emissions and opposing oil pipeline expansions.[^112] Canada
+gas emissions and opposing oil pipeline expansions.[^07ch05_112] Canada
 conservatives, on the other hand, supported the expansion of oil
 pipelines, spurring a debate on Twitter regarding the facts of climate
-change.[^113]
+change.[^07ch05_113]
 
 In November 2013, the Saskatchewan citizens’ hearings on climate change
 also gained prominence on Twitter through the hashtag ‘climatesk’. The
 hearings included a two-day event with presentations on the realities of
 climate change from scientists, teachers, newcomers to Canada, and
 affected groups, allowing the voiceless victims of climate change to be
-heard.[^114] A third political cluster includes hashtags on Australian
+heard.[^07ch05_114] A third political cluster includes hashtags on Australian
 politics, reflected in hashtags such as \#melbourne, \#auspol,
 \#ausvotes, and \#carbontax. The debate there revolved around Tony
 Abbott, prime minister of Australia since 2013, and his statements of
 September 2013 announcing that he would not increase funding for further
 carbon tax reductions if Australia missed its emission reductions
-target.[^115] These clusters thus seem to detail the discussions on
+target.[^07ch05_115] These clusters thus seem to detail the discussions on
 statements made about climate change following specific political
 events, as well as the political views of those involved in elections
 around the world. Each identifies clear opportunities for scholarly
 research that uses Twitter as a ‘source of current and topical news’ as
-proposed by Phelan, McCarthy, and Smyth.[^116]
+proposed by Phelan, McCarthy, and Smyth.[^07ch05_116]
 
 Clusters that are formed by hashtags related to official sources (UN and
 IPCC), climate activism and everyday weather remarks additionally
 express that many, if not most, conversations on Twitter emerge around
-particular (current) events and other real-time experiences.[^117] This
+particular (current) events and other real-time experiences.[^07ch05_117] This
 endorses the aforementioned scientific literature on Twitter as a medium
 for real-time and happening content. Lastly, the network further
 displays resonance of the previously profiled climate change discourse
@@ -5172,13 +5170,13 @@ climate change and conflict is popularly recognized on Twitter, with
 re-tweets from news articles on the issue, but these being also
 skeptically assessed, in tweets similar to the following: ‘Syria
 conflict is not caused by drought. Its more to do with a bad mix of
-Religion and politics just like everywhere else.’[^118]
+Religion and politics just like everywhere else.’[^07ch05_118]
 
 Taken as a group then, these Twitter clusters provide a rich snapshot of
 the state of the climate debate, indeed work as a kind of ‘awareness
 system,’ to speak with Hermida, that gives voice to the different voices
 and actors active in this realm, and reveals the intertwinement of the
-news and other mass media content with the platform’s content.[^119]
+news and other mass media content with the platform’s content.[^07ch05_119]
 Twitter does not produce ‘climate science’ but instead puts scientific
 research into circulation, while also enabling up close, located and
 platform-literate engagements that assess the resonance of climate
@@ -5222,7 +5220,7 @@ Skepticalscience (both as a user named @Skepticalscience and as a
 website host) and major news sources, and makes an important point for
 the close reading of data rather than favoring coarser pattern
 recognition. In the profile of conflict, news media, and media
-personalities resonate strongly, as do humanitarian NGOs.[^120]
+personalities resonate strongly, as do humanitarian NGOs.[^07ch05_120]
 
 The exploratory analysis of the climate change Twitter hashtag network
 shows us that climate change as a controversy object appears through, or
@@ -5230,7 +5228,7 @@ is a sum of, a multiplicity of sub-issues including skepticism,
 mitigation, adaptation, vulnerability, and conflict. Just as the
 comparison of different Indices’ rankings revealed conflicting
 vulnerabilities, the Twitter hashtag network also points to different
-metrics of vulnerability.[^121][^122] In contrast to how vulnerability
+metrics of vulnerability.[^07ch05_121][^07ch05_122] In contrast to how vulnerability
 indices organize and rank vulnerability by country listings, it appears
 that the ‘nation’ is not the key entity we are tracking in relation to
 vulnerabilities registering on Twitter. Rather, the objects of
@@ -5253,62 +5251,62 @@ happening’ but rather serves as a progress report on an issue, in this
 case both addressing where we are with climate change adaptation and
 what is at stake.
 
-[^1]: For historical accounts of the development of the micro-blogging
+[^07ch05_1]: For historical accounts of the development of the micro-blogging
     platform Twitter, see, for instance: Rogers, *Digital Methods*; Van
     Dijck, ‘Tracing Twitter’; Van Dijck, ‘The Culture of Connectivity’.
 
-[^2]: See, for instance, Twitter, 'Getting started with Twitter',
+[^07ch05_2]: See, for instance, Twitter, 'Getting started with Twitter',
     https://support.twitter.com/articles/215585.
 
-[^3]: For a critical analysis of the freshness of data and the
+[^07ch05_3]: For a critical analysis of the freshness of data and the
     ‘real-time-ness’ of Twitter and other social media, see: Helmond,
     ‘The Perceived Freshness Fetish’ and Weltevrede, Helmond, and
     Gerlitz, 'The Politics of Real-time’.
 
-[^4]: Lotan et al. ‘The Revolutions Were Tweeted’.
+[^07ch05_4]: Lotan et al. ‘The Revolutions Were Tweeted’.
 
-[^5]: See later in this chapter for a brief discussion of the role of
+[^07ch05_5]: See later in this chapter for a brief discussion of the role of
     the hashtag on Twitter.
 
-[^6]: See also C. Gerlitz and B. Rieder, 'Mining One Percent of Twitter:
+[^07ch05_6]: See also C. Gerlitz and B. Rieder, 'Mining One Percent of Twitter:
     Collections, Baselines, Sampling', *M/C Journal*, 16.2 (2013) for a
     discussion of the affordances of hashtags for research. They find,
     on the basis of their 1% sample analyzing 1 day of tweets, that
     13,1% of the tweets include hashtags.
 
-[^7]: Gerlitz and Rieder, 'Mining One Percent of Twitter’.
+[^07ch05_7]: Gerlitz and Rieder, 'Mining One Percent of Twitter’.
 
-[^8]: See also: Gerlitz and Rieder, 'Mining One Percent of Twitter’.
+[^07ch05_8]: See also: Gerlitz and Rieder, 'Mining One Percent of Twitter’.
 
-[^9]: Van Dijck, ‘Tracing Twitter’.
+[^07ch05_9]: Van Dijck, ‘Tracing Twitter’.
 
-[^10]: danah boyd, S. Golder, and G. Lotan, 'Tweet, Tweet, Retweet:
+[^07ch05_10]: danah boyd, S. Golder, and G. Lotan, 'Tweet, Tweet, Retweet:
     Conversational Aspects of Retweeting on Twitter', in *43rd Hawaii
     International Conference on System Sciences (HICSS),* 2010, 2.
 
-[^11]: See also Honeycutt and Herring, *Beyond Microblogging:
+[^07ch05_11]: See also Honeycutt and Herring, *Beyond Microblogging:
     Conversation and Collaboration via Twitter*, 2009,
     https://www.researchgate.net/publication/224373137\_Beyond\_Microblogging\_Conversation\_and\_Collaboration\_via\_Twitter,
     for discussions of the various motivations users may have to include
     an @mention, such as attention-seeking, addressing users, etc.
 
-[^12]: boyd et al. ‘Tweet, Tweet, Retweet’, 6.
+[^07ch05_12]: boyd et al. ‘Tweet, Tweet, Retweet’, 6.
 
-[^13]: Gerlitzand and Rieder, 'Mining One Percent of Twitter’, discuss
+[^07ch05_13]: Gerlitzand and Rieder, 'Mining One Percent of Twitter’, discuss
     demarcation of data in Twitter, as many case studies use specific
     hashtags or user practices (such as retweeting or favoriting) as a
     means to demarcate a sample, which is a question of recall (how many
     data points did I get?) and precision (how many of these data points
     are relevant?).
 
-[^14]: (boyd et al., 2010; Gerlitz & Rieder, 2013; Smyrnaios & Rieder,
+[^07ch05_14]: (boyd et al., 2010; Gerlitz & Rieder, 2013; Smyrnaios & Rieder,
     2013)\# boyd et al. ‘Tweet, Tweet, Retweet’. Gerlitzand and Rieder,
     'Mining One Percent of Twitter’. Smyrnaion and Rieder, 'Social
     Infomediation of News on Twitter’.
 
-[^15]: boyd et al. ‘Tweet, Tweet, Retweet’, 2.
+[^07ch05_15]: boyd et al. ‘Tweet, Tweet, Retweet’, 2.
 
-[^16]: The use of Twitter data for cultural and social analysis has been
+[^07ch05_16]: The use of Twitter data for cultural and social analysis has been
     described as the third phase in Twitter's popular cultural uptake,
     which had as its first phase the function of being an ‘ambient
     friend-following tool’, where user content answers the question
@@ -5317,7 +5315,7 @@ what is at stake.
     further fostered its use as a ‘news medium for event-following’.
     Rogers, R. 'Debanalising Twitter’, xii-xiv.
 
-[^17]: A. Tumasjan, T.O. Sprenger, P.G. Sandner, and I.M. Welpe,
+[^07ch05_17]: A. Tumasjan, T.O. Sprenger, P.G. Sandner, and I.M. Welpe,
     'Predicting Elections with Twitter: What 140 Characters Reveal About
     Political Sentiment', in *Fourth International AAAI Conference on
     Weblogs and Social Media*, 2010,
@@ -5332,7 +5330,7 @@ what is at stake.
     political parties, and one-third of these messages partaking in
     platform-based conversations.
 
-[^18]: The predictive affordances of Twitter have been criticized by
+[^07ch05_18]: The predictive affordances of Twitter have been criticized by
     scholars such as Daniel Gayo-Avello, whose paper from 2012 offers an
     interesting ‘annotated biography’ with a discussion of Twitter
     prediction literature. D. Gayo-Avello, 'I Wanted to Predict
@@ -5340,39 +5338,39 @@ what is at stake.
     Balanced Survey on Election Prediction Using Twitter Data', *Arxiv
     Preprint arXiv12046441*, 2012, http://arxiv.org/pdf/1204.6441.pdf.
 
-[^19]: J. Leskovec, L. Backstrom, and J. Kleinberg, 'Meme-tracking and
+[^07ch05_19]: J. Leskovec, L. Backstrom, and J. Kleinberg, 'Meme-tracking and
     the Dynamics of the News Cycle', In *Proceedings of the 15th ACM
     SIGKDD international conference on Knowledge discovery and data
     mining*, ACM, 2009, pp. 497-506,
     http://dl.acm.org/citation.cfm?id=1557077.
 
-[^20]: Helmond, *The Web as Platform.*
+[^07ch05_20]: Helmond, *The Web as Platform.*
 
-[^21]: DMI-TCAT, as a tool, does separate Twitter content from the
+[^07ch05_21]: DMI-TCAT, as a tool, does separate Twitter content from the
     platform Twitter. However, it retains information about how Twitter
     structures its information.
 
-[^22]: See also E. Borra and B. Rieder, 'Programmed Method: Developing a
+[^07ch05_22]: See also E. Borra and B. Rieder, 'Programmed Method: Developing a
     Toolset for Capturing and Analyzing Tweets', *Aslib Journal of
     Information Management*, 66.3 (2014): 262–278.
 
-[^23]: EMAPS, 'Vulnerability, Resilience and Conflict’. Needless to say,
+[^07ch05_23]: EMAPS, 'Vulnerability, Resilience and Conflict’. Needless to say,
     these phases are not cleanly separated chronologically but rather
     overlap.
 
-[^24]: Borra and Rieder, 'Programmed Method’.
+[^07ch05_24]: Borra and Rieder, 'Programmed Method’.
 
-[^25]: In the EMAPS Digital Methods Fall Data Sprint, we also asked
+[^07ch05_25]: In the EMAPS Digital Methods Fall Data Sprint, we also asked
     whether conflict could be seen as a fourth phase in the evolution of
     the issue of climate change, after skepticism, mitigation, and
     adaptation. EMAPS, 'Vulnerability, Resilience and Conflict’.
 
-[^26]: IPCC, 'Climate Change 2014: Synthesis Report: Contribution of
+[^07ch05_26]: IPCC, 'Climate Change 2014: Synthesis Report: Contribution of
     Working Groups I, II and III to the Fifth Assessment Report of the
     Intergovernmental Panel on Climate Change', Geneva: IPCC, 2014,
     http://ar5-syr.ipcc.ch/, 3.
 
-[^27]: The IPCC's Working Group II has mapped adaptation within
+[^07ch05_27]: The IPCC's Working Group II has mapped adaptation within
     scientific literature on climate change and concludes that there is
     an overall doubling of the volume of publication in this field in
     less than five years, and secondly, that adaptation has become a
@@ -5381,85 +5379,85 @@ what is at stake.
     Media', 2014,
     http://climaps.eu/\#!/narrative/reading-the-state-of-climate-change-from-digital-media.
 
-[^28]: Beck, *World at Risk.*
+[^07ch05_28]: Beck, *World at Risk.*
 
-[^29]: Beck, *World at Risk,* 161.
+[^07ch05_29]: Beck, *World at Risk,* 161.
 
-[^30]: Beck, *World at Risk,* 161.
+[^07ch05_30]: Beck, *World at Risk,* 161.
 
-[^31]: IPCC, 'Working Group II: Impacts, Adaptation and Vulnerability:
+[^07ch05_31]: IPCC, 'Working Group II: Impacts, Adaptation and Vulnerability:
     Summary for Policymakers', 2001,
     http://www.ipcc.ch/ipccreports/tar/wg2/index.php?idp=8.
 
-[^32]: Adger, 'Vulnerability', 269.
+[^07ch05_32]: Adger, 'Vulnerability', 269.
 
-[^33]: R.J.T. Klein, 'Identifying Countries That Are Particularly
+[^07ch05_33]: R.J.T. Klein, 'Identifying Countries That Are Particularly
     Vulnerable to the Adverse Effects of Climate Change: An Academic or
     a Political Challenge?' *Carbon and Climate Law Review* 3 (2009):
     284–289.
 
-[^34]: Klein, ‘Identifying Countries That Are Particularly Vulnerable to
+[^07ch05_34]: Klein, ‘Identifying Countries That Are Particularly Vulnerable to
     the Adverse Effects of Climate Change’, 289. This is discussed in
     detail in EMAPS, 'Who Deserved to Be Funded? A Closer Look at the
     Practices of Vulnerability Assessment and the Priorities of
     Adaptation Funding', 2014,
     http://climaps.eu/\#!/narrative/who-deserves-to-be-funded.
 
-[^35]: J. Howard, 'Climate Change Mitigation and Adaptation in Developed
+[^07ch05_35]: J. Howard, 'Climate Change Mitigation and Adaptation in Developed
     Nations: A Critical Perspective on the Adaptation Turn in Urban
     Climate Planning', in S. Davoudi, J. Crawford and A. Mehmood (eds)
     *Planning for Climate Change: Strategies for Mitigation and
     Adaptation for Spatial Planning*, London: Earthscan, 2009, pp.
     19-32.
 
-[^36]: Venturini et al. ‘Climaps by EMAPS in 2 Pages'.
+[^07ch05_36]: Venturini et al. ‘Climaps by EMAPS in 2 Pages'.
 
-[^37]: Shirky, *Here Comes Everybody.* Sullivan, ‘The Revolution Will Be
+[^07ch05_37]: Shirky, *Here Comes Everybody.* Sullivan, ‘The Revolution Will Be
     Twittered’.
 
-[^38]: Z. Tufekci and C. Wilson, 'Social Media and the Decision to
+[^07ch05_38]: Z. Tufekci and C. Wilson, 'Social Media and the Decision to
     Participate in Political Protest: Observations from Tahrir Square',
     *Journal of Communication* 62.2 (2012): 363–379.
 
-[^39]: E. Morozov, 'Iran: Downside to the “Twitter Revolution”’,
+[^07ch05_39]: E. Morozov, 'Iran: Downside to the “Twitter Revolution”’,
     *Dissent* 56.4 (2009): 10–14.
 
-[^40]: Gladwell, 'Small Change’.
+[^07ch05_40]: Gladwell, 'Small Change’.
 
-[^41]: T. Poell and K. Darmoni, 'Twitter as a Multilingual Space: The
+[^07ch05_41]: T. Poell and K. Darmoni, 'Twitter as a Multilingual Space: The
     Articulation of the Tunisian Revolution Through \#sidibouzid',
     *NECSUS European Journal of Media Studies* 1.1 (2012): 14–34.
 
-[^42]: The term ‘awareness systems’ here refers to systems that support
+[^07ch05_42]: The term ‘awareness systems’ here refers to systems that support
     remote co-working. A. Hermida, 'Twittering the News', *Journalism
     Practice* 4.3 (2010): 298-301.
 
-[^43]: Hermida, ‘Twittering the News’, 298.
+[^07ch05_43]: Hermida, ‘Twittering the News’, 298.
 
-[^44]: Hermida, ‘Twittering the News’, 301.
+[^07ch05_44]: Hermida, ‘Twittering the News’, 301.
 
-[^45]: G. Veltri, 'Microblogging and Nanotweets: Nanotechnology on
+[^07ch05_45]: G. Veltri, 'Microblogging and Nanotweets: Nanotechnology on
     Twitter', *Public Understanding of Science* 22.7 (2013): 832–849.
 
-[^46]: Rogers, 'Debanalising Twitter', xiv.
+[^07ch05_46]: Rogers, 'Debanalising Twitter', xiv.
 
-[^47]: Back et al. ‘Doing Real Time Research’.
+[^07ch05_47]: Back et al. ‘Doing Real Time Research’.
 
-[^48]: Marres and Weltevrede, ‘Scraping the Social?’
+[^07ch05_48]: Marres and Weltevrede, ‘Scraping the Social?’
 
-[^49]: T.O. Sprenger, A. Tumasjan, P.G. Sandner, and I.M. Welpe, 'Tweets
+[^07ch05_49]: T.O. Sprenger, A. Tumasjan, P.G. Sandner, and I.M. Welpe, 'Tweets
     and Trades: The Information Content of Stock Microblogs', *European
     Financial Management* 20 (2014): 926-957,
     10.1111/j.1468-036X.2013.12007.x.
 
-[^50]: Tumasjan, Sprenger, Sandner, and Welpe, 'Predicting Elections
+[^07ch05_50]: Tumasjan, Sprenger, Sandner, and Welpe, 'Predicting Elections
     with Twitter’.
 
-[^51]: A. Bruns and Y.E. Liang, 'Tools and Methods for Capturing Twitter
+[^07ch05_51]: A. Bruns and Y.E. Liang, 'Tools and Methods for Capturing Twitter
     Data During Natural Disasters', *First Monday* 17.4 (2012):
     http://firstmonday.org/ojs/index.php/fm/article/view/3937/3193.
 
-[^52]: In the vein of big data research, researchers such as M. de Rijke
+[^07ch05_52]: In the vein of big data research, researchers such as M. de Rijke
     repurpose the *real-timeness* of Twitter data to reveal current
     cultural preferences in real-time; for example, in their work, to
     overview what music the world is listening to right now. Their
@@ -5470,33 +5468,33 @@ what is at stake.
     does, indeed, play the song (from Youtube)’. De Rijke, ‘Going out
     with Streamwatchr’, 2014, http://staff.science.uva.nl/\~mdr/.
 
-[^53]: MIT MediaLab project *Whose Voices?* tracks which Twitter users
+[^07ch05_53]: MIT MediaLab project *Whose Voices?* tracks which Twitter users
     are cited in the media, and through case studies zooms in on the
     diversity of sources quoted on the international citizen media
     platform Global Voices. J.N. Matias, 'Whose voices? Twitter citation
     in Global Voices', 2012, http://natematias.com/medialab/gv-viewer/.
 
-[^54]: boyd et al. ‘Tweet, Tweet, Retweet’.
+[^07ch05_54]: boyd et al. ‘Tweet, Tweet, Retweet’.
 
-[^55]: In this chapter, more than in the previous case studies on the
+[^07ch05_55]: In this chapter, more than in the previous case studies on the
     web and Wikipedia, I will discuss in detail the issue of climate
     change, its sub-issues, and the recent literature connecting it to
     conflict.
 
-[^56]: Klein, 'Identifying Countries That Are Particularly Vulnerable to
+[^07ch05_56]: Klein, 'Identifying Countries That Are Particularly Vulnerable to
     the Adverse Effects of Climate Change’, 285.
 
-[^57]: S.M. Hsiang, M. Burke, E. Miguel, 'Quantifying the Influence of
+[^07ch05_57]: S.M. Hsiang, M. Burke, E. Miguel, 'Quantifying the Influence of
     Climate on Human Conflict', *Science*, 341.6151 (2013):
     http://doi.org/10.1126/science.1235367.
 
-[^58]: Doucleff, 'Could Hotter Temperatures from Climate Change Boost
+[^07ch05_58]: Doucleff, 'Could Hotter Temperatures from Climate Change Boost
     Violence?’. NPR, 'How Could a Drought Spark a Civil War?'
 
-[^59]: Perez, 'Climate Change and Rising Food Prices Heightened Arab
+[^07ch05_59]: Perez, 'Climate Change and Rising Food Prices Heightened Arab
     Spring'. Plumer, ‘Drought Helped Cause Syria’s War’.
 
-[^60]: It is important to clarify how ‘solid' this relationship between
+[^07ch05_60]: It is important to clarify how ‘solid' this relationship between
     climate change and conflict is conceived to be at the time of
     writing. In a meta-analysis conducted by Hsiang, Burke, and Miguel
     'Quantifying the Influence of Climate on Human Conflict', who
@@ -5509,7 +5507,7 @@ what is at stake.
     terms of institutional breakdown and the collapse of civilizations.
     'Quantifying the Influence of Climate on Human Conflict', 1.
 
-[^61]: On a local level, several studies in psychology and economics
+[^07ch05_61]: On a local level, several studies in psychology and economics
     have found that individuals are more likely to act aggressively or
     show violent behavior if ambient temperatures at the time of
     observation are higher. C.A. Anderson, 'Heat and violence', *Current
@@ -5521,7 +5519,7 @@ what is at stake.
     Study of the Heat/Aggression Relationship', *Environment and
     Behavior* 18 (1986): 179–197.
 
-[^62]: Other recent literature indicates that in low-income settings,
+[^07ch05_62]: Other recent literature indicates that in low-income settings,
     extreme rainfall events that adversely affect agricultural income
     are similarly associated with higher rates of personal violence and
     property crime. D. Blakeslee and R. Fishman, 'Rainfall shocks and
@@ -5530,7 +5528,7 @@ what is at stake.
     Mehlum, E. Miguel, and R. Torvik, 'Poverty and Crime in 19th Century
     Germany', *Journal of Urban Economics* 59.3 (2006): 370–388.
 
-[^63]: Some longitudinal studies of intergroup violence point out that
+[^07ch05_63]: Some longitudinal studies of intergroup violence point out that
     such social conflicts tend to be more likely after extreme rainfall
     conditions. Such research tends to confirm rather than challenge the
     aforementioned findings on the a priori relationship between social
@@ -5539,63 +5537,63 @@ what is at stake.
     conflict, although alternative explanations such as political
     instability cannot be excluded.
 
-[^64]: C.S. Hendrix and I. Salehyan, 'Climate Change, Rainfall, and
+[^07ch05_64]: C.S. Hendrix and I. Salehyan, 'Climate Change, Rainfall, and
     Social Conflict in Africa', *Journal of Peace Research* 49.1 (2012):
     35–50.
 
-[^65]: A.T. Bohlken and E.J. Sergenti, 'Economic Growth and Ethnic
+[^07ch05_65]: A.T. Bohlken and E.J. Sergenti, 'Economic Growth and Ethnic
     Violence: An Empirical Investigation of Hindu-Muslim Riots in
     India', *Journal of Peace Research*, 47 (2010): 589–600.
 
-[^66]: T.F. Homer-Dixon, 'On the Threshold: Environmental Changes as
+[^07ch05_66]: T.F. Homer-Dixon, 'On the Threshold: Environmental Changes as
     Causes of Acute Conflict', *International Security* 16 (1991):
     76–116.
 
-[^67]: J. Barnett and W.N. Adger, 'Climate Change, Human Security and
+[^07ch05_67]: J. Barnett and W.N. Adger, 'Climate Change, Human Security and
     Violent Conflict', *Political Geography*, 26.6 (2008): 639–655.
 
-[^68]: Jeremy Rifkin, *The Hydrogen Economy: The Creation of the
+[^07ch05_68]: Jeremy Rifkin, *The Hydrogen Economy: The Creation of the
     Worldwide Energy Web and the Redistribution of Power on Earth
     Tarcher* (New York: Putnam, 2002).
 
-[^69]: Barnett and Adger, 'Climate Change, Human Security and Violent
+[^07ch05_69]: Barnett and Adger, 'Climate Change, Human Security and Violent
     Conflict'.
 
-[^70]: C. Raleigh and H. Urdal, 'Climate Change, Environmental
+[^07ch05_70]: C. Raleigh and H. Urdal, 'Climate Change, Environmental
     Degradation and Armed Conflict', *Political Geography* 26.6 (2007):
     674–694.
 
-[^71]: J. Barnett, 'Security and Climate Change', *Global Environmental
+[^07ch05_71]: J. Barnett, 'Security and Climate Change', *Global Environmental
     Change*, 13.1 (2003): 7–17.
 
-[^72]: R. Reuveny, 'Climate Change-induced Migration and Violent
+[^07ch05_72]: R. Reuveny, 'Climate Change-induced Migration and Violent
     Conflict', *Political Geography* 26.6 (2007): 656–673.
 
-[^73]: Adger, 'Climate Change, Human Security and Violent Conflict'.
+[^07ch05_73]: Adger, 'Climate Change, Human Security and Violent Conflict'.
 
-[^74]: Homer-Dixon, 'On the Threshold’. Reuveny, 'Climate Change-induced
+[^07ch05_74]: Homer-Dixon, 'On the Threshold’. Reuveny, 'Climate Change-induced
     Migration and Violent Conflict'.
 
-[^75]: Homer-Dixon, 'On the Threshold’.
+[^07ch05_75]: Homer-Dixon, 'On the Threshold’.
 
-[^76]: E.A. Stanton, J. Cegan, R. Bueno, and F. Ackerman, *Estimating
+[^07ch05_76]: E.A. Stanton, J. Cegan, R. Bueno, and F. Ackerman, *Estimating
     Regions’ Relative Vulnerability to Climate Damages in the CRED
     Model*, Somerville, MA: Stockholm Environment Institute, 2011, 4.
 
-[^77]: J. Barnett, S. Lambert, and I. Fry, 'The Hazards of Indicators:
+[^07ch05_77]: J. Barnett, S. Lambert, and I. Fry, 'The Hazards of Indicators:
     Insights from the Environmental Vulnerability Index', *Annals of the
     Association of American Geographers*, 98.1 (2008): 102–119.
 
-[^78]: Beck, *World at Risk.*
+[^07ch05_78]: Beck, *World at Risk.*
 
-[^79]: O. Renn and P. Graham, *White Paper on Risk Governance: Towards
+[^07ch05_79]: O. Renn and P. Graham, *White Paper on Risk Governance: Towards
     an Integrative Approach*, International risk governance council,
     2015.
 
-[^80]: Barnett, Lambert, and Fry, 'The Hazards of Indicators: Insights
+[^07ch05_80]: Barnett, Lambert, and Fry, 'The Hazards of Indicators: Insights
     from the Environmental Vulnerability Index', 106.
 
-[^81]: J. Hinkel presents an analysis of six diverse types of problems
+[^07ch05_81]: J. Hinkel presents an analysis of six diverse types of problems
     that vulnerability indicators are meant to address according to his
     review of the literature: ‘(i) identification of mitigation targets;
     (ii) identification of vulnerable people, communities, regions,
@@ -5609,7 +5607,7 @@ what is at stake.
     Clarification of the Science–policy Interface', *Global
     Environmental Change* 21.1 (2011): 198-206.
 
-[^82]: In his review of vulnerability research traditions, climate
+[^07ch05_82]: In his review of vulnerability research traditions, climate
     change scholar W. Neil Adger distinguishes between two scholarly
     ‘antecedents’ that have ‘acted as seedbeds for ideas that eventually
     translated into current research on the vulnerability of social and
@@ -5625,34 +5623,34 @@ what is at stake.
     develop robust and credible indicators and criteria for measuring
     vulnerability. Adger, 'Vulnerability', 270.
 
-[^83]: S.H. Eriksen and P.M. Kelly, 'Developing Credible Vulnerability
+[^07ch05_83]: S.H. Eriksen and P.M. Kelly, 'Developing Credible Vulnerability
     Indicators for Climate Adaptation Policy Assessment', *Mitigation
     and Adaptation Strategies for Global Change* 12.4 (2007): 495–524.
 
-[^84]: Naomi Klein, in her book *This Changes Everything* (2014),
+[^07ch05_84]: Naomi Klein, in her book *This Changes Everything* (2014),
     discusses this as a justice issue. Many developing countries, due to
     both their specific local environments and limited infrastructures,
     will be worse hit by the impacts of climate change while having
     contributed least (e.g., in the sense of carbon emission levels) to
     creating the problem in the first place.
 
-[^85]: EMAPS, 'Who is Vulnerable According to Whom?', 2014,
+[^07ch05_85]: EMAPS, 'Who is Vulnerable According to Whom?', 2014,
     http://climaps.eu/\#!/map/who-is-vulnerable-according-to-whom.
 
-[^86]: Hinkel, 'Indicators of Vulnerability and Adaptive Capacity’, 198.
+[^07ch05_86]: Hinkel, 'Indicators of Vulnerability and Adaptive Capacity’, 198.
 
-[^87]: EMAPS, 'Who is Vulnerable According to Whom?'.
+[^07ch05_87]: EMAPS, 'Who is Vulnerable According to Whom?'.
 
-[^88]: See also:
+[^07ch05_88]: See also:
     http://climaps.org/?utm\_content=buffer51f08&utm\_medium=social&utm\_source=twitter.com&utm\_campaign=buffer\#!/map/who-is-vulnerable-according-to-whom.
 
-[^89]: EMAPS, 'Vulnerability, Resilience and Conflict: Mapping Climate
+[^07ch05_89]: EMAPS, 'Vulnerability, Resilience and Conflict: Mapping Climate
     Change, Reading Cli-fi', *Electronic Maps to Assist Public Science
     Blog*, 2013, http://www.emapsproject.com/blog/archives/2293.
 
-[^90]: Borra and Rieder, 'Programmed Method’.
+[^07ch05_90]: Borra and Rieder, 'Programmed Method’.
 
-[^91]: The climate change collection was made with TCAT by collecting
+[^07ch05_91]: The climate change collection was made with TCAT by collecting
     tweets that mention climate change (also spelled as climatechange),
     global warming (and globalwarming), climate, drought, or flood. This
     is a very wide data set, opting for high recall and low precision,
@@ -5661,11 +5659,11 @@ what is at stake.
     at:
     http://tcat.digitalmethods.net/analysis/index.php?dataset=globalwarming&query=&url\_query=&exclude=&from\_user\_name=&from\_source=&startdate=2012-11-23&enddate=2013-05-30&whattodo=&graph\_resolution=day.
 
-[^92]: This is similar to working with top results in the Google Web
+[^07ch05_92]: This is similar to working with top results in the Google Web
     Search engine; it follows the logic of the medium and the logic of
     working with the results most viewed (and clicked) by its users.
 
-[^93]: The tweets were checked for false positives by close reading the
+[^07ch05_93]: The tweets were checked for false positives by close reading the
     top tweets to see whether these indeed refer to climate change. The
     reason to focus on top tweets is that these are not only the most
     prominent according to the logic of the platform itself but (similar
@@ -5673,43 +5671,43 @@ what is at stake.
     the tweets with the most exposure and therefore are most viewed by
     users.
 
-[^94]: EMAPS, 'Profiling Adaptation and Its Place in Climate Change
+[^07ch05_94]: EMAPS, 'Profiling Adaptation and Its Place in Climate Change
     Debates With Twitter'.
 
-[^95]: As the data set contains retweets too, it could occur that a
+[^07ch05_95]: As the data set contains retweets too, it could occur that a
     single message that is often retweeted skews the data heavily.
     Therefore, it is important to read the data closely to interpret the
     results.
 
-[^96]: SkepticalScience, ‘http://www.skepticalscience.com/’, also
+[^07ch05_96]: SkepticalScience, ‘http://www.skepticalscience.com/’, also
     prominent in the search engine case study in chapter 5.
 
-[^97]: Cook et al., 'Quantifying the Consensus on Anthropogenic Global
+[^07ch05_97]: Cook et al., 'Quantifying the Consensus on Anthropogenic Global
     Warming in the Scientific Literature'.
 
-[^98]: Skeptical Science. 'The Consensus Project'.
+[^07ch05_98]: Skeptical Science. 'The Consensus Project'.
 
-[^99]: Skeptical Science, 'The Consensus Project'.
+[^07ch05_99]: Skeptical Science, 'The Consensus Project'.
 
-[^100]: EMAPS, 'Profiling Adaptation and Its Place in Climate Change
+[^07ch05_100]: EMAPS, 'Profiling Adaptation and Its Place in Climate Change
     Debates with Twitter'.
 
-[^101]: J.W. Tukey, 'Exploratory Data Analysis', 1977,
+[^07ch05_101]: J.W. Tukey, 'Exploratory Data Analysis', 1977,
     http://xa.yimg.com/kq/groups/16412409/1159714453/name/exploratorydataanalysis.pdf
 
-[^102]: Gerlitz and Rieder, 'Mining One Percent of Twitter’.
+[^07ch05_102]: Gerlitz and Rieder, 'Mining One Percent of Twitter’.
 
-[^103]: For this case study, we took a dataset of tweets posted between
+[^07ch05_103]: For this case study, we took a dataset of tweets posted between
     23 November 2012 and 23 November 2013 containing the query \[climate
     change OR global warming\], consisting of 4,771,136 tweets from
     1,785,296 distinct users, using the tool TCAT. Borra and Rieder,
     'Programmed Method’.
 
-[^104]: V.D. Blondel, J.-L. Guillaume, R. Lambiotte, and E. Lefebvre,
+[^07ch05_104]: V.D. Blondel, J.-L. Guillaume, R. Lambiotte, and E. Lefebvre,
     'Fast Unfolding of Communities in Large Networks', *Journal of
     Statistical Mechanics: Theory and Experiment* (2008): 2.
 
-[^105]: Shawn W. Martin, Michael Brown, Richard Klavans, and Kevin
+[^07ch05_105]: Shawn W. Martin, Michael Brown, Richard Klavans, and Kevin
     Boyak, 'OpenOrd: An Open-source Toolbox for Large Graph Layout',
     *Proceedings of the SPIE Visualisation and Data Analysis*, 2011,
     https://doi.org/10.1117/12.871402. The algorithm uses a so-called
@@ -5719,72 +5717,72 @@ what is at stake.
     nodes are ignored, promoting clusters segregation and increasing at
     the same time the amount of white space in the layout.
 
-[^106]: This proved necessary to eliminate the noise of tweets unrelated
+[^07ch05_106]: This proved necessary to eliminate the noise of tweets unrelated
     to climate change, for instance, one discussing a positively
     changing *investment climate* in the Chinese real estate market.
 
-[^107]: EMAPS, 'Climate Change Tweets Co-Hashtag Cluster Map', 2014,
+[^07ch05_107]: EMAPS, 'Climate Change Tweets Co-Hashtag Cluster Map', 2014,
     http://climaps.eu/\#!/map/profiling-adaptation-and-its-place-in-climate-change-debates-with-twitter-ii.
 
-[^108]: K. Burkhart, 'Organizing for Action Delivers Unicorn Trophies to
+[^07ch05_108]: K. Burkhart, 'Organizing for Action Delivers Unicorn Trophies to
     135 Climate Deniers in Congress', *The Huffington Post*, 13 August
     2013,
     http://www.huffingtonpost.com/2013/08/13/organizing-for-action-climate-deniers\_n\_3750126.html.
 
-[^109]: These clusters reflect indicators of habitat change as included
+[^07ch05_109]: These clusters reflect indicators of habitat change as included
     in the DARA index, and ecosystem services as defined in the ND-Gain
     index, albeit mostly focused on animals rather than indicators of
     effects on human habitats. A number of countries are however,
     mentioned in the context of \#drought and \#rainfall, such as Haiti,
     Namibia, Malawi, Jemen, and Liberia.
 
-[^110]: See also the *Issue Animals* study by Niederer and Weltevrede.
+[^07ch05_110]: See also the *Issue Animals* study by Niederer and Weltevrede.
     Digital Methods Initiative, 'Networked Content', 2008,
     https://digitalmethods.net/Digitalmethods/TheNetworkedContent.
     Rogers, *Digital Methods.*
 
-[^111]: Stevenson and Broder, ‘Climate Change Prominent in Obama’s
+[^07ch05_111]: Stevenson and Broder, ‘Climate Change Prominent in Obama’s
     Inaugural Address’.
 
-[^112]: J. MacNab, 'Will Climate Be a Winner in British Columbia’s
+[^07ch05_112]: J. MacNab, 'Will Climate Be a Winner in British Columbia’s
     Election?' *Pembina Institute*, 2013,
     http://www.pembina.org/blog/724.
 
-[^113]: C. Cattaneo, 'As B.C. Election Looms, Both NDP and Liberals Take
+[^07ch05_113]: C. Cattaneo, 'As B.C. Election Looms, Both NDP and Liberals Take
     Hard Line on Oil Pipelines', *Financial Post*, 2013,
     http://business.financialpost.com/2013/05/06/bc-election-oil-sands/?\_\_lsa=d52e-3289.
 
-[^114]: 'Saskatchewan Citizens’ Hearings on Climate Change', 2014,
+[^07ch05_114]: 'Saskatchewan Citizens’ Hearings on Climate Change', 2014,
     http://skclimatehearings.org/.
 
-[^115]: L. Taylor, 'Rudd Accuses Abbott of Abandoning Australia’s
+[^07ch05_115]: L. Taylor, 'Rudd Accuses Abbott of Abandoning Australia’s
     Alimate Commitments, *The Guardian*, 13 September 2013,
     http://www.theguardian.com/world/2013/sep/03/rudd-abbott-abandoning-climate-commitments.
 
-[^116]: O. Phelan, K. McCarthy, and B. Smyth, 'Using Twitter to
+[^07ch05_116]: O. Phelan, K. McCarthy, and B. Smyth, 'Using Twitter to
     Recommend Real-time Topical News', in *Proceedings of the Third ACM
     Conference on Recommender Systems*, 2009, pp. 385-388,
     http://dl.acm.org/citation.cfm?doid=1639714.1639794.
 
-[^117]: As expected, mundane climate change ‘updates’ also find their
+[^07ch05_117]: As expected, mundane climate change ‘updates’ also find their
     way into the climate change Twitter network, with complaining tweets
     about the cold weather that include such hashtags as \#cold and
     \#freezing.
 
-[^118]: The small clusters include tweets recognizing the connection,
+[^07ch05_118]: The small clusters include tweets recognizing the connection,
     such as ‘\#arabspring caused by \#history’s most underrated force:
     \#climate change’. The discussion also includes skepticism towards
     this connection between climate change and conflict, as with the
     example given in the text and with this tweet: ‘seriously global
     warming err climate change caused Syria? Unreal’.
 
-[^119]: Hermida, ‘Twittering News’.
+[^07ch05_119]: Hermida, ‘Twittering News’.
 
-[^120]: The profile, however, also shows that this specific discourse
+[^07ch05_120]: The profile, however, also shows that this specific discourse
     also seems to have been hijacked by a single user trying to widen
     the issue by connecting it to medical conditions such as obesity.
 
-[^121]: While I focus on Twitter analysis here, the EMAPS study also
+[^07ch05_121]: While I focus on Twitter analysis here, the EMAPS study also
     analyzed the prominence of adaptation and the other discourses on
     the web as accessed through Google. Querying the keywords
     ‘skepticism,' ‘mitigation,' ‘adaptation’ and ‘conflict’ in the top
@@ -5792,9 +5790,10 @@ what is at stake.
     also found ‘adaptation’ to be the most widely present keyword in
     Google top results about climate change.
 
-[^122]: See also: EMAPS, 'Reading the State of Climate Change From the
+[^07ch05_122]: See also: EMAPS, 'Reading the State of Climate Change From the
     Web: Top Google Results', 2014,
     http://climaps.eu/\#!/map/profiling-adaptation-and-its-place-in-climate-change-debates-with-twitter-ii.
+
 
 
 # 6. Conclusion
@@ -5807,7 +5806,7 @@ content*. The foundational work that established the field of content
 analysis, developed within communication science, paved the way for the
 analysis of (large) bodies of text for features or (recurring) themes,
 in order to identify ‘cultural indicators’ or make other inferences
-about societal trends and issues.[^1][^2] While content analysis has
+about societal trends and issues.[^08conclusion_1][^08conclusion_2] While content analysis has
 seen a tremendous uptake across scientific disciplines, the application
 of these methods to *networked* web content has presented an ongoing
 challenge for researchers of various scholarly disciplines. Therefore, I
@@ -5820,7 +5819,7 @@ name and develop here as *networked content analysis*. As content
 analysis has been inclusive of content (in all shapes and forms) *and
 its context* since its early beginnings, its methods only need to be
 amended to suit the digital era and deal explicitly with the technicity
-of networked content.[^3] I propose to utilize controversy mapping and
+of networked content.[^08conclusion_3] I propose to utilize controversy mapping and
 digital methods to do so, building on these methods’ respective
 actor-/issue-centricity and medium-specificity.
 
@@ -5858,11 +5857,11 @@ developed to study controversies and their actors (controversy analysis)
 and social and cultural issues with the web (digital methods).
 Controversy analysis gives direction to the study of controversy without
 the translation of actor language into preset categories listed in a
-codebook.[^4] On the contrary, it makes a case for descriptive research
+codebook.[^08conclusion_4] On the contrary, it makes a case for descriptive research
 and advises researchers to launch their inquiries ‘in medias res’ and
-describe what they see.[^5] There is no single specific protocol,
+describe what they see.[^08conclusion_5] There is no single specific protocol,
 toolkit or methodological framework for controversy analysis, but there
-are ‘commandments’[^6][^7], publications, and an educational program at
+are ‘commandments’[^08conclusion_6][^08conclusion_7], publications, and an educational program at
 Sciences Po in Paris that provide many guidelines for the
 operationalization of the mapping of controversies. In my case studies,
 which analyze the climate debate on the web, Wikipedia and Twitter, this
@@ -5914,7 +5913,7 @@ technicities of the platforms that serve and co-produce content today
 entails studying platforms' characteristics and identifying the queries
 or tools that are necessary to demarcate and analyze networked content.
 Studying platforms as socio-technical systems is of the utmost
-importance, as they are ‘increasingly embedded in our societies’.[^8] In
+importance, as they are ‘increasingly embedded in our societies’.[^08conclusion_8] In
 this book, I develop such a socio-technological perspective on the
 controversy surrounding climate change as presented and debated on the
 web.
@@ -5935,7 +5934,7 @@ in the analysis. With hyperlinks, content became networked, and thus, it
 became harder again to demarcate and to establish where so-called
 content ends. Search engines brought about new ways of presenting and
 ranking data, and platformization gives further shape to the
-far-stretching entanglement of social media with other web content.[^9]
+far-stretching entanglement of social media with other web content.[^08conclusion_9]
 Network Content Analysis aims to be adaptive to the specific
 technicities of platform content; therefore, I approach the climate
 debate on each platform with platform-specific ways to define and
@@ -5947,7 +5946,7 @@ results for the query' climate change’ in various languages to measure
 the resonance of prominent actors. In the Wikipedia chapter, I discuss a
 study of climate change-related articles in which the demarcation occurs
 by taking those articles that are reciprocally linked from the climate
-change article.[^10] In the Twitter study, I demarcate Tweets by a query
+change article.[^08conclusion_10] In the Twitter study, I demarcate Tweets by a query
 that includes tweets containing climate change or global warming.
 
 The inclusion of web content's technicity into the idea of content
@@ -5995,7 +5994,7 @@ non-skeptical) within a demarcated set of websites. I zoom in on a
 particularly heated moment of the debate in the Dutch context,
 immediately following a publication on the scientific consensus
 regarding climate change, published by the Royal Academy of Sciences of
-the Netherlands.[^11]
+the Netherlands.[^08conclusion_11]
 
 Hyperlink analysis shows a distinct profile for the Dutch skeptics, who
 strongly associate themselves with the Anglo-American network that
@@ -6025,11 +6024,11 @@ professional climate experts.
 The main challenge that web-based media presents to traditional content
 analysis is that web content is networked, for instance, by hyperlinks.
 Another way that it is linked and processed is through social media
-buttons, which pull the content of websites into various platforms.[^12]
+buttons, which pull the content of websites into various platforms.[^08conclusion_12]
 Furthermore, the fact that web content is often accessed through search
 engines such as Google Web Search, which rank and suggest content
 through undisclosed and ever-evolving algorithms, is just as
-problematic.[^13] Asking subsequently what kind of climate change debate
+problematic.[^08conclusion_13] Asking subsequently what kind of climate change debate
 the web puts forward through such search technicity, I would conclude
 from this case study that it demonstrates actor alignment in networks of
 affinity, association, critique (as the skeptics linking to their main
@@ -6072,7 +6071,7 @@ time. Here, networked content analysis permits a historical
 reconstruction of the debate, and indicated generic Wikipedia editing
 trends over time, but also recognizes issue attention cycles, where ‘new
 news’ around the controversy or debate has the effect of spiking
-Wikipedia activity across specific pages.[^14] Lastly, heat maps may be
+Wikipedia activity across specific pages.[^08conclusion_14] Lastly, heat maps may be
 used to signal significant moments in Wikipedia's ‘management' of the
 issue of global warming, as I discuss extensively in the chapter. Here,
 the technicity of the platform formats content in a way that both its
@@ -6095,7 +6094,7 @@ appropriate research frameworks and tools capable of capturing how
 Wikipedia is socio-technically modulated towards reliability and
 consensus over time.
 
-## Applications of Networked Content Analysis III: Twitter 
+## Applications of Networked Content Analysis III: Twitter
 
 In the final case study of Chapter 5, I study the state of the climate
 change debate in Twitter, which I commence by assessing the logic of
@@ -6124,7 +6123,7 @@ input from subject-matter experts) provides a sample in which the
 resonance of actors or keywords can be mapped. Similarly, the
 demarcation of tweets visualized through hashtag clusters allows for a
 descriptive and exploratory analysis of the debate around climate
-vulnerability.[^15][^16] The hashtag cluster network, I argue, could be
+vulnerability.[^08conclusion_15][^08conclusion_16] The hashtag cluster network, I argue, could be
 read as a time slice, presenting the status quo of an issue or debate.
 In the case of climate change, this time slice does not merely state
 ‘what’s happening’ but rather serves as a progress report or awareness
@@ -6186,7 +6185,7 @@ lie. In the Wikipedia study (of chapter 4), I mention how news events
 tend to cause heightened editing activity in related articles. In the
 Twitter case (of chapter 5), I discuss how Twitter as a micro-blogging
 platform could be approached through more conventional news cycle
-analyses but also through ‘meme-tracking’.[^17] In the latter mode,
+analyses but also through ‘meme-tracking’.[^08conclusion_17] In the latter mode,
 Twitter as a micro-blog could then be seen as highly responsive to or
 even parasitical or imploding of conventional news ‘sites’, echoing and
 amplifying news snippets by tweeting and retweeting. Further, as Twitter
@@ -6197,7 +6196,7 @@ story, and when their work has been published, they may tweet a link to
 that article, using it as a channel for the distribution of their own
 work. As news and mass media sources strive to make their content
 ‘platform-ready’, a term by Helmond, the entanglement of news, other
-mass media content, and new platforms have entered the next level.[^18]
+mass media content, and new platforms have entered the next level.[^08conclusion_18]
 Networked content analysis proposes to take this entanglement as a given
 and demarcate content through the logic of the platform (as developed in
 digital methods) and thus follow the actors across sources (as key to
@@ -6230,13 +6229,13 @@ views on its technicity, the other platforms studied in this book do
 not. Google Web Search, through its terms of service, does not allow for
 the use of its search engine for anything other than search. So
 repurposing the engine as a research device (as discussed in detail by
-Weltevrede) goes against its rules and regulations.[^19] Twitter has
+Weltevrede) goes against its rules and regulations.[^08conclusion_19] Twitter has
 various APIs; however, on an interface level, Twitter discloses its
 mechanisms of ranking and prioritizing content (and neither does Google
 or any social media platform). This point was central to a critical
 project titled *The People’s Dashboard*, which I developed together with
 Esther Weltevrede, Erik Borra, and others in 2015, and find relevant to
-mention briefly here.[^20] The People's Dashboard is a social media
+mention briefly here.[^08conclusion_20] The People's Dashboard is a social media
 platform plugin that visualizes the entanglement of content and users
 with the platform and its technicity. The dashboard is intended to be a
 critical layer on top of six different social media platforms: YouTube,
@@ -6252,7 +6251,7 @@ is dealt with. This idea is recognized by scholars working with
 networked content such as Marres and Moats, who, in an STS-tradition,
 call for a symmetrical approach to the study of controversies with
 social media content, in which there is as much attention to
-‘media-technological dynamics’ as there is to ‘issue dynamics’.[^21]
+‘media-technological dynamics’ as there is to ‘issue dynamics’.[^08conclusion_21]
 Networked Content Analysis has a slightly different approach, as it
 proposes to include technicity by, straightforwardly, taking the
 *networkedness of content* into account. In the various case studies, I
@@ -6263,9 +6262,15 @@ of a platform. Making technicity explicit in this way is comparative to
 the functionality of the People’s Dashboard, as it offers a view on the
 entanglement of user content with the platform.
 
-![](imgs/figure18.png)
-
-Figure 18: The People’s Dashboard. This mockup of the People’s Dashboard was developed during the Digital Methods Winter School of 2015, as a critical layer on top of the interfaces of dominant social media platform interfaces, revealing content of the people and of the platform. A third category is mixed content, indicating that people’s content has been re-ordered or repurposed (e.g. Facebook News feed or birthday notifications). The plugin works with Facebook and is available on Github: http://bit.ly/peoplesdashboard. Digital Methods Initiative, ‘The People's Dashboard'.
+Figure 18: The People’s Dashboard. This mockup of the People’s Dashboard
+was developed during the Digital Methods Winter School of 2015, as a
+critical layer on top of the interfaces of dominant social media
+platform interfaces, revealing content of the people and of the
+platform. A third category is mixed content, indicating that people’s
+content has been re-ordered or repurposed (e.g. Facebook News feed or
+birthday notifications). The plugin works with Facebook and is available
+on Github: http://bit.ly/peoplesdashboard. Digital Methods Initiative,
+‘The People's Dashboard'.
 
 I would like to conclude here that networked content analysis remains
 true to its roots in content analysis as an unobtrusive method, while
@@ -6279,7 +6284,7 @@ content analysis. Networked content analysis, as proposed through these
 kinds of imbrications, will give renewed significance to modes and
 methods of content analysis appropriate in and for the digital era.
 
-## Technicities in Need of Attention? 
+## Technicities in Need of Attention?
 
 In this book, I discuss the technicity of web search and interlinked
 websites, Wikipedia articles, and tweets. Of course, I have encountered
@@ -6323,7 +6328,7 @@ city of Amsterdam through social media data, our work at the Digital
 Methods initiative recently found that Instagram offers a collected
 ‘boutique view’ on the city, while meetup.com (a platform for organizing
 social gatherings) highlights the ‘tech’ and ‘sports’ venues of the city
-of Amsterdam.[^22] For the case study of my book, this means I could
+of Amsterdam.[^08conclusion_22] For the case study of my book, this means I could
 select in the Twitter dataset only the geo-demarcated Tweets, or instead
 look at user-profiles and only select those that state a location. This
 way, I could research how the state of the debate differs across
@@ -6331,18 +6336,18 @@ geo-locations by looking at the origin of a tweet or of the Twitter user
 (profile). On a methodological level, I could assess the possibilities
 and limitations of studying place through networked content analysis,
 assessing how different platforms deal differently with the demarcation
-of place.[^23]
+of place.[^08conclusion_23]
 
 As other technicities add layers to the analysis of an issue or debate,
 the diversity of content types included in such a 'layered' networked
 content analysis adds complexity to the analysis. Here, we can learn
 from controversy mapping, whose scholars have warned against the
 creation of an all-encompassing ‘mother map' that includes all actors,
-viewpoints, and sources of a certain debate as seen from above.[^24] As
+viewpoints, and sources of a certain debate as seen from above.[^08conclusion_24] As
 there is no *above* in controversy mapping, these layers should not be
 used to create a summary but rather treated as separate mappings, in
 which each offers a detailed window through which we can navigate a
-debate in all its richness.[^25]
+debate in all its richness.[^08conclusion_25]
 
 In this book, networked content analysis is developed to study the
 climate debate, a controversy that takes place in science and well
@@ -6369,14 +6374,14 @@ objectivity’ which is ‘the effort to consider as much subjectivity as
 possible. Unlike first-degree objectivity, which defines a situation of
 a collective agreement, second-degree objectivity is attained by
 revealing the full extent of actors' disagreement and is thereby typical
-of controversial settings.’[^26] In second-degree objectivity, it is not
+of controversial settings.’[^08conclusion_26] In second-degree objectivity, it is not
 necessary to normalize or objectify content in order to make it
 comparable. Instead, it is the wide array of viewpoints, actors, and
 sources that build a cartography that Latour himself describes to his
-students as ‘observing and describing’.[^27] As controversy mapping does
+students as ‘observing and describing’.[^08conclusion_27] As controversy mapping does
 not offer an operationalization of this approach, let alone how to apply
 it to networked content, it is useful here to look at digital methods
-for ‘cross-platform analysis’.[^28]
+for ‘cross-platform analysis’.[^08conclusion_28]
 
 Digital methods have proposed three approaches to cross-platform
 analysis, which are strongly related to the methodological difficulties
@@ -6388,10 +6393,10 @@ do we know of its cultures of use? A second approach is that of *social
 research*. Here, platform technicities are not included in the study, as
 the researcher focuses on the story told by the content. A third
 approach is the combination of the two, asking both what the platform
-does to the content and what stories the content tells.[^29][^30] This
+does to the content and what stories the content tells.[^08conclusion_29][^08conclusion_30] This
 approach would be most suitable to Networked content analysis, where we
 could explicitly add how the platforms network content, and how content
-is ‘inter-linked, inter-liked and inter-hashtagged’.[^31] However,
+is ‘inter-linked, inter-liked and inter-hashtagged’.[^08conclusion_31] However,
 noting the size of data sets and the necessity of close reading, the
 scaling up of such methods remains a challenge, which is dealt with by
 various scholarly fields (ranging from humanities to data science).
@@ -6415,7 +6420,7 @@ Lanier writes:
 > cloud computing facilities located in remote, often secret locations
 > around the world. They will be copied millions of times by algorithms
 > designed to send an advertisement to some person somewhere who happens
-> to resonate with some fragment of what I say.[^32]
+> to resonate with some fragment of what I say.[^08conclusion_32]
 
 The future of content presented by Lanier, as material increasingly
 intertwined with its carriers and platforms, is a future of content
@@ -6429,66 +6434,66 @@ networked content analysis, continue to develop a critical vocabulary,
 and produce further concepts and visual languages for the mapping,
 analysis, and description of networked content.
 
-[^1]: Gerbner, ‘Toward "Cultural Indicators"’.
+[^08conclusion_1]: Gerbner, ‘Toward "Cultural Indicators"’.
 
-[^2]: Gerbner, ‘Cultural Indicators’.
+[^08conclusion_2]: Gerbner, ‘Cultural Indicators’.
 
-[^3]: Krippendorff, *Content Analysis,* 2004.
+[^08conclusion_3]: Krippendorff, *Content Analysis,* 2004.
 
-[^4]: Latour, *Reassembling the Social.*
+[^08conclusion_4]: Latour, *Reassembling the Social.*
 
-[^5]: Latour, *Reassembling the Social,* 27.
+[^08conclusion_5]: Latour, *Reassembling the Social,* 27.
 
-[^6]: Venturini, *Diving in Magma*.
+[^08conclusion_6]: Venturini, *Diving in Magma*.
 
-[^7]: Latour, *Reassembling the Social,* 27.
+[^08conclusion_7]: Latour, *Reassembling the Social,* 27.
 
-[^8]: Lazer et al. ‘The Parable of Google Flu’, 1205.
+[^08conclusion_8]: Lazer et al. ‘The Parable of Google Flu’, 1205.
 
-[^9]: Helmond, *The Web as Platform.*
+[^08conclusion_9]: Helmond, *The Web as Platform.*
 
-[^10]: ‘Reciprocal linking’ here means both linking to and receiving a
+[^08conclusion_10]: ‘Reciprocal linking’ here means both linking to and receiving a
     link from the article on climate change.
 
-[^11]: KNAW, *Klimaatverandering, Wetenschap en Debat.*
+[^08conclusion_11]: KNAW, *Klimaatverandering, Wetenschap en Debat.*
 
-[^12]: See also Helmond, *The Web as Platform.*
+[^08conclusion_12]: See also Helmond, *The Web as Platform.*
 
-[^13]: McMillan, ‘The Microscope and the Moving Target’.
+[^08conclusion_13]: McMillan, ‘The Microscope and the Moving Target’.
 
-[^14]: These general trends include an overall increase of editing
+[^08conclusion_14]: These general trends include an overall increase of editing
     interventions over time, a relative decrease in activity in the
     months of June and December, and the existence of an incubation
     period between an article's creation and its maturation, where after
     initial editing and a period of inactivity are followed by more
     regular editing.
 
-[^15]: Savage, ‘Contemporary Sociology and the Challenge of Descriptive
+[^08conclusion_15]: Savage, ‘Contemporary Sociology and the Challenge of Descriptive
     Assemblage'.
 
-[^16]: Tukey, ‘Exploratory Data Analysis’.
+[^08conclusion_16]: Tukey, ‘Exploratory Data Analysis’.
 
-[^17]: Leskovec et al. ‘Meme-tracking and the Dynamics of the News
+[^08conclusion_17]: Leskovec et al. ‘Meme-tracking and the Dynamics of the News
     Cycle’.
 
-[^18]: Helmond, *The Web as Platform.*
+[^08conclusion_18]: Helmond, *The Web as Platform.*
 
-[^19]: Weltevrede, *Repurposing Digital Methods.*
+[^08conclusion_19]: Weltevrede, *Repurposing Digital Methods.*
 
-[^20]: *The People’s Dashboard* is described extensively on the wiki
+[^08conclusion_20]: *The People’s Dashboard* is described extensively on the wiki
     project page, and the team members are listed in the
     ‘Acknowledgements of collaborative work’ section. Digital Methods
     Initiative, ‘The People's Dashboard', 2015,
     https://wiki.digitalmethods.net/Dmi/PeoplesDashboard.
 
-[^21]: Marres and Moats, ‘Mapping Controversies with Social Media’.
+[^08conclusion_21]: Marres and Moats, ‘Mapping Controversies with Social Media’.
 
-[^22]: The layered interactive map is available on:
+[^08conclusion_22]: The layered interactive map is available on:
     http://bit.ly/amsterdamcartodb, the project page is on the Digital
     Methods Initiative wiki. Its project page can be found at:
     https://wiki.digitalmethods.net/Dmi/TheCityAsInterface.
 
-[^23]: A project that explicitly deals with these questions is The
+[^08conclusion_23]: A project that explicitly deals with these questions is The
     Knowledge Mile Atlas, in which I am working with information
     designers to create an atlas of a small urban area in Amsterdam.
     Here, we represent different online data sets of a geographic area
@@ -6509,26 +6514,1448 @@ analysis, and description of networked content.
     center and crosses many district and neighborhood ‘borders'.
     Niederer et al. ‘Street-Level City Analytics’.
 
-[^24]: Venturini, ‘Diving in Magma’.
+[^08conclusion_24]: Venturini, ‘Diving in Magma’.
 
-[^25]: Venturini, ‘What Is Second-degree Objectivity and How Could It Be
+[^08conclusion_25]: Venturini, ‘What Is Second-degree Objectivity and How Could It Be
     Represented'.
 
-[^26]: Venturini, ‘Building on Faults', 270.
+[^08conclusion_26]: Venturini, ‘Building on Faults', 270.
 
-[^27]: Venturini, ‘Building on Faults', 270.
+[^08conclusion_27]: Venturini, ‘Building on Faults', 270.
 
-[^28]: Digital Methods Initiative, *DMIR Unit \#5.*
+[^08conclusion_28]: Digital Methods Initiative, *DMIR Unit \#5.*
 
-[^29]: In networked content analysis, this would be explicitly: ‘How
+[^08conclusion_29]: In networked content analysis, this would be explicitly: ‘How
     does the platform *network* content?’
 
-[^30]: Digital Methods Initiative, *DMIR Unit \#5.*
+[^08conclusion_30]: Digital Methods Initiative, *DMIR Unit \#5.*
 
-[^31]: Digital Methods Initiative, *DMIR Unit \#5.*
+[^08conclusion_31]: Digital Methods Initiative, *DMIR Unit \#5.*
 
-[^32]: J. Lanier, *You Are Not a Gadget: A Manifesto,* New York, NY:
+[^08conclusion_32]: J. Lanier, *You Are Not a Gadget: A Manifesto,* New York, NY:
     Alfred A. Knopf, 2010, xiii.
+
+
+
+# Acknowledgments of Collaborative Work
+
+The research presented in this publication is a culmination of climate
+change-related projects that I have worked on since 2007 with many
+colleagues from the Digital Methods Initiative at the University of
+Amsterdam and in collaboration with our research partners at Médialab
+Sciences Po, Density Design at Politecnico di Milano, and Digital
+Sociology at Goldsmith's University in London. This book has known a
+previous life, in the form of a Ph.D. dissertation with the University
+of Amsterdam Department of Media Studies. The feedback and suggestions
+provided by my supervisors, Prof. dr. José van Dijck and dr. Bernhard
+Rieder, as well as the impeccable proof-reading and copy-editing by
+Rachel O'Reilly, have proven invaluable.
+
+At the Amsterdam University of Applied Sciences I have worked at the
+Institute of Network Cultures collaborating with many fellow
+organizations on international research conferences such as the Society
+of the Query (on search engine critique) and Video Vortex (on visual
+media after YouTube), and on data literacy projects with the Citizen
+Data Lab as part of Amsterdam Creative Industries Network. While it is
+not easy to disentangle the many ideas and influences traversing these
+years, I highly value to at least attempt to properly acknowledge these
+collaborative efforts, which have led to the chapters of this book and
+refer to the previously published work this has resulted in.
+
+## Chapter 1: Introduction
+
+The idea of formulating the research that has led to this book has its
+origins in a project during the Digital Methods summer school of 2007,
+the first annual summer program on methods and tools for social research
+with the web at the University of Amsterdam, titled ‘New Objects of
+Study.’ Here, I worked with Esther Weltevrede on our project titled
+‘Issue Animals’, which I briefly discuss in this chapter. The idea of
+the technicity of web content I publicly presented for the first time at
+‘Enquiring Minds,’ a research seminar as part of *PICNIC08*, 24-26
+September 2008, Amsterdam.
+
+The discussion in this chapter of the work of Bruno Latour and Noortje
+Marres has also been published in a paper co-authored with Ruurd
+Priester. In that research project, we applied some of the methods
+proposed in this book to an analysis of bottom-up initiatives in the
+city of Amsterdam. The paper has been published in a special issue of
+Computer Supported Cooperative Work.
+
+S. Niederer and R. Priester, ‘Smart Citizens: Exploring the Tools of the
+Urban Bottom-up Movement’, *Computer Supported Cooperative Work*, (2016)
+25: 137-152, https://doi.orgf/10.1007/s10606-016-9249-6.
+
+## Chapter 2: Foundations of Content Analysis
+
+This chapter was written mostly during my time spent as a visiting
+scholar at the Annenberg School for Communication, University of
+Pennsylvania. Here I had the opportunity to work with scholars at the
+core of Content Analysis and collaborate with the Iran Media Group there
+on a study of Internet censorship, which was published by the Annenberg
+School and included in the *Blackwell Companion to New Media Dynamics*.
+
+R. Rogers, E. Weltevrede, S. Niederer, and E. Borra, ‘National Web
+Studies: The case of Iran’, in J. Hartley, J. Burgess, & A. Bruns (eds.)
+*Blackwell Companion to New Media Dynamics*, Oxford: Blackwell, 2013,
+pp. 142-166.
+
+## Chapter 3: Climate Debate Actors in Science and on the Web
+
+A full version of this chapter in a previous form has been published in
+the journal *Necsus* (2013). The chapter is a culmination of multiple
+collaborative projects. The first is a scientometric analysis and
+extended mapping of climate skeptics, which I conducted during the
+Digital Methods summer school of 2008 in collaboration with Andrei
+Mogoutov, developer and owner of ReseauLu, and Bram Nijhof (at the time
+a student of the New Media & Digital Culture master’s program at the
+University of Amsterdam). The first version of this study was published
+on the online research platform www.mappingcontroversies.net, as part of
+the EU 7th Framework project Macospol in 2009, with scientific
+coordinator Bruno Latour.
+
+My collaboration with the French climate journalist Denis Delbecq led to
+the mapping of French climate skepticism, which resulted in a
+co-authored online publication (2010). In 2011, I continued this
+research with a mapping of Dutch climate skepticism. I have presented
+this research at *Media in Transition 7* (MiT7) in Cambridge,
+Massachusetts (May 2011), the *Media of Collective Intelligence* event
+at the University of Siegen (November 2011) and the conference *Data
+Traces: Big Data in the Context of Culture and Society* at the Institute
+of Experimental Design and Media Cultures in Basel (July 2015).
+
+D. Delbecq and S. Niederer, ‘Climatosceptiques et Climatologues, Quelle
+Place Sur l’Internet?’, 2010,
+http://effetsdeterre.fr/2010/04/12/climatosceptiques-quelle-place-sur-linternet/.
+
+S. Niederer, ‘Climate Change Skeptics on the Web’, 2009,
+https://web.archive.org/web/20140621023333/http://www.mappingcontroversies.net/Home/PlatformClimateChangeSkepticsScience.
+
+S. Niederer, ‘Global Warming Is Not a Crisis! Studying Climate Change
+Skepticism on the Web’, *Necsus* 3 (Spring, 2013):
+http://www.necsus-ejms.org/global-warming-is-not-a-crisis-studying-climate-change-skepticism-on-the-web/.
+
+## Chapter 4: Wikipedia as Socio-technical Utility for Networked Content Analysis
+
+This chapter is based on research conducted at a Digital Methods Summer
+School of 2009, with Richard Rogers, Zachary Deveraux, Bram Nijhof, and
+Auke Touwslager, in which we compared the dependency of Wikipedia on
+bots for editing, in the various language versions of Wikipedia. In
+2010, a discussion of this research with my Ph.D. supervisor José van
+Dijck led to the decision to develop this research further into a
+co-authored paper. This paper was published in the journal *New Media &
+Society* and reprinted in 2014 as part of the edited volume *Researching
+Society Online*.
+
+The research for this chapter has led to an interview about Wikipedia
+with Nicholas Nova, which is published in his book *Wikipedia’s Miracle*
+(and in the French edition *Le Miracle Wikipedia*).
+
+I have presented various versions of this chapter at *Formatting
+Utopia – from Paul Otlet to the Internet*, a conference at the Mundaneum
+in Mons/Bergen in Belgium (November 2008), ATACD *Changing Cultures,
+Cultures of Change* conference at the University of Barcelona (December
+2009), as a *Brown Bag Lecture* at the Amsterdam University of Applied
+Sciences (January 2010), at *Medien der Kollektiven Intelligenz* at the
+University of Konstanz, at the Annenberg School for Communication in
+Philadelphia (April 2011), at the *ReClaiming Participation* conference
+in Zürich (May 2014) and at *Reading Wikipedia,* the Praemium Erasmianum
+Conference at the Royal Netherlands Academy of Arts and Sciences (KNAW)
+in November of 2015.
+
+S. Niederer, ‘Interview’, in N. Nova and F. Kaplan (eds) *Wikipedia’s
+Miracle*, Lausanne: EPFL Press, 2016, pp. 53-61.
+
+S. Niederer, ‘Entretien’, in N. Nova and F. Kaplan (eds) *Le Miracle
+Wikipedia,* Lausanne: PPUR, 2016, pp. 51-61. (French edition)
+
+S. Niederer and J. van Dijck, ‘Wisdom of the Crowd or Technicity of
+Content? Wikipedia as a Sociotechnical System’, *New Media & Society*
+12.8 (2010): 1368–1387.
+
+S. Niederer and J. van Dijck, ‘Wisdom of the Crowd or Technicity of
+Content? Wikipedia as a Sociotechnical System’, in M. David and P.
+Milward (eds) *Researching Society Online*, London: Sage, 2014
+(Reprint).
+
+## Chapter 5: Mapping the Resonance of Climate Change Discourses in Twitter
+
+This study was published in the online publication *Climaps: An Online
+Issue-Atlas of Climate Change Adaptation* and featured in *Wired
+Italia*. The United Nations tweeted the study’s climate vulnerability
+world map after its publication in the *Climaps* atlas.
+
+For the case studies in this chapter, which were conducted in data
+sprints as part of the EU FP7 project Electronic Maps to Assist Public
+Science (EMAPS), I have collaborated closely with researchers at the
+Digital Methods Initiative, including Sophie Waterloo, Simeona Petkova,
+Natalia Sanchez Quérubin, Liliana Bounegru, and Catalina Iorga. Erik
+Borra and Bernhard Rieder are the developers of the tools used for this
+analysis. The research team also consisted of information designers from
+DensityDesign in Milan, including Carlo de Gaetano, Gabriele Colombo,
+and Stefania Guerra.
+
+After the data sprint, the descriptions of our various case studies,
+which I worked on with various team members but especially Sophie
+Waterloo and Gabriele Colombo, were compiled and expertly edited by
+Natalia Sanchez Quérubin and Lilliana Bounegru for publication in the
+online issue atlas *Climaps.eu*, which presents the issue stories and
+issue maps of the EMAPS project. For this chapter, I have re-assembled
+and subsequently rewritten the Climaps materials and our original
+descriptions (co-authored with Sophie Waterloo and Gabriele Colombo) to
+suit the focus of this book and aptly present the collaborative case
+studies of mapping the climate debate with Twitter. I have presented the
+research at the conference *Social Media and the Transformation of
+Public Space,* at the Royal Netherlands Academy of the Arts and Sciences
+(June 2014).
+
+R. Battaglia, ‘Clima, Ecco la Mappa di Chi Litiga Sul Cambiamento
+Climatico’, *Wired Italia*, 2014,
+http://www.wired.it/attualita/politica/2014/12/15/emaps-come-mappare-disaccordo-clima/.
+
+EMAPS, ‘Profiling Adaptation and Its Place In Climate Change Debates
+With Twitter’, 2014,
+http://climaps.eu/\#!/map/profiling-adaptation-and-its-place-in-climate-change-debates-with-twitter-I.
+
+EMAPS, ‘Reading the State of Climate Change From the Web: Top Google
+Results’, 2014,
+http://climaps.eu/\#!/map/profiling-adaptation-and-its-place-in-climate-change-debates-with-twitter-ii.
+
+EMAPS, ‘Who is Vulnerable According to Whom?’, 2014,
+http://climaps.eu/\#!/map/who-is-vulnerable-according-to-whom.
+
+@UNEnvironementUNEP, ‘This map compares 3 lists of countries ranked by
+\#climeatechange vulnerability. Surprised? buff.ly/1tFvlZJ’, Twitter
+post, 1 November 2014, 3:12 PM,
+https://twitter.com/unep/status/528550060397957120.
+
+## Chapter 6: Conclusions
+
+In the conclusions, I mention three studies that I have worked on
+collaboratively: *People’s Dashboard*, *The City as Interface*, and the
+*Knowledge Mile Atlas*.
+
+*The People’s Dashboard* was a project developed during the Digital
+Methods Winter School of January 2015. Esther Weltevrede and I
+facilitated the group, which included the following participants:
+Evelien Christiaanse, Caio Domingues, Yvette Ducaneaux, Inte Gloerich,
+Alex Harrison, Hendrik Lehmann, Gabriel Reis, Pavel Rodin, Jurij Smrke,
+Janina Sommerlad. Erik Borra developed the plugin. Stefania Guerra and
+Tommaso Renzini (Density Design) made the design.
+
+*The City as Interface* was a project developed during the summer school
+of 2015, in which we worked with subject matter expert Martijn de Waal,
+author of the book *The City as Interface* (2014). The project team,
+which I facilitated, had as participants Nataliya Tkachenko, Xinyang Xie
+(Yang), Peta Mitchell, Maarten Groen, Adrian Bertoli, Khwezi Magwaza,
+Naomi Bueno de Mesquita, Joe Shaw, Alexander van Someren, Tim Leunissen,
+and Philip Schuette. Designers working with us on the project were
+Michele Mauri and Donato Ricci.
+
+The *Knowledge Mile Atlas* is an ongoing collaboration (2014-) with
+information designers Gabriele Colombo, Michele Mauri, and Matteo Azzi
+of Density Design and Calibro, and Carlo De Gaetano, Federica Bardelli,
+Wouter Meys, Maarten Groen, Maarten Terpstra, and Matthijs ten Berge at
+the Amsterdam University of Applied Sciences, in which we analyze and
+visualize the online presence and resonance of an urban area under
+development. The area cuts through the city center of Amsterdam and
+crosses many districts and neighborhood borders. We presented our
+co-authored paper about the Knowledge Mile maps at the conference
+*Hybrid City 3: Data to the People* (September 2015) at the University
+of Athens. The paper was published in the conference proceedings.
+
+*The People’s Dashboard* is described extensively on the wiki project
+page: https://wiki.digitalmethods.net/Dmi/PeoplesDashboard. To install
+the plugin, go to:
+https://github.com/digitalmethodsinitiative/peoplesdashboard.
+
+The wiki page for the project *The City as Interface* is:
+https://wiki.digitalmethods.net/Dmi/TheCityAsInterface.
+
+S. Niederer, G. Colombo, M. Mauri, and M. Azzi, ‘Street-Level City
+Analytics: Mapping the Amsterdam Knowledge Mile,’ in *Hybrid City 3:
+Data to the People*, Athens: University of Athens, 2015,
+www.media.uoa.gr/hybridcity.
+
+A previous version of this chapter has been published as:
+
+S. Niederer (2018), ‘The Study of Networked Content: Five Considerations
+for Digital Research in the Humanities, in Schiuma, G., Carlucci, D.
+(eds.) *Big Data in the Arts and Humanities*, New York: Auerbach
+Publications, p. 89-100. https://doi.org/10.1201/b19744
+
+
+
+# Bibliography
+
+Adger, W.N. 'Vulnerability', *Global Environmental Change*, 16.3 (2006):
+268–281.
+
+Adler, B.T., L. de Alfaro, I. Pye, and V. Raman. 'Measuring Author
+Contributions to Wikipedia', in *Proceedings of WikiSym 2008, Porto,*
+New York: ACM, 2008,
+https://users.soe.ucsc.edu/\~luca/papers/08/wikisym08-users.pdf.
+
+Anderegg, W.R., and G.R. Goldsmith. 'Public Interest in Climate Change
+Over the Past Decade and the Effects of the “Climategate” Media Event',
+*Environmental Research Letters*, 9.5 (2014): 054005.
+
+Anderson, C. A. 'Heat and violence', *Current Directions in
+Psychological Science*, 10.1 (2001): 33–38.
+
+Annenberg School for Communication. *George Gerbner Archive*, University
+of Pennsylvania, 2006.
+
+Annenberg School for Communication. https://www.asc.upenn.edu/.
+
+Auliciems, A., and L. DiBartolo. 'Domestic Violence in a Subtropical
+Environment: Police Calls and Weather in Brisbane', *International
+Journal of Biometeorology*, 39.1 (1995): 34–39.
+
+Back, L., C. Lury, and R. Zimmer. 'Doing Real Time Research:
+Opportunities and Challenges', *National Centre for Research Methods
+(NRCM)*, *Methodological review paper*, 2012,
+http://eprints.ncrm.ac.uk/3157/1/real\_time\_research.pdf.
+
+Baker, N. 'The Charm of Wikipedia,' *New York Review of Books*, 55.4
+(2008),
+http://www.nybooks.com/articles/2008/03/20/the-charms-of-wikipedia/.
+
+Barnett, J. 'Security and Climate Change', *Global Environmental
+Change*, 13.1 (2003): 7–17.
+
+Barnett, J., and W.N. Adger. 'Climate Change, Human Security and Violent
+Conflict', *Political Geography*, 26.6 (2008): 639–655.
+
+Barnett, J., S. Lambert, and I. Fry. 'The Hazards of Indicators:
+Insights from the Environmental Vulnerability Index', *Annals of the
+Association of American Geographers*, 98.1 (2008): 102–119.
+
+Beck, U. *World at Risk*, Cambridge: Polity Press, 2009.
+
+Beer, D. 'Power Through the Algorithm? Participatory Web Cultures and
+the Technological Unconscious', *New Media & Society*, 11.6 (2009):
+985–1002.
+
+Benkler, Y. *The Wealth of Networks: How Social Production Transforms
+Markets and Freedom*, New Haven: Yale University Press, 2006.
+
+Berelson, B. 'Content Analysis in Communication Research', 1952,
+http://psycnet.apa.org/psycinfo/1953-07730-000
+
+Berelson, B. and P.J. Salter. 'Majority and Minority Americans: An
+Analysis of Magazine Fiction', *The Public Opinion Quarterly*, 10
+(1948): 168–190.
+
+Bilic, P., and L. Bulian. 'Lost in Translation: Contexts, Computing,
+Disputing on Wikipedia,' in *iConference 2014*, 2014, pp. 32–44.
+
+Birkmann, J. 'Measuring Vulnerability to Promote Disaster-resilient
+Societies: Conceptual Frameworks and Definitions,' *Measuring
+Vulnerability to Natural Hazards: Towards Disaster Resilient Societies*,
+1, (2006): 9–54.
+
+Blakeslee, D., and R. Fishman. 'Rainfall shocks and property crimes in
+agrarian societies: Evidence from India', 2013,
+http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2208292.
+
+Blondel, V.D., J.-L. Guillaume, R. Lambiotte, and E. Lefebvre. 'Fast
+Unfolding of Communities in Large Networks', *Journal of Statistical
+Mechanics: Theory and Experiment* (2008).
+
+Bohlken, A. T., and E.J. Sergenti. 'Economic Growth and Ethnic Violence:
+An Empirical Investigation of Hindu-Muslim Riots in India', *Journal of
+Peace Research*,47 (2010): 589–600.
+
+Borra, E., and B. Rieder. 'Programmed Method: Developing a Toolset for
+Capturing and Analyzing Tweets', *Aslib Journal of Information
+Management* 66.3 (2014): 262–278.
+
+Borra, E., E. Weltevrede, P. Cuiccarelli, A. Kaltenbrunner, D. Laniado,
+G. Magni, and T. Venturini. 'Societal Controversies in Wikipedia
+Articles', in *CHI’15: 33rd Annual ACM Conference on Human Factors in
+Computing Systems*, 2015,
+http://www.contropedia.net/publications/Borra%20et%20al.%20-%202015%20-%20Societal%20Controversies%20in%20Wikipedia%20Articles%20-%20post-print.pdf.
+
+Burkhart, K. 'Organizing for Action Delivers Unicorn Trophies to 135
+Climate Deniers in Congress', *The Huffington Post*, 13 August 2013,
+http://www.huffingtonpost.com/2013/08/13/organizing-for-action-climate-deniers\_n\_3750126.html.
+
+boyd, danah, S. Golder, and G. Lotan. 'Tweet, Tweet, Retweet:
+Conversational Aspects of Retweeting on Twitter', in *43rd Hawaii
+International Conference on System Sciences (HICSS),* 2010.
+
+Brin, S. and L. Page, L. 'The Anatomy of a Large-Scale Hypertextual Web
+Search Engine', *Computer Networks*, 56.18 (2010): 3825–3833.
+
+Brossard, D., J. Shanahan, and K. McComas. 'Are Issue-cycles Culturally
+Constructed? A Comparison of French and American Coverage of Global
+Climate Change', *Mass Communication & Society*, 7.3 (2004): 359–377.
+
+Brugh, M. aan de. 'Liberaal in de Strijd Tegen Klimaatgekte', *NRC
+Handelsblad*, 19 February 2007, http://vorige.nrc.nl/article1771418.ece.
+
+Bruns, A. and Y.E. Liang, 'Tools and Methods for Capturing Twitter Data
+During Natural Disasters', *First Monday* 17.4 (2012):
+http://firstmonday.org/ojs/index.php/fm/article/view/3937/3193.
+
+Latour, Bruno. *Reassembling the Social*, Oxford: Oxford University
+Press, 2005.
+
+Bruns, A. G*atewatching: Collaborative Online News Production*, New
+York: Peter Lang, 2005.
+
+Bruns, A. 'Methodologies for Mapping the Political Blogosphere:
+Explorations Using the IssueCrawler Research Tool', *First Monday*, 12.5
+(2007): http://firstmonday.org/ojs/index.php/fm/article/view/1834/
+
+Bruns, A. *Blogs, Wikipedia, Second Life, and Beyond: From Production to
+Produsage*, New York: Peter Lang, 2008.
+
+Bruns, A. and J.E. Burgess. 'The use of Twitter Hashtags in the
+Formation of Ad Hoc Publics', in *Proceedings of the 6th European
+Consortium for Political Research (ECPR) General Conference 2011*, 2011,
+http://eprints.qut.edu.au/46515.
+
+Burke, M. and R. Kraut, R. 'Taking Up the Mop: Identifying Future
+Wikipedia Administrators' in *Proceedings of the 2008 CHI Conference,
+Florence*, New York: ACM, 2008, pp. 3441-3446,
+http://portal.acm.org/citation.cfm?id=1358628.1358871.
+
+Cambrosio, A., P. Cottereau, S. Popowycz, A. Mogoutov, and T.
+Vichnevskaia. 'Analysis of Heterogenous Networks: The ReseauLu Project',
+in B. Reber and C. Brossaud (eds) *Digital Cognitive Technologies:
+Epistemology and the Knowledge Economy*, Hoboken, NJ: John Wiley & Sons,
+Inc, 2013.
+
+Card, S.K., J.D. Mackinlay, and B. Shneiderman. *Readings in Information
+Visualization: Using Vision to Think*, San Francisco, CA: Morgan
+Kaufmann, 1999.
+
+Carr, N. *The Big Switch: Rewiring the World, from Edison to Google*,
+New York, NY: W.W. Norton & Company, 2008.
+
+Carvalho, A. and J. Burgess. 'Cultural Circuits of Climate Change in
+U.K. Broadsheet Newspapers, 1985-2003', *Risk Analysis*, 25.6 (2005):
+1457–1469.
+
+Cattaneo, C. 'As B.C. Election Looms, Both NDP and Liberals Take Hard
+Line on Oil Pipelines', *Financial Post*, 2013,
+http://business.financialpost.com/2013/05/06/bc-election-oil-sands/?\_\_lsa=d52e-3289.
+
+Citizendium. 'Citizendium Beta',
+http://en.citizendium.org/wiki/Welcome\_to\_Citizendium.
+
+'Content Segmentation: Differentiate Your Brand Online', 5 April 2012,
+http://contentmarketinginstitute.com/2012/04/use-content-segmentation-to-differentiate-your-brand/.
+
+Cook, J., D. Nuccitelli, S.A. Green, M. Richardson, B. Winkler, R.
+Painting, and A. Skuce. 'Quantifying the Consensus on Anthropogenic
+Global Warming in the Scientific Literature', *Environmental Research
+Letters*, 8.2 (2013): 024024.
+
+Dalby, A. *The World and Wikipedia: How We Are Editing Reality*.
+Somerset: Siduri Books, 2009.
+
+Deibert, R., J. Palfrey, R. Rohozinski, J. Zittrain, and M. Haraszti.
+*Access Controlled: The Shaping of Power, Rights, and Rule in
+Cyberspace*, Cambridge, MA: MIT Press, 2010.
+
+Deibert, R., J. Palfrey, R. Rohozinski, J. Zittrain, and J.G. Stein.
+*Access Denied: The Practice and Policy of Global Internet Filtering*,
+Cambridge, MA: MIT Press, 2008.
+
+Delbecq, D. 'A \[F\]rench Climate Skeptic Comes Out: He Is a Physicist',
+*Effets de Terre*, 2010,
+http://effetsdeterre.fr/2010/04/21/a-french-climate-skeptic-comes-out-he-is-a-physicist/.
+
+Delbecq, D. 'Dossier Climato-sceptiques', *TerraEco* (April 2010):
+50–62.
+
+Delbecq, D. and S. Niederer. 'Climatosceptiques et Climatologues, Quelle
+Place sur l’Internet?', 2010,
+http://effetsdeterre.fr/2010/04/12/climatosceptiques-quelle-place-sur-linternet/.
+
+Deleuze, G. 'Society of Control', *L’autre Journal,* 1 (1990):
+http://www.nadir.org/nadir/archiv/netzkritik/societyofcontrol.html
+
+Denning, P., J. Horning, D. Parnas, and L. Weinstein. 'Wikipedia Risks',
+*Communications of the ACM*, 48.12 (2005): 152.
+
+De Rijke, M. 'Going out with Streamwatchr', 2014,
+http://staff.science.uva.nl/\~mdr/.
+
+Digital Methods Initiative. 'Issue Image Analysis', 2007,
+https://wiki.digitalmethods.net/Dmi/IssueImageAnalysis.
+
+Digital Methods Initiative. 'Issue Animals Research', 2008,
+https://www.digitalmethods.net/Dmi/IssueImageAnalysis.
+
+Digital Methods Initiative. 'Networked Content', 2008,
+https://digitalmethods.net/Digitalmethods/TheNetworkedContent.
+
+Digital Methods Initiative. 'The Place of Issues', 2009,
+https://wiki.digitalmethods.net/Dmi/ThePlaceOfIssues.
+
+Digital Methods Initiative. 'The City as Interface', 2014,
+https://wiki.digitalmethods.net/Dmi/TheCityAsInterface.
+
+Digital Methods Initiative. *DMIR Unit \#5: Cross-Platform Analysis*,
+Amsterdam: University of Amsterdam, 2015.
+
+Digital Methods Initiative. 'The People’s Dashboard', 2015,
+https://wiki.digitalmethods.net/Dmi/PeoplesDashboard.
+
+Digital Methods Initiative. 'Climate Change Skeptics in the Wikipedia
+Climate Change Space',
+https://wiki.digitalmethods.net/Dmi/WikipediaClimateChangeSkeptics.
+
+Digital Methods Initiative. 'Lippmannian Device',
+https://wiki.digitalmethods.net/Dmi/ToolLippmannianDevice.
+
+Djerf-Pierre, M. 'When Attention Drives Attention: Issue Dynamics in
+Environmental News Reporting Over Five Decades', *European Journal of
+Communication*, 27.3 (2012): 291–304.
+
+Doucleff, M. 'Could Hotter Temperatures From Climate Change Boost
+Violence?', 2 Augusts 2013,
+http://www.npr.org/blogs/health/2013/08/02/208218317/could-hotter-temperatures-from-climate-change-boost-violence.
+
+Downs, A. 'Up and Down with Ecology: The Issue-attention Cycle', *The
+Public Interest* 28 (1972): 38.
+
+EMAPS. 'Vulnerability, Resilience and Conflict: Mapping Climate Change,
+Reading Cli-fi', *Electronic Maps to Assist Public Science Blog*, 2013,
+http://www.emapsproject.com/blog/archives/2293.
+
+EMAPS. 'Climaps: A Global Issue Atlas of Climate Change Adaptation',
+2014, http://climaps.eu/.
+
+EMAPS. 'Climate Change Tweets Co-Hashtag Cluster Map', 2014,
+http://climaps.eu/\#!/map/profiling-adaptation-and-its-place-in-climate-change-debates-with-twitter-ii.
+
+EMAPS. 'Profiling Adaptation And Its Place In Climate Change Debates
+With Twitter', 2014,
+http://climaps.eu/\#!/map/profiling-adaptation-and-its-place-in-climate-change-debates-with-twitter-I.
+
+EMAPS. 'Reading the State of Climate Change From Digital Media', 2014,
+http://climaps.eu/\#!/narrative/reading-the-state-of-climate-change-from-digital-media.
+
+EMAPS. 'Reading the State of Climate Change From the Web: Top Google
+Results', 2014,
+http://climaps.eu/\#!/map/profiling-adaptation-and-its-place-in-climate-change-debates-with-twitter-ii.
+
+EMAPS. 'Who Deserved to Be Funded? A Closer Look at the Practices of
+Vulnerability Assessment and the Priorities of Adaptation Funding',
+2014, http://climaps.eu/\#!/narrative/who-deserves-to-be-funded.
+
+EMAPS. 'Who is Vulnerable According to Whom?' 2014,
+http://climaps.eu/\#!/map/who-is-vulnerable-according-to-whom.
+
+EMAPS. 'Contropedia', 2015, http://contropedia.net/.
+
+Eriksen, S.H. and P.M. Kelly, P. M. 'Developing Credible Vulnerability
+Indicators for Climate Adaptation Policy Assessment', *Mitigation and
+Adaptation Strategies for Global Change* 12.4 (2007): 495–524.
+
+Galloway, A. *Protocol: How Control Exists after Decentralization*,
+Cambridge, MA: MIT Press, 2004.
+
+Gayo-Avello, D. 'I Wanted to Predict Elections with Twitter and All I
+Got Was This Lousy Paper: A Balanced Survey on Election Prediction Using
+Twitter Data', *Arxiv Preprint arXiv12046441*, 2012,
+http://arxiv.org/pdf/1204.6441.pdf.
+
+Geiger, R.S. and D. Ribes. 'The Work of Sustaining Order in Wikipedia:
+The Banning of A Vandal', in *Proceedings of the ACM 2010 conference on
+Computer supported cooperative work (CSCW)*, Atlanta, GA: Association
+for Computing Machinery, 2010,
+http://www.stuartgeiger.com/wordpress/wp-content/uploads/2009/10/cscw-sustaining-order-wikipedia.pdf.
+
+Gerbner, G. 'Toward "Cultural Indicators": The Analysis of Mass Mediated
+Public Message Systems', *Educational Technology Research and
+Development* 17.2 (1969): 137–148.
+
+Gerbner, G. 'Cultural Indicators: The Case of Violence in Television
+Drama', *The Annals of the American Academy of Political and Social
+Science* 388.1 (1970): 69–81.
+
+Gerbner, G., L. Gross, N. Signorielli, M. Morgan, and M. Jackson-Beeck.
+'The Demonstration of Power: Violence Profile No. 10', *Journal of
+Communication* 29.3 (1979): 177–196.
+
+Gerbner, G., O. Holsti, K. Krippendorff, W.J. Paisley, and P.J. Stone,
+eds. *The Analysis of Communication Contents: Development in Scientific
+Theories and Computer Techniques*, Wiley, 1969,
+http://www.sidalc.net/cgi-bin/wxis.exe/?IsisScript=UACHBC.xis&method=post&formato=2&cantidad=1&expresion=mfn=017033.
+
+Gerlitz, C. and A. Helmond. 'The Like Economy: Social Buttons and the
+Data-intensive Web', *New Media & Society*, 2013,
+http://nms.sagepub.com/content/early/2013/02/03/1461444812472322
+
+Gerlitz, C. and B. Rieder. 'Mining One Percent of Twitter: Collections,
+Baselines, Sampling', *M/C Journal*, 16.2 (2013).
+
+Ghosh, R.A. and V.V. Prakash. 'Orbiten Free Software Survey', *First
+Monday* 5.7 (2000): http://www.firstmonday.org/issues/issue5\_7/ghosh/
+
+Gillis, J. and C. Krauss. 'Exxon Mobil Investigated for Possible Climate
+Change Lies by New York Attorney General', *The New York Times*, 5
+November 2015,
+http://www.nytimes.com/2015/11/06/science/exxon-mobil-under-investigation-in-new-york-over-climate-statements.html.
+
+Gladwell, M. 'Small Change: Why the Revolution Will Not Be Tweeted',
+*New Yorker*, 4 October 2010,
+http://www.newyorker.com/reporting/2010/10/04/101004fa\_fact\_gladwell
+
+Govcom.org Foundation. 'IssueCrawler: Instructions of Use',
+http://www.govcom.org/Issuecrawler\_instructions.html.
+
+Greenpeace, http://www.exxonsecrets.org/maps.php.
+
+Griffith, V. 'Wikiscanner Homepage', 2007-2008,
+http://virgil.gr/31.html.
+
+Halfaker, A., R.S. Geiger, J. Morgan, and J. Riedl. 'The Rise and
+Decline of an Open Collaboration System: How Wikipedia’s Reaction to
+Sudden Popularity Is Causing Its Decline', *American Behavioral
+Scientist* 57.5 (2013): 664–688,
+http://doi.org/10.1177/0002764212469365.
+
+Helmond, A. 'The Perceived Freshness Fetish', 2007,
+http://www.annehelmond.nl/wordpress/wp-content/uploads/2007/06/annehelmond\_pff.pdf.
+
+Helmond, A. *The Web as Platform: Data Flows in Social Media,* Ph.D.
+Thesis, 19 June 2015, University of Amsterdam, Amsterdam.
+
+Hendrix, C.S. and I. Salehyan. 'Climate Change, Rainfall, and Social
+Conflict in Africa', *Journal of Peace Research* 49.1 (2012): 35–50.
+
+Hermida, A. 'Twittering the News', *Journalism Practice* 4.3 (2010):
+297–308.
+
+Herring, S. 'Web Content Analysis: Expanding the Paradigm', in J.
+Hunsinger et al. (eds) *International Handbook of Internet Research*,
+Dordrecht: Springer, 2010, pp. 233-249.
+
+Hinkel, J. 'Indicators of Vulnerability and Adaptive Capacity: Towards a
+Clarification of the Science–policy Interface', *Global Environmental
+Change* 21.1 (2011): 198–208.
+
+Hoffman, A. J. 'Talking Past Each Other? Cultural Framing of Skeptical
+and Convinced Logics in the Climate Change debate', *Organization
+Environment* 24.1 (2011): 3–33.
+
+Hoggan, J. and R. Littlemore. *Climate Cover-up: The Crusade to Deny
+Global Warming*, Vancouver: Greystone Books, 2009.
+
+Homer-Dixon, T. F. 'On the Threshold: Environmental Changes as Causes of
+Acute Conflict', *International Security* 16 (1991): 76–116.
+
+Howard, J. 'Climate Change Mitigation and Adaptation in Developed
+Nations: A Critical Perspective on the Adaptation Turn in Urban Climate
+Planning', in S. Davoudi, J. Crawford and A. Mehmood (eds) *Planning for
+Climate Change: Strategies for Mitigation and Adaptation for Spatial
+Planning*, London: Earthscan, 2009, pp. 19-32.
+
+Howe, J. 'The Rise of Crowdsourcing', *Wired Magazine* 14.6 (2006): 1–4.
+
+Hsiang, S.M., M. Burke, E. Miguel. 'Quantifying the Influence of Climate
+on Human Conflict', *Science*, 341.6151 (2013):
+http://doi.org/10.1126/science.1235367.
+
+IPCC. 'Working Group II: Impacts, Adaptation and Vulnerability: Summary
+for Policymakers', 2001,
+http://www.ipcc.ch/ipccreports/tar/wg2/index.php?idp=8.
+
+IPCC. 'Climate Change 2014: Synthesis Report: Contribution of Working
+Groups I, II and III to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change', Geneva: IPCC, 2014,
+http://ar5-syr.ipcc.ch/.
+
+Jemielniak, D. *Common Knowledge? An Ethnography of Wikipedia*,
+Stanford, CA: Stanford University Press, 2014.
+
+Jenkins, H. *Convergence Culture: Where Old and New Media Collide.*
+Cambridge, MA: MIT Press, 2006.
+
+Keen, A. *The Cult of the Amateur: How blogs, MySpace, YouTube, and the
+Rest of Today’s User-generated Media Are De-stroying Our Economy, Our
+Culture, and Our Values*, New York: Doubleday Currency, 2007.
+
+Kenrick, D.T. and S.W. MacFarlane, S. W. 'Ambient Temperature and Horn
+Honking: A Field Study of the Heat/Aggression Relationship',
+*Environment and Behavior* 18 (1986): 179–197.
+
+Kittur, A., E. Chi, B.A. Pendleton, B. Suh, and T. Mytkowicz. 'Power of
+the Few vs. Wisdom of the Crowd: Wikipedia and the Rise of the
+Bourgeoisie', in *CHI*, 2007, San Jose.
+
+Kittur, A., and R.E. Kraut. 'Harnessing the Wisdom of Crowds in
+Wikipedia: Quality Through Coordination', in *Proceedings of the ACM
+2008 Conference on Computer Sup-ported Cooperative Work*, New York: ACM,
+2008, pp. 37-46.
+
+Klein, N. *This Changes Everything*, New York: Simon and Schuster, 2014.
+
+Klein, R. J. T. 'Identifying Countries That Are Particularly Vulnerable
+to the Adverse Effects of Climate Change: An Academic or a Political
+Challenge?' *Carbon and Climate Law Review* 3 (2009): 284–291.
+
+KNAW. *Klimaatverandering, Wetenschap en Debat*, Amsterdam: Koninklijke
+Nederlandse Academie van Wetenschappen, 2011,
+https://www.knaw.nl/nl/actueel/publicaties/klimaatverandering-wetenschap-en-debat/@@download/pdf\_file/20101047.pdf.
+
+Kohut, A., D.C. Doherty, M. Dimock, M., and S. Keeter, S. 'Fewer
+Americans See Solid Evidence of Global Warming', *Washington, DC: Pew
+Research Center,* 2009.
+
+König, R., M. Rasch, eds. *Society of the Query Reader: Reflections on
+Web Search*, Amsterdam: Institute of Network Cultures, 2014.
+
+Krippendorff, K. *Content Analysis: An Introduction to its Methodology*,
+first edition, Beverly Hills, CA: Sage Publications, 1980.
+
+Krippendorff, K. *Content Analysis: An Introduction to its Methodology*,
+second edition, Thousand Oaks: Sage Publications, 2004.
+
+Krippendorff, K. *Content Analysis: An Introduction to its Methodology*,
+third edition, Thousand Oaks, CA: Sage Publications, 2013.
+
+Labohm, H. 'Klimaatsceptici Verzoeken KNAW Klimaatrapport in te
+Trekken', October 2011,
+http://www.dagelijksestandaard.nl/2011/10/klimaatsceptici-verzoeken-knaw-klimaatrapport-in-te-trekken.
+
+Labohm, H., S. Rozendaal, and D. Thoenes. *Man-Made Global Warming:
+Unravelling a Dogma*, Essex: Multi-Science Publishing Co. Ltd, 2004.
+
+Lanier, J. *You Are Not a Gadget: A Manifesto,* New York, NY: Alfred A.
+Knopf, 2010.
+
+Latour, B. 'Technology Is Society Made Durable', in J. Law (ed.) *A
+Sociology of Monsters Essays on Power, Technology and Domination*,
+London: Routledge, 1991, pp. 103-132.
+
+Latour, B. *Reassembling the Social: An Introduction to
+Actor-Network-Theor*y, Oxford: Oxford University Press, 2005.
+
+Latour, B. 'Mapping Controversies', presented at the Digital Methods
+Summer School, University of Amsterdam, Amsterdam, 2007.
+
+Latour, B. 'Waiting for Gaia: Composing the Common World Through Arts
+and Politics', *Equilibri* 16.3 (2012): 515–538.
+
+Lazer, D., R. Kennedy, G. King, and A. Vespignani. 'The Parable of
+Google Flu: Traps in Big Data Analysis', *Science* 343 (2014):
+1203–1205.
+
+Leskovec, J., L. Backstrom, and J. Kleinberg. 'Meme-tracking and the
+Dynamics of the News Cycle', In *Proceedings of the 15th ACM SIGKDD
+international conference on Knowledge discovery and data mining*, ACM,
+2009, pp. 497-506, http://dl.acm.org/citation.cfm?id=1557077.
+
+Lih, A. *The Wikipedia Revolution: How a Bunch of Nobodies Created the
+World’s Greatest Encyclopedia*, London: Aurum Press, 2009.
+
+Lotan, G., E. Graeff, M. Ananny, D. Gaffney, I. Pearce, I. and danah
+boyd. 'The Revolutions Were Tweeted: Information Flows During the 2011
+Tunisian and Egyptian Revolutions', *International Journal of
+Communication* 5 (2011): 1375–1405.
+
+Lovink, G. 'The Society of the Query and the Googlisation of Our Lives:
+A Tribute to Joseph Weizenbaum', *Eurozine*, 2008,
+http://www.eurozine.com/articles/2008-09-05-lovink-en.html
+
+Lovink, G. *Social Media Abyss: Critical Internet Cultures and the Force
+of Negation*, Cambridge, UK: Polity Press, 2016.
+
+MacNab, J. 'Will climate be a winner in British Columbia’s election?'
+*Pembina Institute*, 2013, http://www.pembina.org/blog/724.
+
+Mann, M.E., R.S. Bradley, and M.K. Hughes, M. K. 'Northern Hemisphere
+Temperatures During the Past Millennium: Inferences, Uncertainties, and
+Limitations', *Geophysical Research Letters* 26.6 (1999): 759–762.
+
+Marres, N. 'There is Drama in Networks', in J. Brouwer and A. Mulder
+(eds) *Interact or Die!*, Rotterdam: NAI Publishers, 2007, pp. 174-187.
+
+Marres, N. 'Why Map Issues? On Controversy Analysis as a Digital
+Method', *Science, Technology & Human Values*, 0162243915574602, 2015,
+http://doi.org/10.1177/0162243915574602.
+
+Marres, N. and D. Moats. 'Mapping Controversies with Social Media: The
+Case for Symmetry', *Social Media + Society* 1.2 (2015):
+2056305115604176, http://doi.org/10.1177/2056305115604176.
+
+Marres, N. and E. Weltevrede. 'Scraping the Social? Issues in Live
+Social research', *Journal of Cultural Economy* 6.3 (2013): 313–335.
+
+Martin, Shawn W., Michael Brown, Richard Klavans, and Kevin Boyak.
+'OpenOrd: An Open-source Toolbox for Large Graph Layout', *Proceedings
+of the SPIE Visualisation and Data Analysis*, 2011,
+https://doi.org/10.1117/12.871402.
+
+Matias, J.N. 'Whose voices? Twitter citation in Global Voices', 2012,
+http://natematias.com/medialab/gv-viewer/.
+
+McComas, K. and J. Shanahan. 'Telling Stories About Global Climate
+Change Measuring the Impact of Narratives on Issue Cycles',
+*Communication Research* 26.1 (1999): 30–57.
+
+McCright, A. M. and R.E. Dunlap. 'Defeating Kyoto: The Conservative
+Movement’s Impact on US Climate Change Policy', *Social Problems* 50.3
+(2003): 348–373.
+
+McMillan, S. 'The Microscope and the Moving Target: The Challenge of
+Applying Content Analysis to the World Wide Web', *Journalism and Mass
+Communication Quarterly* 77 (2000): 80–88.
+
+Mehlum, H., E. Miguel, and R. Torvik. 'Poverty and Crime in 19th Century
+Germany', *Journal of Urban Economics* 59.3 (2006): 370–388.
+
+Merriam-Webster, A. *Webster’s New Collegiate Dictionary*. G.&C. Merriam
+Company, Publishers, 1961.
+
+Michaels, D. *Doubt is Their Product: How Industry's Assault on Science
+Threatens Your Health*, Oxford: Oxford University Press, 2008,
+https://books.google.nl/books?hl=nl&lr=&id=Qedeu\_5\_lEEC&oi=fnd&pg=PT8&dq=doubt+is+their+product&ots=d9HaBSwL0n&sig=a9vUIiKcNvvHDZ3pKzhD0GkmCd4.
+
+Moats, D. 'From Digital Methods to Digital Ontologies: Bruno Latour and
+Richard Rogers at CSISP', 2012,
+http://www.csisponline.net/2012/03/12/from-digital-methods-to-digital-ontologies-bruno-latour-and-richard-rogers-at-csisp/.
+
+Morozov, E. 'Iran: Downside to the “Twitter Revolution”,' *Dissent* 56.4
+(2009): 10–14.
+
+Moser, S. C. 'Costly Knowledge – Unaffordable Denial: The Politics of
+Public Understanding and Engagement on Climate Change', in *The Politics
+of Climate Change: A Survey*, 2010, 155–181.
+
+Mother Jones. 'Put a Tiger in Your Think Tank.' *Mother Jones,* 2005,
+http://www.motherjones.com/politics/2005/05/put-tiger-your-think-tank.
+
+Nacu-Schmidt, A., K. Andrews, M. Boykoff, M. Daly, L. Gifford, G.
+Luedecke, and L. McAllister. 'World Newspaper Coverage of Climate Change
+or Global Warming, 2004-2016', 2016,
+http://sciencepolicy.colorado.edu/media\_coverage.
+
+Nerlich, B. '“Climategate”: Paradoxical Metaphors and Political
+Paralysis', *Environmental Values* 19.4 (2010): 419–442.
+
+Niederer, S. 'Climate Change Skeptics in Science', 2009,
+http://www.mappingcontroversies.net/Home/PlatformClimateChangeSkepticsScience.
+
+Niederer, S. 'Global Warming Is Not a Crisis! Studying Climate Change
+Skepticism on the Web', *Necsus* 3 (Spring 2013):
+http://www.necsus-ejms.org/global-warming-is-not-a-crisis-studying-climate-change-skepticism-on-the-web/.
+
+Niederer, S. 'Interview', in N. Nova and F. Kaplan (eds) *Wikipedia’s
+Miracle*, Lausanne: EPFL Press, 2016, pp. 53-61.
+
+Niederer, S., G. Colombo, M. Mauri, and M. Azzi, M. 'Street-Level City
+Analytics: Mapping the Amsterdam Knowledge Mile' in *Hybrid City 2015:
+Data to the People*, Athens: University of Athens, 2015,
+www.media.uoa.gr/hybridcity.
+
+Niederer, S., G. Colombo, M. Mauri, and M. Azzi, M. 'Street-Level City
+Analytics: Mapping the Amsterdam Knowledge Mile', in *Hybrid City 2015:
+Data to the People*, Athens: University of Athens, 2015,
+www.media.uoa.gr/hybridcity.
+
+Niederer, S. and R. Taudin Chabot, R. 'Deconstructing the Cloud:
+Responses to Big Data Phenomena From Social Sciences, Humanities and the
+Arts', *Big Data & Society* 2.2 (2015):
+http://doi.org/10.1177/2053951715594635.
+
+Niederer, S. and J. van Dijck. 'Wisdom of the Crowd or Technicity of
+Content? Wikipedia as a Sociotechnical System', *New Media & Society*
+12.8 (2010): 1368–1387.
+
+Niederer, S. and J. van Dijck, J. 'Wisdom of the Crowd or Technicity of
+Content? Wikipedia as a Sociotechnical System', in M. David and P.
+Milward (eds) *Researching Society Online*, London: Sage, 2014.
+
+Nieuwspoort, http://www.nieuwspoort.nl/over-nieuwspoort/.
+
+Nisbet, M.C. and T. Myers, T. 'The Polls-Trends: Twenty Years of Public
+Opinion About Global Warming', *Public Opinion Quarterly* 71.3 (2007):
+444–470.
+
+NPR. 'How Could a Drought Spark a Civil War?', 2013,
+http://www.npr.org/2013/09/08/220438728/how-could-a-drought-spark-a-civil-war.
+
+O’Neill, S.J., M. Boykoff, S. Niemeyer, and S.A. Day. 'On the Use of
+Imagery for Climate Change Engagement', *Global Environmental Change*
+23.2 (2013): 413–421.
+
+O’Neil, M. *Cyberchiefs: Autonomy and Authority in Online Tribes*, New
+York: Pluto Press, 2009.
+
+Oreskes, N. 'The Scientific Consensus on Climate Change', *Science*
+306.5702 (2004): 1686–1686.
+
+Oreskes, N. 'Beyond the Ivory Tower: The Scientific Consensus on Climate
+Change', *Science* 206.5702 (2007): 1686.
+
+Oreskes, N. 'The Scientific Consensus on Climate Change: How Do We Know
+We’re Not Wrong?' in J.F.C. DiMento and P. Doughman (eds) *Climate
+Change: What It Means for Us, Our Children, and Our Grandchildren*,
+Cambridge: MIT Press, 2007, pp. 65-99.
+
+Page, Lawrence, Sergey Brin, Rajeev Motwani, and Terry Winograd. ‘The
+PageRank Citation Ranking: Bringing Order to the Web.’ Technical Report,
+Stanford InfoLab, 1999, http://ilpubs.stanford.edu:8090/422/.
+
+Pearce, F. 'The Five Key Leaked Emails From UEA’s Climatic Research
+Unit', *The Guardian*, 7 July 2010,
+http://www.theguardian.com/environment/2010/jul/07/hacked-climate-emails-analysis.
+
+Perez, I. 'Climate Change and Rising Food Prices Heightened Arab
+Spring', 2013,
+http://www.scientificamerican.com/article/climate-change-and-rising-food-prices-heightened-arab-spring/.
+
+Pfeil, U., P. Zaphiris, C.S. Ang. 'Cultural Differences in Collaborative
+Authoring of Wikipedia', *Journal of Computer-Mediated Communication*
+12.1 (2006): 88–113.
+
+Phelan, O., K. McCarthy, and B. Smyth. 'Using Twitter to Recommend
+Real-time Topical News', in *Proceedings of the Third ACM Conference on
+Recommender Systems*, 2009, pp. 385-388,
+http://dl.acm.org/citation.cfm?doid=1639714.1639794.
+
+Pinch, T. and C. Leuenberger. 'Studying Scientific Controversy from the
+STS Perspective: Concluding Remarks on Panel "Citizen Participation and
+Science and Technology"', in *East Asian Science, Technology and
+Society*, 2006,
+http://fr.curriculumforge.org/TravaillongVincentr?action=AttachFile&do=get&target=Pinch+studying.pdf
+
+Platform Politics. '*Platform Politics: Call for Papers: A
+Multidisciplinary Conference*', Cambridge, UK, 2011,
+http://www.networkpolitics.org/content/platform-politics-call-papers.
+
+Plumer, B. 'Drought Helped Cause Syria’s War: Will Climate Change Bring
+More Like It?', *The Washington Post*, 10 September 2013,
+https://www.washingtonpost.com/news/wonk/wp/2013/09/10/drought-helped-caused-syrias-war-will-climate-change-bring-more-like-it/.
+
+Poell, T. and K. Darmoni. 'Twitter as a Multilingual Space: The
+Articulation of the Tunisian Revolution Through \#sidibouzid', *NECSUS
+European Journal of Media Studies* 1.1 (2012): 14–34.
+
+Poe, M. 'The Hive', *The Atlantic Online*, September 2006,
+http://www.theatlantic.com/doc/200609/wikipedia.
+
+Raleigh, C. and H. Urdal, H. 'Climate Change, Environmental Degradation
+and Armed Conflict', *Political Geography* 26.6 (2007): 674–694.
+
+Reagle, J.M. *Good Faith Collaboration: The Culture of Wikipedia,*
+Cambridge, MA: MIT Press, 2010.
+
+Renn, O. and P. Graham. *White Paper on Risk Governance: Towards an
+Integrative Approach*, International risk governance council, 2015.
+
+Reuveny, R. 'Climate Change-induced Migration and Violent Conflict',
+*Political Geography* 26.6 (2007): 656–673.
+
+Rieder, B. 'What is in PageRank? A Historical and Conceptual
+Investigation of a Recursive Status Index', *Computational Culture*,
+2012,
+http://doi.org/http://computationalculture.net/article/what\_is\_in\_pagerank.
+
+Rifkin, Jeremy. *The Hydrogen Economy: The Creation of the Worldwide
+Energy Web and the Redistribution of Power on Earth Tarcher*. New York:
+Putnam, 2002.
+
+Rogers, R. *Information Politics on the Web*, Cambridge, MA: MIT Press,
+2004.
+
+Rogers, R. *The End of the Virtual: Digital Methods*, Amsterdam:
+Vossiuspers UvA, 2009.
+
+Rogers, R. *Digital Methods*, Cambridge, MA.: MIT Press, 2013.
+
+Rogers, R. 'Debanalising Twitter: The Transformation of an Object of
+Study', in K. Weller, A. Bruns, J. Burgess, M. Mahrt, and C. Puschmann
+(eds) *Twitter & Society*, New York: Peter Lang, 2014, pp. xi-xxvi.
+
+Rogers, R., F. Janssen, M. Stevenson, and E. Weltevrede. 'Mapping
+Democracy', in *Global Informaton Society Watch*, The Hague: Hivos,
+2009, pp. 47-57.
+
+Rogers, R. and N. Marres, N. 'Landscaping Climate Change: A Mapping
+Technique for Understanding Science and Technology Debates on the World
+Wide Web', *Public Understanding of Science* 9.2 (2000): 141–163.
+
+Rogers, R. and E. Sendijarevic. 'Neutral or National Point of View? A
+Comparison of Screbrenica Articles across Wikipedia’s Language
+Versions', presented at the Wikipedia Academy 2012, Berlin, 2012.
+
+Rogers, R., E. Weltevrede, S. Niederer, and E. Borra. 'National Web
+Studies: The case of Iran', in J. Hartley, J. Burgess and A. Bruns (eds)
+*Blackwell Companion to New Media Dynamics*, Oxford: Blackwell, 2013,
+pp. 142-166
+
+Rosenzweig, R. 'Can History Be Open Source? Wikipedia and the Future of
+the Past', *The Journal of American History* 93.1 (2006): 117–146.
+
+'Saskatchewan Citizens’ Hearings on Climate Change', 2014,
+http://skclimatehearings.org/.
+
+Savage, M. 'Contemporary Sociology and the Challenge of Descriptive
+Assemblage', *European Journal of Social Theory* 12.1 (2009): 155–174,
+http://doi.org/10.1177/1368431008099650.
+
+Schmidt, C. W. 'A Closer Look at Climate Change Skepticism',
+*Environmental Health Perspectives* 118.12 (2010): A536–A540.
+
+Scrinzi, F. and P. Massa, P. 'WikiWatchDog', 2010,
+http://www.wikiwatchdog.com.
+
+Shirky, C. *Here Comes Everybody: The Power of Organizing without
+Organizations*, New York: Penguin Press, 2008.
+
+Shirky, C. 'A Speculative Post on the Idea of Algorithmic Authority',
+2009,
+http://www.shirky.com/weblog/2009/11/a-speculative-post-on-the-idea-of-algorithmic-authority/.
+
+Simonite, T. 'The Decline of Wikipedia', *MIT Technology Review*, 2013,
+http://www.technologyreview.com/featuredstory/520446/the-decline-of-wikipedia/.
+
+Skeptical Science. 'The Consensus Project', 2013,
+http://theconsensusproject.com/.
+
+Smyrnaios, N. and B. Rieder. 'Social Infomediation of News on Twitter: A
+French Case Study', *NECSUS* (Autumn 2013),
+http://www.necsus-ejms.org/social-infomediation-of-news-on-twitter-a-french-case-study/.
+
+Sprenger, T.O., A. Tumasjan, P.G. Sandner, and I.M. Welpe. 'Tweets and
+Trades: the Information Content of Stock Microblogs', *European
+Financial Management* 20 (2014): 926-957,
+10.1111/j.1468-036X.2013.12007.x.
+
+Stalder, F. and J. Hirsh. 'Open source intelligence', *First Monday* 7.6
+(2002):
+http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/961/882.
+
+Stanton, E.A., J. Cegan, R. Bueno, and F. Ackerman. *Estimating Regions’
+Relative Vulnerability to Climate Damages in the CRED Model*,
+Somerville, MA: Stockholm Environment Institute, 2011,
+http://www.sei-international.org/mediamanager/documents/Publications/Climate-mitigation-adaptation/Economics\_of\_climate\_policy/sei-workingpaperus-1103.pdf.
+
+Stevenson, R.W. and J.M. Broder. 'Climate Change Prominent in Obama’s
+Inaugural Address', *The New York Times*, 21 January 2013,
+http://www.nytimes.com/2013/01/22/us/politics/climate-change-prominent-in-obamas-inaugural-address.html.
+
+Sullivan, A. 'The Revolution Will Be Twittered', *The Atlantic*, 2009,
+http://www.theatlantic.com/daily-dish/archive/2009/06/the-revolution-will-be-twittered/200478/.
+
+Sunstein, C.R. *Infotopia: How Many Minds Produce Knowledge*, Oxford:
+Oxford University Press, 2006.
+
+Surowiecki, J. *The Wisdom of Crowds: Why the Many Are Smarter than the
+Few and How Collective Wisdom Shapes Business, Societies and Nations,*
+New York: Doubleday, 2004.
+
+Swartz, A. 'Who Writes Wikipedia', 2006,
+http://www.aaronsw.com/weblog/whowriteswikipedia/.
+
+Tapscott, D. and A.D. Williams. *Wikinomics. How Mass Collaboration
+Changes Everything*, New York: Penguin, 2006.
+
+Taylor, L. 'Rudd Accuses Abbott of Abandoning Australia’s Alimate
+Commitments, *The Guardian*, 13 September 2013,
+http://www.theguardian.com/world/2013/sep/03/rudd-abbott-abandoning-climate-commitments.
+
+The Heartland Institute. 'First International Conference on Climate
+Change (ICCC-1)', 2008, http://climateconferences.heartland.org/iccc1/.
+
+Tkacz, N. *Wikipedia and the Politics of Openness*, Chicago: University
+of Chicago Press, 2015.
+
+Tufekci, Z. and C. Wilson, C. 'Social Media and the Decision to
+Participate in Political Protest: Observations from Tahrir Square',
+*Journal of Communication* 62.2 (2012): 363–379.
+
+Tukey, J.W. 'Exploratory Data Analysis', 1977,
+http://xa.yimg.com/kq/groups/16412409/1159714453/name/exploratorydataanalysis.pdf.
+
+Tumasjan, A., T.O. Sprenger, P.G. Sandner, and I.M. Welpe. 'Predicting
+Elections with Twitter: What 140 Characters Reveal About Political
+Sentiment', in *Fourth International AAAI Conference on Weblogs and
+Social Media*, 2010,
+https://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/view/1441.
+
+Twitter. 'Getting started with Twitter',
+https://support.twitter.com/articles/215585.
+
+Ungar, S. 'The Rise and (Relative) Decline of Global Warming as a Social
+Problem', *The Sociological Quarterly* 33.4 (1992): 483–501.
+
+Union of Concerned Scientists. 'Smoke, Mirrors and Hot Air: How
+ExxonMobil Uses Big Tobacco’s Tactics to Manufacture Uncertainty on
+Climate Change', 2007,
+http://www.ucsusa.org/sites/default/files/legacy/assets/documents/global\_warming/exxon\_report.pdf.
+
+United Nations. 'United Nations Framework Convention on Climate Change',
+1992,
+https://unfccc.int/files/essential\_background/background\_publications\_htmlpdf/application/pdf/conveng.pdf.
+
+United Nations Conference on Climate Change, 'COP21', 2015,
+http://www.cop21.gouv.fr/en/.
+
+United Nations Framework Convention on Climate Change. 'Adoption of the
+Paris Agreement', United Nations, 12 December 2015,
+https://unfccc.int/resource/docs/2015/cop21/eng/l09.pdf.
+
+Vaidhyanathan, S. *The Googlization of Everything: (And Why We Should
+Worry)*, Berkeley, CA: University of California Press, 2011.
+
+Van Dijck, J. 'Tracing Twitter: The Rise of a Microblogging Platform',
+*International Journal of Media & Cultural Politics* 7.3 (2011):
+333–348.
+
+Van Dijck, J. *The Culture of Connectivity: A Critical History of Social
+Media*, New York, NY: Oxford University Press, 2013.
+
+Veltri, G. 'Microblogging and Nanotweets: Nanotechnology on Twitter',
+*Public Understanding of Science* 22.7 (2013): 832–849.
+
+Venturini, T. 'Diving in Magma: How to Explore Controversies with
+Actor-network Theory', *Public Understanding of Science* 19.3 (2009):
+258–273.
+
+Venturini, T. 'Building on Faults: How to Represent Controversies with
+Digital Methods', *Public Understanding of Science* 21.7 (2010):
+196–812.
+
+Venturini, T. 'What Is Second-degree Objectivity and How Could It Be
+Represented', unpublished ms., 2011,
+http://www.medialab.sciences-po.fr/publications/Venturini-Second\_Degree\_Objectivity\_draft1.pdf.
+
+Venturini, T., A. Meunier, A. Munk, R. Rogers, E. Borra, B. Rieder, et
+al. 'Climaps by EMAPS in 2 Pages: A Summary for Policy Makers and Busy
+People', 2014,
+http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2532946.
+
+Weare, C. and W. Lin. 'Content Analysis of the World Wide Web:
+Opportunities and Challenges', *Social Science Computer Review* 18
+(2010): 272–292.
+
+Weltevrede, E. *Repurposing Digital Methods: The Research Affordances of
+Platforms and Engines*, University of Amsterdam, Amsterdam, 2016.
+
+Weltevrede, E., A. Helmond, and C. Gerlitz. 'The Politics of Real-time:
+A Device Perspective on Social Media Platforms and Search Engines',
+*Theory, Culture & Society* (2014): 0263276414537318,
+http://doi.org/10.1177/0263276414537318
+
+Wikimedia contributors. 'Wikipedia:Bots/Requests for Approval/SmackBot
+0', 3 November 2010,
+https://en.wikipedia.org/w/index.php?title=Wikipedia:Bots/Requests\_for\_approval/SmackBot\_0&oldid=394496539.
+
+Wikimedia contributors. 'Bot Activity Matrix',
+http://stats.wikimedia.org/EN/BotActivityMatrix.htm.
+
+Wikimedia contributors. 'Editing Frequency of All Bots', 3 March 2018,
+http://en.wikipedia.org/wiki/Wikipedia:Editing\_frequency/All\_bots.
+
+Wikimedia contributors. 'History of Wikipedia Bots', 30 November 2017,
+http://en.wikipedia.org/wiki/Wikipedia:History\_of\_Wikipedia\_bots.
+
+Wikimedia contributors. 'Lamest Ddit Wars', 17 July 2019,
+http://en.wikipedia.org/wiki/Wikipedia:Lamest\_edit\_wars.
+
+Wikimedia contributors. 'List of Wikipedians by Number of Edits,' 15
+August 2019,
+http://en.wikipedia.org/wiki/Wikipedia:List\_of\_Wikipedians\_by\_number\_of\_edits\#List.
+
+Wikimedia contributors. 'System Administators', 3 August 2019,
+http://meta.wikimedia.org/wiki/System\_administrators.
+
+Wikimedia contributors. 'User:Ram-Man', 1 March 2016,
+https://en.wikipedia.org/w/index.php?title=User:Ram-Man&oldid=707772255.
+
+Wikimedia contributors. 'Wikipedia Bot Policy', 4 July 2019,
+http://en.wikipedia.org/wiki/Wikipedia:Bot\_policy.
+
+Wikimedia contributors. 'Wikipedia:Manual of Style/Linking', 5 March
+2016,
+https://en.wikipedia.org/w/index.php?title=Wikipedia:Manual\_of\_Style/Linking&oldid=708334675.
+
+Wikimedia contributors. 'Wikipedia User Groups', 13 August 2019,
+http://meta.wikimedia.org/wiki/User\_groups.
+
+'Wikimedia Statistics', http://stats.wikimedia.org/.
+
+Wikipedia contributors. 'Free City of Danzig', 14 August 2019,
+http://en.wikipedia.org/wiki/Free\_City\_of\_Danzig.
+
+Wikipedia contributors. 'Gdańsk', 10 March 2016,
+https://en.wikipedia.org/w/index.php?title=Gda%C5%84sk&oldid=709411660.
+
+Wikipedia contributors. 'La Grange, Illinois', 27 February 2016,
+https://en.wikipedia.org/w/index.php?title=La\_Grange,\_Illinois&oldid=707244890.
+
+Wolters, T. 'Alarmistische KNAW in Grote Problemen', 2011,
+http://climategate.nl/2011/10/25/alarmistische-knaw-in-grote-problemen/.
+
+Wolters, T. 'Bad Science in Alarmist Report from Royal Dutch Academic
+Council', 2011,
+http://climategate.nl/2011/10/19/bad-science-in-alarmist-report-from-royal-dutch-academic-council/.
+
+Wood, D. and J. Fels. *The Power of Maps*, New York: The Guilford Press,
+1992.
+
+Wouters, P. *The Citation Culture*, Amsterdam: University of Amsterdam,
+1999.
+
+Zittrain, J. *The Future of the Internet*, New York: Penguin, 2008.
+
+
+
+# Acknowledgments of Collaborative Work
+
+The research presented in this publication is a culmination of climate
+change-related projects that I have worked on since 2007 with many
+colleagues from the Digital Methods Initiative at the University of
+Amsterdam and in collaboration with our research partners at Médialab
+Sciences Po, Density Design at Politecnico di Milano, and Digital
+Sociology at Goldsmith's University in London. This book has known a
+previous life, in the form of a Ph.D. dissertation with the University
+of Amsterdam Department of Media Studies. The feedback and suggestions
+provided by my supervisors, Prof. dr. José van Dijck and dr. Bernhard
+Rieder, as well as the impeccable proof-reading and copy-editing by
+Rachel O'Reilly, have proven invaluable.
+
+At the Amsterdam University of Applied Sciences I have worked at the
+Institute of Network Cultures collaborating with many fellow
+organizations on international research conferences such as the Society
+of the Query (on search engine critique) and Video Vortex (on visual
+media after YouTube), and on data literacy projects with the Citizen
+Data Lab as part of Amsterdam Creative Industries Network. While it is
+not easy to disentangle the many ideas and influences traversing these
+years, I highly value to at least attempt to properly acknowledge these
+collaborative efforts, which have led to the chapters of this book and
+refer to the previously published work this has resulted in.
+
+## Chapter 1: Introduction
+
+The idea of formulating the research that has led to this book has its
+origins in a project during the Digital Methods summer school of 2007,
+the first annual summer program on methods and tools for social research
+with the web at the University of Amsterdam, titled ‘New Objects of
+Study.’ Here, I worked with Esther Weltevrede on our project titled
+‘Issue Animals’, which I briefly discuss in this chapter. The idea of
+the technicity of web content I publicly presented for the first time at
+‘Enquiring Minds,’ a research seminar as part of *PICNIC08*, 24-26
+September 2008, Amsterdam.
+
+The discussion in this chapter of the work of Bruno Latour and Noortje
+Marres has also been published in a paper co-authored with Ruurd
+Priester. In that research project, we applied some of the methods
+proposed in this book to an analysis of bottom-up initiatives in the
+city of Amsterdam. The paper has been published in a special issue of
+Computer Supported Cooperative Work.
+
+S. Niederer and R. Priester, ‘Smart Citizens: Exploring the Tools of the
+Urban Bottom-up Movement’, *Computer Supported Cooperative Work*, (2016)
+25: 137-152, https://doi.orgf/10.1007/s10606-016-9249-6.
+
+## Chapter 2: Foundations of Content Analysis
+
+This chapter was written mostly during my time spent as a visiting
+scholar at the Annenberg School for Communication, University of
+Pennsylvania. Here I had the opportunity to work with scholars at the
+core of Content Analysis and collaborate with the Iran Media Group there
+on a study of Internet censorship, which was published by the Annenberg
+School and included in the *Blackwell Companion to New Media Dynamics*.
+
+R. Rogers, E. Weltevrede, S. Niederer, and E. Borra, ‘National Web
+Studies: The case of Iran’, in J. Hartley, J. Burgess, & A. Bruns (eds.)
+*Blackwell Companion to New Media Dynamics*, Oxford: Blackwell, 2013,
+pp. 142-166.
+
+## Chapter 3: Climate Debate Actors in Science and on the Web
+
+A full version of this chapter in a previous form has been published in
+the journal *Necsus* (2013). The chapter is a culmination of multiple
+collaborative projects. The first is a scientometric analysis and
+extended mapping of climate skeptics, which I conducted during the
+Digital Methods summer school of 2008 in collaboration with Andrei
+Mogoutov, developer and owner of ReseauLu, and Bram Nijhof (at the time
+a student of the New Media & Digital Culture master’s program at the
+University of Amsterdam). The first version of this study was published
+on the online research platform www.mappingcontroversies.net, as part of
+the EU 7th Framework project Macospol in 2009, with scientific
+coordinator Bruno Latour.
+
+My collaboration with the French climate journalist Denis Delbecq led to
+the mapping of French climate skepticism, which resulted in a
+co-authored online publication (2010). In 2011, I continued this
+research with a mapping of Dutch climate skepticism. I have presented
+this research at *Media in Transition 7* (MiT7) in Cambridge,
+Massachusetts (May 2011), the *Media of Collective Intelligence* event
+at the University of Siegen (November 2011) and the conference *Data
+Traces: Big Data in the Context of Culture and Society* at the Institute
+of Experimental Design and Media Cultures in Basel (July 2015).
+
+D. Delbecq and S. Niederer, ‘Climatosceptiques et Climatologues, Quelle
+Place Sur l’Internet?’, 2010,
+http://effetsdeterre.fr/2010/04/12/climatosceptiques-quelle-place-sur-linternet/.
+
+S. Niederer, ‘Climate Change Skeptics on the Web’, 2009,
+https://web.archive.org/web/20140621023333/http://www.mappingcontroversies.net/Home/PlatformClimateChangeSkepticsScience.
+
+S. Niederer, ‘Global Warming Is Not a Crisis! Studying Climate Change
+Skepticism on the Web’, *Necsus* 3 (Spring, 2013):
+http://www.necsus-ejms.org/global-warming-is-not-a-crisis-studying-climate-change-skepticism-on-the-web/.
+
+## Chapter 4: Wikipedia as Socio-technical Utility for Networked Content Analysis
+
+This chapter is based on research conducted at a Digital Methods Summer
+School of 2009, with Richard Rogers, Zachary Deveraux, Bram Nijhof, and
+Auke Touwslager, in which we compared the dependency of Wikipedia on
+bots for editing, in the various language versions of Wikipedia. In
+2010, a discussion of this research with my Ph.D. supervisor José van
+Dijck led to the decision to develop this research further into a
+co-authored paper. This paper was published in the journal *New Media &
+Society* and reprinted in 2014 as part of the edited volume *Researching
+Society Online*.
+
+The research for this chapter has led to an interview about Wikipedia
+with Nicholas Nova, which is published in his book *Wikipedia’s Miracle*
+(and in the French edition *Le Miracle Wikipedia*).
+
+I have presented various versions of this chapter at *Formatting
+Utopia – from Paul Otlet to the Internet*, a conference at the Mundaneum
+in Mons/Bergen in Belgium (November 2008), ATACD *Changing Cultures,
+Cultures of Change* conference at the University of Barcelona (December
+2009), as a *Brown Bag Lecture* at the Amsterdam University of Applied
+Sciences (January 2010), at *Medien der Kollektiven Intelligenz* at the
+University of Konstanz, at the Annenberg School for Communication in
+Philadelphia (April 2011), at the *ReClaiming Participation* conference
+in Zürich (May 2014) and at *Reading Wikipedia,* the Praemium Erasmianum
+Conference at the Royal Netherlands Academy of Arts and Sciences (KNAW)
+in November of 2015.
+
+S. Niederer, ‘Interview’, in N. Nova and F. Kaplan (eds) *Wikipedia’s
+Miracle*, Lausanne: EPFL Press, 2016, pp. 53-61.
+
+S. Niederer, ‘Entretien’, in N. Nova and F. Kaplan (eds) *Le Miracle
+Wikipedia,* Lausanne: PPUR, 2016, pp. 51-61. (French edition)
+
+S. Niederer and J. van Dijck, ‘Wisdom of the Crowd or Technicity of
+Content? Wikipedia as a Sociotechnical System’, *New Media & Society*
+12.8 (2010): 1368–1387.
+
+S. Niederer and J. van Dijck, ‘Wisdom of the Crowd or Technicity of
+Content? Wikipedia as a Sociotechnical System’, in M. David and P.
+Milward (eds) *Researching Society Online*, London: Sage, 2014
+(Reprint).
+
+## Chapter 5: Mapping the Resonance of Climate Change Discourses in Twitter
+
+This study was published in the online publication *Climaps: An Online
+Issue-Atlas of Climate Change Adaptation* and featured in *Wired
+Italia*. The United Nations tweeted the study’s climate vulnerability
+world map after its publication in the *Climaps* atlas.
+
+For the case studies in this chapter, which were conducted in data
+sprints as part of the EU FP7 project Electronic Maps to Assist Public
+Science (EMAPS), I have collaborated closely with researchers at the
+Digital Methods Initiative, including Sophie Waterloo, Simeona Petkova,
+Natalia Sanchez Quérubin, Liliana Bounegru, and Catalina Iorga. Erik
+Borra and Bernhard Rieder are the developers of the tools used for this
+analysis. The research team also consisted of information designers from
+DensityDesign in Milan, including Carlo de Gaetano, Gabriele Colombo,
+and Stefania Guerra.
+
+After the data sprint, the descriptions of our various case studies,
+which I worked on with various team members but especially Sophie
+Waterloo and Gabriele Colombo, were compiled and expertly edited by
+Natalia Sanchez Quérubin and Lilliana Bounegru for publication in the
+online issue atlas *Climaps.eu*, which presents the issue stories and
+issue maps of the EMAPS project. For this chapter, I have re-assembled
+and subsequently rewritten the Climaps materials and our original
+descriptions (co-authored with Sophie Waterloo and Gabriele Colombo) to
+suit the focus of this book and aptly present the collaborative case
+studies of mapping the climate debate with Twitter. I have presented the
+research at the conference *Social Media and the Transformation of
+Public Space,* at the Royal Netherlands Academy of the Arts and Sciences
+(June 2014).
+
+R. Battaglia, ‘Clima, Ecco la Mappa di Chi Litiga Sul Cambiamento
+Climatico’, *Wired Italia*, 2014,
+http://www.wired.it/attualita/politica/2014/12/15/emaps-come-mappare-disaccordo-clima/.
+
+EMAPS, ‘Profiling Adaptation and Its Place In Climate Change Debates
+With Twitter’, 2014,
+http://climaps.eu/\#!/map/profiling-adaptation-and-its-place-in-climate-change-debates-with-twitter-I.
+
+EMAPS, ‘Reading the State of Climate Change From the Web: Top Google
+Results’, 2014,
+http://climaps.eu/\#!/map/profiling-adaptation-and-its-place-in-climate-change-debates-with-twitter-ii.
+
+EMAPS, ‘Who is Vulnerable According to Whom?’, 2014,
+http://climaps.eu/\#!/map/who-is-vulnerable-according-to-whom.
+
+@UNEnvironementUNEP, ‘This map compares 3 lists of countries ranked by
+\#climeatechange vulnerability. Surprised? buff.ly/1tFvlZJ’, Twitter
+post, 1 November 2014, 3:12 PM,
+https://twitter.com/unep/status/528550060397957120.
+
+## Chapter 6: Conclusions
+
+In the conclusions, I mention three studies that I have worked on
+collaboratively: *People’s Dashboard*, *The City as Interface*, and the
+*Knowledge Mile Atlas*.
+
+*The People’s Dashboard* was a project developed during the Digital
+Methods Winter School of January 2015. Esther Weltevrede and I
+facilitated the group, which included the following participants:
+Evelien Christiaanse, Caio Domingues, Yvette Ducaneaux, Inte Gloerich,
+Alex Harrison, Hendrik Lehmann, Gabriel Reis, Pavel Rodin, Jurij Smrke,
+Janina Sommerlad. Erik Borra developed the plugin. Stefania Guerra and
+Tommaso Renzini (Density Design) made the design.
+
+*The City as Interface* was a project developed during the summer school
+of 2015, in which we worked with subject matter expert Martijn de Waal,
+author of the book *The City as Interface* (2014). The project team,
+which I facilitated, had as participants Nataliya Tkachenko, Xinyang Xie
+(Yang), Peta Mitchell, Maarten Groen, Adrian Bertoli, Khwezi Magwaza,
+Naomi Bueno de Mesquita, Joe Shaw, Alexander van Someren, Tim Leunissen,
+and Philip Schuette. Designers working with us on the project were
+Michele Mauri and Donato Ricci.
+
+The *Knowledge Mile Atlas* is an ongoing collaboration (2014-) with
+information designers Gabriele Colombo, Michele Mauri, and Matteo Azzi
+of Density Design and Calibro, and Carlo De Gaetano, Federica Bardelli,
+Wouter Meys, Maarten Groen, Maarten Terpstra, and Matthijs ten Berge at
+the Amsterdam University of Applied Sciences, in which we analyze and
+visualize the online presence and resonance of an urban area under
+development. The area cuts through the city center of Amsterdam and
+crosses many districts and neighborhood borders. We presented our
+co-authored paper about the Knowledge Mile maps at the conference
+*Hybrid City 3: Data to the People* (September 2015) at the University
+of Athens. The paper was published in the conference proceedings.
+
+*The People’s Dashboard* is described extensively on the wiki project
+page: https://wiki.digitalmethods.net/Dmi/PeoplesDashboard. To install
+the plugin, go to:
+https://github.com/digitalmethodsinitiative/peoplesdashboard.
+
+The wiki page for the project *The City as Interface* is:
+https://wiki.digitalmethods.net/Dmi/TheCityAsInterface.
+
+S. Niederer, G. Colombo, M. Mauri, and M. Azzi, ‘Street-Level City
+Analytics: Mapping the Amsterdam Knowledge Mile,’ in *Hybrid City 3:
+Data to the People*, Athens: University of Athens, 2015,
+www.media.uoa.gr/hybridcity.
+
+A previous version of this chapter has been published as:
+
+S. Niederer (2018), ‘The Study of Networked Content: Five Considerations
+for Digital Research in the Humanities, in Schiuma, G., Carlucci, D.
+(eds.) *Big Data in the Arts and Humanities*, New York: Auerbach
+Publications, p. 89-100. https://doi.org/10.1201/b19744
 
 
 

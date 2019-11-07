@@ -1,14 +1,19 @@
 ---
-Pr-id: Networked Content Analysis: The Case of Climate Change
-P-id: Theory on Demand
-A-id: 31
-Type: Conclusion
-Book-type: Dissertation
-Dissertation item: Conclusion
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
 Item-id: unique no.
-Article-title: 6. Conclusion
-Author: Sabine Niederer
-Rights: CC BY-NC-SA 4.0
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
 ...
 
 
@@ -22,7 +27,7 @@ content*. The foundational work that established the field of content
 analysis, developed within communication science, paved the way for the
 analysis of (large) bodies of text for features or (recurring) themes,
 in order to identify ‘cultural indicators’ or make other inferences
-about societal trends and issues.[^1][^2] While content analysis has
+about societal trends and issues.[^08conclusion_1][^08conclusion_2] While content analysis has
 seen a tremendous uptake across scientific disciplines, the application
 of these methods to *networked* web content has presented an ongoing
 challenge for researchers of various scholarly disciplines. Therefore, I
@@ -35,7 +40,7 @@ name and develop here as *networked content analysis*. As content
 analysis has been inclusive of content (in all shapes and forms) *and
 its context* since its early beginnings, its methods only need to be
 amended to suit the digital era and deal explicitly with the technicity
-of networked content.[^3] I propose to utilize controversy mapping and
+of networked content.[^08conclusion_3] I propose to utilize controversy mapping and
 digital methods to do so, building on these methods’ respective
 actor-/issue-centricity and medium-specificity.
 
@@ -73,11 +78,11 @@ developed to study controversies and their actors (controversy analysis)
 and social and cultural issues with the web (digital methods).
 Controversy analysis gives direction to the study of controversy without
 the translation of actor language into preset categories listed in a
-codebook.[^4] On the contrary, it makes a case for descriptive research
+codebook.[^08conclusion_4] On the contrary, it makes a case for descriptive research
 and advises researchers to launch their inquiries ‘in medias res’ and
-describe what they see.[^5] There is no single specific protocol,
+describe what they see.[^08conclusion_5] There is no single specific protocol,
 toolkit or methodological framework for controversy analysis, but there
-are ‘commandments’[^6][^7], publications, and an educational program at
+are ‘commandments’[^08conclusion_6][^08conclusion_7], publications, and an educational program at
 Sciences Po in Paris that provide many guidelines for the
 operationalization of the mapping of controversies. In my case studies,
 which analyze the climate debate on the web, Wikipedia and Twitter, this
@@ -129,7 +134,7 @@ technicities of the platforms that serve and co-produce content today
 entails studying platforms' characteristics and identifying the queries
 or tools that are necessary to demarcate and analyze networked content.
 Studying platforms as socio-technical systems is of the utmost
-importance, as they are ‘increasingly embedded in our societies’.[^8] In
+importance, as they are ‘increasingly embedded in our societies’.[^08conclusion_8] In
 this book, I develop such a socio-technological perspective on the
 controversy surrounding climate change as presented and debated on the
 web.
@@ -150,7 +155,7 @@ in the analysis. With hyperlinks, content became networked, and thus, it
 became harder again to demarcate and to establish where so-called
 content ends. Search engines brought about new ways of presenting and
 ranking data, and platformization gives further shape to the
-far-stretching entanglement of social media with other web content.[^9]
+far-stretching entanglement of social media with other web content.[^08conclusion_9]
 Network Content Analysis aims to be adaptive to the specific
 technicities of platform content; therefore, I approach the climate
 debate on each platform with platform-specific ways to define and
@@ -162,7 +167,7 @@ results for the query' climate change’ in various languages to measure
 the resonance of prominent actors. In the Wikipedia chapter, I discuss a
 study of climate change-related articles in which the demarcation occurs
 by taking those articles that are reciprocally linked from the climate
-change article.[^10] In the Twitter study, I demarcate Tweets by a query
+change article.[^08conclusion_10] In the Twitter study, I demarcate Tweets by a query
 that includes tweets containing climate change or global warming.
 
 The inclusion of web content's technicity into the idea of content
@@ -210,7 +215,7 @@ non-skeptical) within a demarcated set of websites. I zoom in on a
 particularly heated moment of the debate in the Dutch context,
 immediately following a publication on the scientific consensus
 regarding climate change, published by the Royal Academy of Sciences of
-the Netherlands.[^11]
+the Netherlands.[^08conclusion_11]
 
 Hyperlink analysis shows a distinct profile for the Dutch skeptics, who
 strongly associate themselves with the Anglo-American network that
@@ -240,11 +245,11 @@ professional climate experts.
 The main challenge that web-based media presents to traditional content
 analysis is that web content is networked, for instance, by hyperlinks.
 Another way that it is linked and processed is through social media
-buttons, which pull the content of websites into various platforms.[^12]
+buttons, which pull the content of websites into various platforms.[^08conclusion_12]
 Furthermore, the fact that web content is often accessed through search
 engines such as Google Web Search, which rank and suggest content
 through undisclosed and ever-evolving algorithms, is just as
-problematic.[^13] Asking subsequently what kind of climate change debate
+problematic.[^08conclusion_13] Asking subsequently what kind of climate change debate
 the web puts forward through such search technicity, I would conclude
 from this case study that it demonstrates actor alignment in networks of
 affinity, association, critique (as the skeptics linking to their main
@@ -287,7 +292,7 @@ time. Here, networked content analysis permits a historical
 reconstruction of the debate, and indicated generic Wikipedia editing
 trends over time, but also recognizes issue attention cycles, where ‘new
 news’ around the controversy or debate has the effect of spiking
-Wikipedia activity across specific pages.[^14] Lastly, heat maps may be
+Wikipedia activity across specific pages.[^08conclusion_14] Lastly, heat maps may be
 used to signal significant moments in Wikipedia's ‘management' of the
 issue of global warming, as I discuss extensively in the chapter. Here,
 the technicity of the platform formats content in a way that both its
@@ -310,7 +315,7 @@ appropriate research frameworks and tools capable of capturing how
 Wikipedia is socio-technically modulated towards reliability and
 consensus over time.
 
-## Applications of Networked Content Analysis III: Twitter 
+## Applications of Networked Content Analysis III: Twitter
 
 In the final case study of Chapter 5, I study the state of the climate
 change debate in Twitter, which I commence by assessing the logic of
@@ -339,7 +344,7 @@ input from subject-matter experts) provides a sample in which the
 resonance of actors or keywords can be mapped. Similarly, the
 demarcation of tweets visualized through hashtag clusters allows for a
 descriptive and exploratory analysis of the debate around climate
-vulnerability.[^15][^16] The hashtag cluster network, I argue, could be
+vulnerability.[^08conclusion_15][^08conclusion_16] The hashtag cluster network, I argue, could be
 read as a time slice, presenting the status quo of an issue or debate.
 In the case of climate change, this time slice does not merely state
 ‘what’s happening’ but rather serves as a progress report or awareness
@@ -401,7 +406,7 @@ lie. In the Wikipedia study (of chapter 4), I mention how news events
 tend to cause heightened editing activity in related articles. In the
 Twitter case (of chapter 5), I discuss how Twitter as a micro-blogging
 platform could be approached through more conventional news cycle
-analyses but also through ‘meme-tracking’.[^17] In the latter mode,
+analyses but also through ‘meme-tracking’.[^08conclusion_17] In the latter mode,
 Twitter as a micro-blog could then be seen as highly responsive to or
 even parasitical or imploding of conventional news ‘sites’, echoing and
 amplifying news snippets by tweeting and retweeting. Further, as Twitter
@@ -412,7 +417,7 @@ story, and when their work has been published, they may tweet a link to
 that article, using it as a channel for the distribution of their own
 work. As news and mass media sources strive to make their content
 ‘platform-ready’, a term by Helmond, the entanglement of news, other
-mass media content, and new platforms have entered the next level.[^18]
+mass media content, and new platforms have entered the next level.[^08conclusion_18]
 Networked content analysis proposes to take this entanglement as a given
 and demarcate content through the logic of the platform (as developed in
 digital methods) and thus follow the actors across sources (as key to
@@ -445,13 +450,13 @@ views on its technicity, the other platforms studied in this book do
 not. Google Web Search, through its terms of service, does not allow for
 the use of its search engine for anything other than search. So
 repurposing the engine as a research device (as discussed in detail by
-Weltevrede) goes against its rules and regulations.[^19] Twitter has
+Weltevrede) goes against its rules and regulations.[^08conclusion_19] Twitter has
 various APIs; however, on an interface level, Twitter discloses its
 mechanisms of ranking and prioritizing content (and neither does Google
 or any social media platform). This point was central to a critical
 project titled *The People’s Dashboard*, which I developed together with
 Esther Weltevrede, Erik Borra, and others in 2015, and find relevant to
-mention briefly here.[^20] The People's Dashboard is a social media
+mention briefly here.[^08conclusion_20] The People's Dashboard is a social media
 platform plugin that visualizes the entanglement of content and users
 with the platform and its technicity. The dashboard is intended to be a
 critical layer on top of six different social media platforms: YouTube,
@@ -467,7 +472,7 @@ is dealt with. This idea is recognized by scholars working with
 networked content such as Marres and Moats, who, in an STS-tradition,
 call for a symmetrical approach to the study of controversies with
 social media content, in which there is as much attention to
-‘media-technological dynamics’ as there is to ‘issue dynamics’.[^21]
+‘media-technological dynamics’ as there is to ‘issue dynamics’.[^08conclusion_21]
 Networked Content Analysis has a slightly different approach, as it
 proposes to include technicity by, straightforwardly, taking the
 *networkedness of content* into account. In the various case studies, I
@@ -478,9 +483,15 @@ of a platform. Making technicity explicit in this way is comparative to
 the functionality of the People’s Dashboard, as it offers a view on the
 entanglement of user content with the platform.
 
-![](imgs/figure18.png)
-
-Figure 18: The People’s Dashboard. This mockup of the People’s Dashboard was developed during the Digital Methods Winter School of 2015, as a critical layer on top of the interfaces of dominant social media platform interfaces, revealing content of the people and of the platform. A third category is mixed content, indicating that people’s content has been re-ordered or repurposed (e.g. Facebook News feed or birthday notifications). The plugin works with Facebook and is available on Github: http://bit.ly/peoplesdashboard. Digital Methods Initiative, ‘The People's Dashboard'.
+Figure 18: The People’s Dashboard. This mockup of the People’s Dashboard
+was developed during the Digital Methods Winter School of 2015, as a
+critical layer on top of the interfaces of dominant social media
+platform interfaces, revealing content of the people and of the
+platform. A third category is mixed content, indicating that people’s
+content has been re-ordered or repurposed (e.g. Facebook News feed or
+birthday notifications). The plugin works with Facebook and is available
+on Github: http://bit.ly/peoplesdashboard. Digital Methods Initiative,
+‘The People's Dashboard'.
 
 I would like to conclude here that networked content analysis remains
 true to its roots in content analysis as an unobtrusive method, while
@@ -494,7 +505,7 @@ content analysis. Networked content analysis, as proposed through these
 kinds of imbrications, will give renewed significance to modes and
 methods of content analysis appropriate in and for the digital era.
 
-## Technicities in Need of Attention? 
+## Technicities in Need of Attention?
 
 In this book, I discuss the technicity of web search and interlinked
 websites, Wikipedia articles, and tweets. Of course, I have encountered
@@ -538,7 +549,7 @@ city of Amsterdam through social media data, our work at the Digital
 Methods initiative recently found that Instagram offers a collected
 ‘boutique view’ on the city, while meetup.com (a platform for organizing
 social gatherings) highlights the ‘tech’ and ‘sports’ venues of the city
-of Amsterdam.[^22] For the case study of my book, this means I could
+of Amsterdam.[^08conclusion_22] For the case study of my book, this means I could
 select in the Twitter dataset only the geo-demarcated Tweets, or instead
 look at user-profiles and only select those that state a location. This
 way, I could research how the state of the debate differs across
@@ -546,18 +557,18 @@ geo-locations by looking at the origin of a tweet or of the Twitter user
 (profile). On a methodological level, I could assess the possibilities
 and limitations of studying place through networked content analysis,
 assessing how different platforms deal differently with the demarcation
-of place.[^23]
+of place.[^08conclusion_23]
 
 As other technicities add layers to the analysis of an issue or debate,
 the diversity of content types included in such a 'layered' networked
 content analysis adds complexity to the analysis. Here, we can learn
 from controversy mapping, whose scholars have warned against the
 creation of an all-encompassing ‘mother map' that includes all actors,
-viewpoints, and sources of a certain debate as seen from above.[^24] As
+viewpoints, and sources of a certain debate as seen from above.[^08conclusion_24] As
 there is no *above* in controversy mapping, these layers should not be
 used to create a summary but rather treated as separate mappings, in
 which each offers a detailed window through which we can navigate a
-debate in all its richness.[^25]
+debate in all its richness.[^08conclusion_25]
 
 In this book, networked content analysis is developed to study the
 climate debate, a controversy that takes place in science and well
@@ -584,14 +595,14 @@ objectivity’ which is ‘the effort to consider as much subjectivity as
 possible. Unlike first-degree objectivity, which defines a situation of
 a collective agreement, second-degree objectivity is attained by
 revealing the full extent of actors' disagreement and is thereby typical
-of controversial settings.’[^26] In second-degree objectivity, it is not
+of controversial settings.’[^08conclusion_26] In second-degree objectivity, it is not
 necessary to normalize or objectify content in order to make it
 comparable. Instead, it is the wide array of viewpoints, actors, and
 sources that build a cartography that Latour himself describes to his
-students as ‘observing and describing’.[^27] As controversy mapping does
+students as ‘observing and describing’.[^08conclusion_27] As controversy mapping does
 not offer an operationalization of this approach, let alone how to apply
 it to networked content, it is useful here to look at digital methods
-for ‘cross-platform analysis’.[^28]
+for ‘cross-platform analysis’.[^08conclusion_28]
 
 Digital methods have proposed three approaches to cross-platform
 analysis, which are strongly related to the methodological difficulties
@@ -603,10 +614,10 @@ do we know of its cultures of use? A second approach is that of *social
 research*. Here, platform technicities are not included in the study, as
 the researcher focuses on the story told by the content. A third
 approach is the combination of the two, asking both what the platform
-does to the content and what stories the content tells.[^29][^30] This
+does to the content and what stories the content tells.[^08conclusion_29][^08conclusion_30] This
 approach would be most suitable to Networked content analysis, where we
 could explicitly add how the platforms network content, and how content
-is ‘inter-linked, inter-liked and inter-hashtagged’.[^31] However,
+is ‘inter-linked, inter-liked and inter-hashtagged’.[^08conclusion_31] However,
 noting the size of data sets and the necessity of close reading, the
 scaling up of such methods remains a challenge, which is dealt with by
 various scholarly fields (ranging from humanities to data science).
@@ -630,7 +641,7 @@ Lanier writes:
 > cloud computing facilities located in remote, often secret locations
 > around the world. They will be copied millions of times by algorithms
 > designed to send an advertisement to some person somewhere who happens
-> to resonate with some fragment of what I say.[^32]
+> to resonate with some fragment of what I say.[^08conclusion_32]
 
 The future of content presented by Lanier, as material increasingly
 intertwined with its carriers and platforms, is a future of content
@@ -644,66 +655,66 @@ networked content analysis, continue to develop a critical vocabulary,
 and produce further concepts and visual languages for the mapping,
 analysis, and description of networked content.
 
-[^1]: Gerbner, ‘Toward "Cultural Indicators"’.
+[^08conclusion_1]: Gerbner, ‘Toward "Cultural Indicators"’.
 
-[^2]: Gerbner, ‘Cultural Indicators’.
+[^08conclusion_2]: Gerbner, ‘Cultural Indicators’.
 
-[^3]: Krippendorff, *Content Analysis,* 2004.
+[^08conclusion_3]: Krippendorff, *Content Analysis,* 2004.
 
-[^4]: Latour, *Reassembling the Social.*
+[^08conclusion_4]: Latour, *Reassembling the Social.*
 
-[^5]: Latour, *Reassembling the Social,* 27.
+[^08conclusion_5]: Latour, *Reassembling the Social,* 27.
 
-[^6]: Venturini, *Diving in Magma*.
+[^08conclusion_6]: Venturini, *Diving in Magma*.
 
-[^7]: Latour, *Reassembling the Social,* 27.
+[^08conclusion_7]: Latour, *Reassembling the Social,* 27.
 
-[^8]: Lazer et al. ‘The Parable of Google Flu’, 1205.
+[^08conclusion_8]: Lazer et al. ‘The Parable of Google Flu’, 1205.
 
-[^9]: Helmond, *The Web as Platform.*
+[^08conclusion_9]: Helmond, *The Web as Platform.*
 
-[^10]: ‘Reciprocal linking’ here means both linking to and receiving a
+[^08conclusion_10]: ‘Reciprocal linking’ here means both linking to and receiving a
     link from the article on climate change.
 
-[^11]: KNAW, *Klimaatverandering, Wetenschap en Debat.*
+[^08conclusion_11]: KNAW, *Klimaatverandering, Wetenschap en Debat.*
 
-[^12]: See also Helmond, *The Web as Platform.*
+[^08conclusion_12]: See also Helmond, *The Web as Platform.*
 
-[^13]: McMillan, ‘The Microscope and the Moving Target’.
+[^08conclusion_13]: McMillan, ‘The Microscope and the Moving Target’.
 
-[^14]: These general trends include an overall increase of editing
+[^08conclusion_14]: These general trends include an overall increase of editing
     interventions over time, a relative decrease in activity in the
     months of June and December, and the existence of an incubation
     period between an article's creation and its maturation, where after
     initial editing and a period of inactivity are followed by more
     regular editing.
 
-[^15]: Savage, ‘Contemporary Sociology and the Challenge of Descriptive
+[^08conclusion_15]: Savage, ‘Contemporary Sociology and the Challenge of Descriptive
     Assemblage'.
 
-[^16]: Tukey, ‘Exploratory Data Analysis’.
+[^08conclusion_16]: Tukey, ‘Exploratory Data Analysis’.
 
-[^17]: Leskovec et al. ‘Meme-tracking and the Dynamics of the News
+[^08conclusion_17]: Leskovec et al. ‘Meme-tracking and the Dynamics of the News
     Cycle’.
 
-[^18]: Helmond, *The Web as Platform.*
+[^08conclusion_18]: Helmond, *The Web as Platform.*
 
-[^19]: Weltevrede, *Repurposing Digital Methods.*
+[^08conclusion_19]: Weltevrede, *Repurposing Digital Methods.*
 
-[^20]: *The People’s Dashboard* is described extensively on the wiki
+[^08conclusion_20]: *The People’s Dashboard* is described extensively on the wiki
     project page, and the team members are listed in the
     ‘Acknowledgements of collaborative work’ section. Digital Methods
     Initiative, ‘The People's Dashboard', 2015,
     https://wiki.digitalmethods.net/Dmi/PeoplesDashboard.
 
-[^21]: Marres and Moats, ‘Mapping Controversies with Social Media’.
+[^08conclusion_21]: Marres and Moats, ‘Mapping Controversies with Social Media’.
 
-[^22]: The layered interactive map is available on:
+[^08conclusion_22]: The layered interactive map is available on:
     http://bit.ly/amsterdamcartodb, the project page is on the Digital
     Methods Initiative wiki. Its project page can be found at:
     https://wiki.digitalmethods.net/Dmi/TheCityAsInterface.
 
-[^23]: A project that explicitly deals with these questions is The
+[^08conclusion_23]: A project that explicitly deals with these questions is The
     Knowledge Mile Atlas, in which I am working with information
     designers to create an atlas of a small urban area in Amsterdam.
     Here, we represent different online data sets of a geographic area
@@ -724,23 +735,23 @@ analysis, and description of networked content.
     center and crosses many district and neighborhood ‘borders'.
     Niederer et al. ‘Street-Level City Analytics’.
 
-[^24]: Venturini, ‘Diving in Magma’.
+[^08conclusion_24]: Venturini, ‘Diving in Magma’.
 
-[^25]: Venturini, ‘What Is Second-degree Objectivity and How Could It Be
+[^08conclusion_25]: Venturini, ‘What Is Second-degree Objectivity and How Could It Be
     Represented'.
 
-[^26]: Venturini, ‘Building on Faults', 270.
+[^08conclusion_26]: Venturini, ‘Building on Faults', 270.
 
-[^27]: Venturini, ‘Building on Faults', 270.
+[^08conclusion_27]: Venturini, ‘Building on Faults', 270.
 
-[^28]: Digital Methods Initiative, *DMIR Unit \#5.*
+[^08conclusion_28]: Digital Methods Initiative, *DMIR Unit \#5.*
 
-[^29]: In networked content analysis, this would be explicitly: ‘How
+[^08conclusion_29]: In networked content analysis, this would be explicitly: ‘How
     does the platform *network* content?’
 
-[^30]: Digital Methods Initiative, *DMIR Unit \#5.*
+[^08conclusion_30]: Digital Methods Initiative, *DMIR Unit \#5.*
 
-[^31]: Digital Methods Initiative, *DMIR Unit \#5.*
+[^08conclusion_31]: Digital Methods Initiative, *DMIR Unit \#5.*
 
-[^32]: J. Lanier, *You Are Not a Gadget: A Manifesto,* New York, NY:
+[^08conclusion_32]: J. Lanier, *You Are Not a Gadget: A Manifesto,* New York, NY:
     Alfred A. Knopf, 2010, xiii.
