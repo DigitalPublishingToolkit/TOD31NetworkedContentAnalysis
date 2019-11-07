@@ -1,19 +1,15 @@
-<dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
+<dc:identifier id="epub-id-1">urn:isbn:978-94-92302-43-4</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
-<dc:title id="epub-title-1">The List Serves</dc:title>
+<dc:title id="epub-title-1">Networked Content Analysis: The Case of Climate Change</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <dc:publisher>Institute of Network Cultures</dc:publisher>    
-<dc:date id="epub-date">2017-02</dc:date>
+<dc:date id="epub-date">2019-11</dc:date>
 <dc:language>en-US</dc:language>
-<dc:creator id="epub-creator-0">Kenneth C. Werbin</dc:creator>
+<dc:creator id="epub-creator-0">Sabine Niederer</dc:creator>
 <meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>
-<dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
-<meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
-<dc:contributor id="epub-contributor-5">Leonieke van Dipten</dc:contributor>
-<meta refines="#epub-contributor-5" property="role" scheme="marc:relators">dsr</meta>
 <dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
-<dc:subject>Lists</dc:subject>
-<dc:description>PUBLICATION SYNOPSIS</dc:description>
+<dc:subject>Networked Content Analysis</dc:subject>
+<dc:description>Networked Content Analysis offers theoretical foundations and digital methods for the study of online content. The analysis of mediated content has a strong tradition, which started in communication science and has since then been applied across a wide range of academic disciplines. So-called content analysis provides a means to study (mass) media content in many media shapes and formats in order retrieve signs of the zeitgeist, such as cultural phenomena, representation of certain groups, and the resonance of political viewpoints. In the era of big data and digital culture, in which websites and social media platforms produce massive amounts of content and network this through hyperlinks and social media buttons, content analysis needs to become adaptive to the many ways in which digital platforms and engines output content. This book introduces Networked Content Analysis as a digital research approach that offers ways forward for students and researchers who want to work with digital methods and tools to study online networked content. Besides providing a thorough theoretical framework, the book demonstrates tools and techniques for the study of social debates and issues online. The case in question is climate change, one of the most significant societal challenges of our times, which is studied on the web and with search engines, on Wikipedia, as well as Twitter. </dc:description>
 
 
 
