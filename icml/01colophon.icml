@@ -436,42 +436,19 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Author: Sabine Niederer</Content>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SpaceAfter="0">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SpaceAfter="0">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Editing: Image editing: Carlo de Gaetano</Content>
 				<Br />
 				<Content>Production: Sepp Eckenhaussen</Content>
 				<Br />
 				<Content>Cover design: Katja van Stiphout</Content>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SpaceAfter="0">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SpaceAfter="0">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Published by the Institute of Network Cultures, Amsterdam, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>2019</Content>
+				<Content>Published by the Institute of Network Cultures, Amsterdam, 2019</Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>ISBN: 978-94-92302-43-4</Content>
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" SpaceAfter="0">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold" FontStyle="Regular">
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
