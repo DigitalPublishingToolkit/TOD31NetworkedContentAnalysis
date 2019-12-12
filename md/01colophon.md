@@ -19,9 +19,17 @@ Theory on Demand #31
 Change**
 
 Author: Sabine Niederer
-<br/>Editing: Image editing: Carlo de Gaetano
+<br/>
+<br/>
+Foreword: Klaus Krippendorff
+<br/>
+<br/>Editing: Rachel O'Reilly
+<br/>Visualizations: Carlo de Gaetano
 <br/>Production: Sepp Eckenhaussen
 <br/>Cover design: Katja van Stiphout
+<br/>
+<br/>Supported by the Amsterdam University of Applied Sciences, Faculty of Digital Media and Creative Industries.
+<br/>
 <br/>Published by the Institute of Network Cultures, Amsterdam, 2019
 <br/>ISBN 978-94-92302-43-4
 
