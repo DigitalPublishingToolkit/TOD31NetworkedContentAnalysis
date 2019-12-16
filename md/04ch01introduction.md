@@ -54,7 +54,7 @@ stressed that researchers should describe all these dynamics of a
 controversy *without translating* what they observe into a more common
 or analytically familiar language. Steering clear of predefined keywords
 and categories enables researchers to better ‘follow the actors’ and log
-actors’ language, connections, and formats (Latour, 2007).[^03ch01introduction_3]
+actors’ language, connections, and formats.[^03ch01introduction_3]
 
 In Latour’s approach, the actors of a controversy may be found at a
 specific event or gathering, in a collection of writings, an e-mail
@@ -255,7 +255,7 @@ communication science under the name of ‘content analysis’. Content
 analysis was incepted to study given or demarcated bodies of content
 (often referred to as ‘texts’ but not limited to that format), to
 analyze both formal features (e.g. the shot lengths of a television
-show, or the column widths and word counts of a printed text, etc.) and
+show, or the column widths and word counts of a printed text) and
 ‘textual’ meanings (broadly defined) including themes, tropes, recurring
 topics and terms, all in order to make inferences about societal
 perceptions, cultural change, and trends in public opinion. A famous
@@ -472,17 +472,17 @@ the next section.
 
 Climate change as an issue has, in fact, been attended to with
 fine-grained content analysis methods since the early seventies. In his
-article *Up and Down with Ecology: the “Issue Attention Cycle”,* Anthony
+article *Up and Down with Ecology: The Issue-attention Cycle*, Anthony
 Downs described how the environment, like any societal issue, is subject
 to a rise and fall in public interest. He uses the notion of the ‘issue
 attention cycle’ to describe common dynamics in public attention that
 occur for ‘most key domestic issues’.[^03ch01introduction_46] Downs’ articulation of the
-issue attention cycle knows five stages: (1) the pre-problem stage, (2)
+issue-attention cycle knows five stages: (1) the pre-problem stage, (2)
 alarmed discovery and euphoric enthusiasm, (3) realization of the cost
 of significant progress, (4) gradual decline of intense public interest
 and, lastly, (5) the post-problem stage.[^03ch01introduction_47] Downs sees the ‘remarkably
 widespread upsurge of interest in the quality of our environment’ as
-involving such an issue attention cycle, in which the ‘change in public
+involving such an issue-attention cycle, in which the ‘change in public
 attitudes has been much faster than any changes in the environment
 itself’.[^03ch01introduction_48] Downs’ work has been subjected to strong criticism, mainly
 on the linearity assumed by his proposed cycle model, and on the
@@ -492,7 +492,7 @@ Shanahan.[^03ch01introduction_49] With these qualifications, analysts of media c
 taken up Downs’ approach and further extended its application to
 environment-related issues.
 
-In what they refer to as a ‘(de)construction’ of the issue attention
+In what they refer to as a ‘(de)construction’ of the issue-attention
 cycle for environmental issues, McComas and Shanahan compare the climate
 change news coverage of the major US newspapers, *The New York Times*
 and *The Washington Post*, between 1980-1995.[^03ch01introduction_50] Their research

@@ -22,7 +22,7 @@ Amsterdam and in collaboration with our research partners at Médialab
 Sciences Po, Density Design at Politecnico di Milano, and Digital
 Sociology at Goldsmith's University in London. This book has known a
 previous life, in the form of a Ph.D. dissertation with the University
-of Amsterdam Department of Media Studies. The feedback and suggestions
+of Amsterdam, Department of Media Studies. The feedback and suggestions
 provided by my supervisors, Prof. dr. José van Dijck and dr. Bernhard
 Rieder, as well as the impeccable proof-reading and copy-editing by
 Rachel O'Reilly, have proven invaluable.

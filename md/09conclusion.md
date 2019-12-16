@@ -613,7 +613,7 @@ research*. Here, platform technicities are not included in the study, as
 the researcher focuses on the story told by the content. A third
 approach is the combination of the two, asking both what the platform
 does to the content and what stories the content tells.[^08conclusion_29^08conclusion_30] This
-approach would be most suitable to Networked content analysis, where we
+approach would be most suitable to networked content analysis, where we
 could explicitly add how the platforms network content, and how content
 is ‘inter-linked, inter-liked and inter-hashtagged’.[^08conclusion_31] However,
 noting the size of data sets and the necessity of close reading, the
@@ -713,7 +713,7 @@ analysis, and description of networked content.
     https://wiki.digitalmethods.net/Dmi/TheCityAsInterface.
 
 [^08conclusion_23]: A project that explicitly deals with these questions is The
-    Knowledge Mile Atlas, in which I am working with information
+    Knowledge Mile Atlas, in which I have worked with information
     designers to create an atlas of a small urban area in Amsterdam.
     Here, we represent different online data sets of a geographic area
     by using different methods of geo-demarcation, data analysis, and

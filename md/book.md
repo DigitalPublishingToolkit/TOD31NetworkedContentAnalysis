@@ -71,19 +71,19 @@ By Klaus Krippendorff
 
 Communication scholarship was born at a time radio and television became a challenge to professional newspaper journalists and the emergence of novel theories of communication. While it borrowed investigative methods from existing disciplines – experiments from psychology, surveys from sociology, ethnography from anthropology, and last if not least took advantage of what the new communication technologies had to offer – it contributed three major methods. One was digitalization, which grew out of information theory and ushered in our developing communication infrastructure. The second was content analysis, the systematic study of what was communicated, largely by the media to the public. And the third was the idea of networks, who talks to whom, and what are the social and individual consequences of complex connections. Sabine Niederer’s Networked Content Analysis draws on all three indigenous contributions of communication scholarship.
 
-From its beginning, content analysis aimed at making unobtrusive inferences from texts to their context of use. Its ability to analyze bodies of texts larger than what any one analyst could read and interpret called for methodological precautions not typical in literary scholarship. In return, it revealed novel insights not available with smaller data: historical trends, comparisons across different sources, and support for theories not recognizable by unaided scholars, as Niederer shows. It was also adopted by numerous other disciplines concerned with phenomena that are constituted in linguistic communication. While the “content” that content analysis claimed to study remained metaphorical, often presented in terms of frequencies, this ambiguity invited statistical accounts not ordinarily encountered by informed readings of texts.
+From its beginning, content analysis aimed at making unobtrusive inferences from texts to their context of use. Its ability to analyze bodies of texts larger than what any one analyst could read and interpret called for methodological precautions not typical in literary scholarship. In return, it revealed novel insights not available with smaller data: historical trends, comparisons across different sources, and support for theories not recognizable by unaided scholars, as Niederer shows. It was also adopted by numerous other disciplines concerned with phenomena that are constituted in linguistic communication. While the 'content' that content analysis claimed to study remained metaphorical, often presented in terms of frequencies, this ambiguity invited statistical accounts not ordinarily encountered by informed readings of texts.
 
 For example, contingency analysis charts the proximities of selected concepts in various communications. Co-occurrences in texts were shown to correlate with authors and readers’ associations, manifest in their ability to recall them easily. Finding patterns of above and below chance contingencies provided a basis for inferences about the conceptual structures of individual authors as well as widely shared political, social, and cultural beliefs. These inferences were basically of a cognitive nature. Search engines vastly expanded the ability to discover co-occurrences in documents with three caveats: Search engines find strings of characters, words or phrases, not logically connected concepts. They are often insensitive of unequal proximities in documents, and when searching larger databases, leave somewhat uncertain what accounts for evident cooccurrences.   
 
 Tracing one authors’ references to other works and theirs to still other works is another example of content analyses pursuing connections, across documents not within them. There are of course numerous reasons for citing other publications, but familiarity with their authors or their ideas underlies all of them. Citation analysis revealed not only a single authors’ literary resources, but following the references of references could reveal how members of a discourse community hang together, the centrality of their individual contributions, where conceptions originate, and how diverse discourses influence each other. Citations are social acts and content analyses of citations offer considerable insights into how largely academic communities are organized and construct their objects. 
 
-Although the origin of the idea of hypertext has been traced to Ludwig Wittgenstein’s (1922) hierarchical system of numbering of comments on propositions and comments on comments in his Tractatus (Stern, 1996), it was not until the 1980s that digital texts enabled readers to click on links within a text to explore related matter, effectively enabling them to browse within a predefined textual universe. Hypertexts overcame the constraint of having to read text in the order it was written. It enabled readers to navigate their own paths through textual, visual, even auditory matter, towards their own intellectual goals. Content analyses of hypertexts had to chart the network of connections between the contexts of each link, a task that became quickly unmanageable without computational aids. Inferences from such networks are neither psychological nor social but have to do with the possible narratives one could extract from hypertexts. 
+Although the origin of the idea of hypertext has been traced to Ludwig Wittgenstein’s hierarchical system of numbering of comments on propositions and comments on comments in his Tractatus (1922), it was not until the 1980s that digital texts enabled readers to click on links within a text to explore related matter, effectively enabling them to browse within a predefined textual universe. Hypertexts overcame the constraint of having to read text in the order it was written. It enabled readers to navigate their own paths through textual, visual, even auditory matter, towards their own intellectual goals. Content analyses of hypertexts had to chart the network of connections between the contexts of each link, a task that became quickly unmanageable without computational aids. Inferences from such networks are neither psychological nor social but have to do with the possible narratives one could extract from hypertexts. 
 
 Evidently, the recognition of networks of connections constructed in processes of analyzing the content of bodies of text has a long history. However, Niederer’s Networked Content Analysis offers a quantum leap into the digital age. 
 
-Her work accepts the methodological premises of content analysis, appreciates its unobtrusive way of creating data, but adds tools and concepts to tackle the complexities of digitally available texts from Facebook, Twitter, blogs, websites, email, and electronic databases. While acknowledging the large volumes of online texts, to her credit, she is not letting herself be distracted by celebrating such volumes as some enthusiasts of quantification do, unrealistically believing that so-called “big data” could identify large social problems with easily obtained statistically significant findings. Instead she explores such texts as the networked products of the socio-technological nature of diverse online platforms. 
+Her work accepts the methodological premises of content analysis, appreciates its unobtrusive way of creating data, but adds tools and concepts to tackle the complexities of digitally available texts from Facebook, Twitter, blogs, websites, email, and electronic databases. While acknowledging the large volumes of online texts, to her credit, she is not letting herself be distracted by celebrating such volumes as some enthusiasts of quantification do, unrealistically believing that so-called 'big data' could identify large social problems with easily obtained statistically significant findings. Instead she explores such texts as the networked products of the socio-technological nature of diverse online platforms. 
 
-Niederer convincingly argues against treating social media as a mere alternative to one-way mass communications. For once, online texts rarely are single-authored and individually responded to. Their contents are the product of interactive collaborations, not only among individual contributors but also with diverse platforms that connect them. She argues that online content is platform-specific and accounts for their characteristics in terms of what she calls their “technicities.” To make sense of online communications, she insists, users and content analysts must come to terms with these technicities albeit in very different ways. She adopts two guiding observations that networked content analysis has to acknowledge. The first is that web content is increasingly accessed and organized through the use of different search engines and platforms. The second is that the technicity of communication can no longer be separated from the analysis of networked content. While users of digital media develop and employ their own competencies, she argues that content analysts of digital texts need to acquire platform specific tools and literacies to recognize the dimensionalities, processes, and networks that different platforms facilitate. For instance, search engines provide search results in ranked lists, Wikipedia cleans and organizes multi-authored texts with robots, and Twitter links texts through hashtags of up to 140 characters in length.   
+Niederer convincingly argues against treating social media as a mere alternative to one-way mass communications. For once, online texts rarely are single-authored and individually responded to. Their contents are the product of interactive collaborations, not only among individual contributors but also with diverse platforms that connect them. She argues that online content is platform-specific and accounts for their characteristics in terms of what she calls their 'technicities.' To make sense of online communications, she insists, users and content analysts must come to terms with these technicities albeit in very different ways. She adopts two guiding observations that networked content analysis has to acknowledge. The first is that web content is increasingly accessed and organized through the use of different search engines and platforms. The second is that the technicity of communication can no longer be separated from the analysis of networked content. While users of digital media develop and employ their own competencies, she argues that content analysts of digital texts need to acquire platform specific tools and literacies to recognize the dimensionalities, processes, and networks that different platforms facilitate. For instance, search engines provide search results in ranked lists, Wikipedia cleans and organizes multi-authored texts with robots, and Twitter links texts through hashtags of up to 140 characters in length.   
 
 A starter of networked content analysis is the use of computational methods to identify connections in large bodies of texts and generate visualizations of their multitudes, be they responses to tweets, references across documents, coinciding character strings, or links between websites. Such networks can be very complex and rarely lend themselves to simple narratives. For Niederer, visualizations of such networks can serve as navigational tools in conversations on how to proceed. To serve as such, analysts have to realize that such visualizations are the artifacts of the mapping algorithms that created them. To guide content analysts to answers to their research questions, these algorithms have to be compatible with the technicities that provided the analyzed texts. However, compatibility is not always demonstrable. For example, when the makeup of a platform is proprietary, as for Google’s search engines, the content analyst is limited to describe their technicities in terms of their results, by what they do. 
 
@@ -93,7 +93,7 @@ Aware of diverse technicities leads Niederer to qualify the effects of new media
 
 Niederer exemplifies networked content analysis by various applications to the debate of global climate change. Unlike traditional content analyses which tend to focus on biases in the form of unequal frequency distributions, explainable in psychological or sociological terms, the choice of a public controversy is well-suited to demonstrate its capabilities as online texts on a common themes include unlike actors advancing opposing arguments. To contextualize her exemplifications, Niederer situates the history and stakeholders in the climate change debate in the context of what public controversies consist of.
 
-In the network extracted from Wikipedia entries, the choice of “Global Warming” occupies a central node that is linked to numerous related issues, countries, economic issues, diseases, energy policies and scientific findings. Such a network can be looked at from numerous perspectives and be variously decomposed. 
+In the network extracted from Wikipedia entries, the choice of 'Global Warming' occupies a central node that is linked to numerous related issues, countries, economic issues, diseases, energy policies and scientific findings. Such a network can be looked at from numerous perspectives and be variously decomposed. 
 Realizing that the Wikipedia is naturally biased towards consistency, controversies can become manifest in the editorial changes of disputed features. So, one way of charting the heat of a controversy is by measuring the frequency of editing changes in climate-related entries. While individual editors are known only by their code names, Niederer describes algorithms to depict how many contribute to which entries and at which time, giving a sense of where the controversy takes place and the speed in which it moves. While it is not difficult to separate individual editors from robots, evidently the content of interest is inextricably tied to Wikipedia’s technicity. 
 
 Attending to a different technicity, Niederer also explores algorithms to identify networks within large bodies of tweets. Co-hashtag analysis resembles contingency analysis but reveals connections among clusters of similar tweets. The inferences she draws from these networks deal with issues of the vulnerability of different themes (areas in the world, phenomena, and actors) in the presence of threats (food, floods, diseases, and weather), issues of how skepticisms and conflicts migrate from one cluster to another, how clusters adapt over time. Evidently these conceptions are based on the texts used in tweets but inextricably linked to the nature of the Twitter platform that individuals learn to navigate and content analysts need to acknowledge to make sense of these data.
@@ -101,7 +101,7 @@ Attending to a different technicity, Niederer also explores algorithms to identi
 Sabine Niederer’s work responds to the changes that digital technology generally and diverse platforms for communicating among people in particular have introduced into our social world. Mass communication was a simple technicity. Contemporary communication is essentially networked. We create texts not just for particular addressees, but selectively rehash, redistribute, copy, and modify texts without being always cognizant what they do. The essence of online communication is no longer what is said but the networks we implicitly create, sustain, reawaken, or let go of. Networked content analysis begins to recognize the socio-technological infrastructure of our contemporary existence. It is a fascinating step into the future and well worth taking seriously and develop.     
 
 ###References
-D. Stern. *The University of Iowa Tractatus Map.* (Iowa City: Iowa UP, 1996), http://tractatus.lib.uiowa.edu/.
+D. Stern. 'The University of Iowa Tractatus Map'. Iowa UP, 1996, http://tractatus.lib.uiowa.edu/.
 
 L. Wittgenstein. *Tractatus Logico-Philosophicus* (New York: Harcourt, Brace & Co, 1922).
 
@@ -147,7 +147,7 @@ stressed that researchers should describe all these dynamics of a
 controversy *without translating* what they observe into a more common
 or analytically familiar language. Steering clear of predefined keywords
 and categories enables researchers to better ‘follow the actors’ and log
-actors’ language, connections, and formats (Latour, 2007).[^03ch01introduction_3]
+actors’ language, connections, and formats.[^03ch01introduction_3]
 
 In Latour’s approach, the actors of a controversy may be found at a
 specific event or gathering, in a collection of writings, an e-mail
@@ -348,7 +348,7 @@ communication science under the name of ‘content analysis’. Content
 analysis was incepted to study given or demarcated bodies of content
 (often referred to as ‘texts’ but not limited to that format), to
 analyze both formal features (e.g. the shot lengths of a television
-show, or the column widths and word counts of a printed text, etc.) and
+show, or the column widths and word counts of a printed text) and
 ‘textual’ meanings (broadly defined) including themes, tropes, recurring
 topics and terms, all in order to make inferences about societal
 perceptions, cultural change, and trends in public opinion. A famous
@@ -565,17 +565,17 @@ the next section.
 
 Climate change as an issue has, in fact, been attended to with
 fine-grained content analysis methods since the early seventies. In his
-article *Up and Down with Ecology: the “Issue Attention Cycle”,* Anthony
+article *Up and Down with Ecology: The Issue-attention Cycle*, Anthony
 Downs described how the environment, like any societal issue, is subject
 to a rise and fall in public interest. He uses the notion of the ‘issue
 attention cycle’ to describe common dynamics in public attention that
 occur for ‘most key domestic issues’.[^03ch01introduction_46] Downs’ articulation of the
-issue attention cycle knows five stages: (1) the pre-problem stage, (2)
+issue-attention cycle knows five stages: (1) the pre-problem stage, (2)
 alarmed discovery and euphoric enthusiasm, (3) realization of the cost
 of significant progress, (4) gradual decline of intense public interest
 and, lastly, (5) the post-problem stage.[^03ch01introduction_47] Downs sees the ‘remarkably
 widespread upsurge of interest in the quality of our environment’ as
-involving such an issue attention cycle, in which the ‘change in public
+involving such an issue-attention cycle, in which the ‘change in public
 attitudes has been much faster than any changes in the environment
 itself’.[^03ch01introduction_48] Downs’ work has been subjected to strong criticism, mainly
 on the linearity assumed by his proposed cycle model, and on the
@@ -585,7 +585,7 @@ Shanahan.[^03ch01introduction_49] With these qualifications, analysts of media c
 taken up Downs’ approach and further extended its application to
 environment-related issues.
 
-In what they refer to as a ‘(de)construction’ of the issue attention
+In what they refer to as a ‘(de)construction’ of the issue-attention
 cycle for environmental issues, McComas and Shanahan compare the climate
 change news coverage of the major US newspapers, *The New York Times*
 and *The Washington Post*, between 1980-1995.[^03ch01introduction_50] Their research
@@ -3855,7 +3855,7 @@ could show up ongoing differences in points of view on the events of
 July 1995 in Srebrenica, through a method of comparing various language
 versions of the article on the Srebrenica Massacre.[^06ch04_72]
 
-The content demarcated for this comparative analysis consists of six
+The analysis compares six
 language versions of the article on the ‘Srebrenica Massacre’, namely
 the English, Dutch, Bosnian, Serbian, Croatian, and Serbo-Croatian
 versions. The content used for comparison contains the common parts of
@@ -4105,7 +4105,7 @@ understanding of the substance, composition, actor alignment, trajectory
 and liveliness of controversies on Wikipedia’.[^06ch04_91] This commitment to
 the co-development of, essentially, a publicly available tool for
 networked content analysis, is perhaps a sign of this practice that I am
-outlining in this thesis starting to take form further, and is confirmed
+outlining here starting to take form further, and is confirmed
 as necessary for public and civic sector needs. Contropedia is specific
 to Wikipedia, and could even help to refine the impact and relevance of
 the Wikipedia project, and will clearly provide a powerful tool for a
@@ -4210,8 +4210,7 @@ Asking what kind of climate change debate Wikipedia puts forward, I want
 to conclude that Wikipedia offers critical insights into the
 socio-technics of online knowledge production and controversy
 management. However different its technicity is from other parts of the
-web, Wikipedia shares a capacity alongside the other platforms of this
-thesis to be extremely useful for the study of actor commitment. The
+web, Wikipedia shares a capacity alongside the other platforms discussed here to be extremely useful for the study of actor commitment. The
 mass migration of editors of the main article on climate change to the
 forked debate article, for instance, yet again underlines the skeptics’
 commitment to debate *as such*, rather than to climate change as a
@@ -4820,7 +4819,7 @@ Twitter hashtag clusters.
 Twitter has been analyzed as a source of *happening* *content* and
 *fresh data*, as a site for *real-time research*, as a platform with a
 ‘dual nature of information source and conversation enabler’[^07ch05_45], and
-as an ‘(archived) data set and anticipatory medium’.[^07ch05_46] [^07ch05_47] [^07ch05_48]
+as an (archived) data set as well as an anticipatory medium.[^07ch05_46] [^07ch05_47] [^07ch05_48]
 Methods and tools for capturing and analyzing this real-time data have
 been developed for instance by Bruns and Liang, who study Twitter as an
 important channel for crisis communication during and after natural
@@ -4858,8 +4857,7 @@ describes how ‘vulnerability has become a popular concept in a very
 diverse set of research fields’ in projects ranging from ‘studies of
 vulnerability to terrorism, to poverty, to computer viruses, to oil
 spills, to globalisation, to radiation, to SARS, to earthquakes, to
-financial collapse, to political change, and so on’.[^07ch05_56] Importantly
-for this thesis, the particular connection I want to make between
+financial collapse, to political change, and so on’.[^07ch05_56] Importantly, the particular connection I want to make between
 climate vulnerability and conflict has been steadily gaining attention
 in both scholarly research and popular media outlets. Following the
 publication of a research article on climate and conflict by Hsiang,
@@ -5363,9 +5361,7 @@ what is at stake.
     data points did I get?) and precision (how many of these data points
     are relevant?).
 
-[^07ch05_14]: (boyd et al., 2010; Gerlitz & Rieder, 2013; Smyrnaios & Rieder,
-    2013)\# boyd et al. ‘Tweet, Tweet, Retweet’. Gerlitzand and Rieder,
-    'Mining One Percent of Twitter’. Smyrnaion and Rieder, 'Social
+[^07ch05_14]: Smyrnaion and Rieder, 'Social
     Infomediation of News on Twitter’.
 
 [^07ch05_15]: boyd et al. ‘Tweet, Tweet, Retweet’, 2.
@@ -5476,8 +5472,7 @@ what is at stake.
 
 [^07ch05_36]: Venturini et al. ‘Climaps by EMAPS in 2 Pages'.
 
-[^07ch05_37]: Shirky, *Here Comes Everybody.* Sullivan, ‘The Revolution Will Be
-    Twittered’.
+[^07ch05_37]: Shirky, *Here Comes Everybody.*
 
 [^07ch05_38]: Z. Tufekci and C. Wilson, 'Social Media and the Decision to
     Participate in Political Protest: Observations from Tahrir Square',
@@ -6460,7 +6455,7 @@ research*. Here, platform technicities are not included in the study, as
 the researcher focuses on the story told by the content. A third
 approach is the combination of the two, asking both what the platform
 does to the content and what stories the content tells.[^08conclusion_29^08conclusion_30] This
-approach would be most suitable to Networked content analysis, where we
+approach would be most suitable to networked content analysis, where we
 could explicitly add how the platforms network content, and how content
 is ‘inter-linked, inter-liked and inter-hashtagged’.[^08conclusion_31] However,
 noting the size of data sets and the necessity of close reading, the
@@ -6560,7 +6555,7 @@ analysis, and description of networked content.
     https://wiki.digitalmethods.net/Dmi/TheCityAsInterface.
 
 [^08conclusion_23]: A project that explicitly deals with these questions is The
-    Knowledge Mile Atlas, in which I am working with information
+    Knowledge Mile Atlas, in which I have worked with information
     designers to create an atlas of a small urban area in Amsterdam.
     Here, we represent different online data sets of a geographic area
     by using different methods of geo-demarcation, data analysis, and
@@ -7538,7 +7533,7 @@ Amsterdam and in collaboration with our research partners at Médialab
 Sciences Po, Density Design at Politecnico di Milano, and Digital
 Sociology at Goldsmith's University in London. This book has known a
 previous life, in the form of a Ph.D. dissertation with the University
-of Amsterdam Department of Media Studies. The feedback and suggestions
+of Amsterdam, Department of Media Studies. The feedback and suggestions
 provided by my supervisors, Prof. dr. José van Dijck and dr. Bernhard
 Rieder, as well as the impeccable proof-reading and copy-editing by
 Rachel O'Reilly, have proven invaluable.

@@ -108,10 +108,6 @@ Articles', in *CHI’15: 33rd Annual ACM Conference on Human Factors in
 Computing Systems*, 2015,
 http://www.contropedia.net/publications/Borra%20et%20al.%20-%202015%20-%20Societal%20Controversies%20in%20Wikipedia%20Articles%20-%20post-print.pdf.
 
-Burkhart, K. 'Organizing for Action Delivers Unicorn Trophies to 135
-Climate Deniers in Congress', *The Huffington Post*, 13 August 2013,
-http://www.huffingtonpost.com/2013/08/13/organizing-for-action-climate-deniers\_n\_3750126.html.
-
 boyd, danah, S. Golder, and G. Lotan. 'Tweet, Tweet, Retweet:
 Conversational Aspects of Retweeting on Twitter', in *43rd Hawaii
 International Conference on System Sciences (HICSS),* 2010.
